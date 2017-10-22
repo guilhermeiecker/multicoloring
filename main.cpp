@@ -132,7 +132,7 @@ int main(int argc, char** argv)
 		}
 
 		if(mtcol){
-			vars.Set("VType", "B");
+			vars->Set("VType", "B");
 			model.update();
 			model.optimize();
 
