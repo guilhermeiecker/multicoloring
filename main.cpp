@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 		cout << "Missing arguments!" << endl;
 		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
 		return 0;
-	}	
+	}
 
 	clock_t t, tt, ttt;
 
@@ -40,7 +40,9 @@ int main(int argc, char** argv)
 
 	bool mtcol;
 	uint64_t links, fsets, delta;
-	double objfn;
+	double lpZ, ipZ;
+
+	lpZ = ipZ = 0.0;
 
 	srand(netid);
 
@@ -52,7 +54,7 @@ int main(int argc, char** argv)
 		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t1\t0.0\t0.0\t0.0" << endl;
 		return 0;
 	}
-	
+
 	if(links > 128) {
 		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t2\t0.0\t0.0\t0.0" << endl;
 		return 0;
@@ -60,13 +62,13 @@ int main(int argc, char** argv)
 
 	remove(name.c_str());
 	outfile.open(name, ios::binary | ios::out);
-			       	
+
 	enumerator = new Enumerator(network, &outfile);
 	enumerator->find_fset_entry();
 	fsets = enumerator->get_fset();
-			
+
 	outfile.close();
-			
+
 	if(fsets == 0) {
                 tt = clock();
                 cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t3\t" <<  double(tt - t) / CLOCKS_PER_SEC << "\t0.0\t" << double(tt - t) / CLOCKS_PER_SEC  << endl;
@@ -88,13 +90,13 @@ int main(int argc, char** argv)
 		model.set("Method", "0");
 		model.getEnv().set(GRB_IntParam_OutputFlag, 0);
 		model.getEnv().set("Presolve", "0");
-				
+
 		GRBLinExpr objective = 0;
 		GRBLinExpr* constraints = new GRBLinExpr[links];
 		fill(constraints, constraints + links, 0);
 		GRBVar* vars = model.addVars(fsets, GRB_CONTINUOUS);
-				
-		uint128_t p, q;		
+
+		uint128_t p, q;
 		uint64_t r, idx;
 		for(uint64_t j = 0; j < fsets; j++) {
 		        objective += vars[j];
@@ -118,16 +120,24 @@ int main(int argc, char** argv)
 
 		model.optimize();
 
-		objfn = model.get(GRB_DoubleAttr_ObjVal);
+		lpZ = model.get(GRB_DoubleAttr_ObjVal);
 		mtcol = false;
 		double y;
 		for (uint64_t i = 0; i < fsets; i++) {
 			y = vars[i].get(GRB_DoubleAttr_X);
 			if((y > 0.0) && (y < 1.0)) {
-				cout << i << y << endl;
 				mtcol = true;
-				//break;
+				break;
 			}
+		}
+
+		if(mtcol){
+			vars.Set("VType", "B");
+			model.update();
+			model.optimize();
+
+			ipZ = model.get(GRB_DoubleAttr_ObjVal);
+			mtcol = (ipZ == lpZ) ? false : true;
 		}
 
 		delete[] vars;
@@ -140,9 +150,12 @@ int main(int argc, char** argv)
 		cout << "Exception during optimization" << endl;
 		return 0;
 	}
-	
+
 	ttt = clock();
-        cout << mtcol << "\t" << objfn << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << double(ttt - tt) / CLOCKS_PER_SEC << "\t" << double(ttt - t) / CLOCKS_PER_SEC << endl;
+  cout << mtcol << "\t" << lpZ << "\t" << ipZ << "\t0\t"
+			 << double(tt - t) / CLOCKS_PER_SEC << "\t"
+			 << double(ttt - tt) / CLOCKS_PER_SEC << "\t"
+			 << double(ttt - t) / CLOCKS_PER_SEC << endl;
 
 	return 0;
 }
