@@ -4,6 +4,7 @@
 #include <fstream>	// ifstream, ofstream
 #include <iomanip>      // std::setprecision
 #include <ctime>	// clock
+#include <iomanip>      // std::setprecision
 
 #include "Enumerator.h"
 #include "gurobi_c++.h"
@@ -21,7 +22,7 @@ int main(int argc, char** argv)
 		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
 		return 0;
 	}
-
+	
 	clock_t t, tt, ttt;
 
 	t = clock();
@@ -29,6 +30,9 @@ int main(int argc, char** argv)
         double aside = (double)atof(argv[1]);
         int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
+	
+	//if(netid==1)
+	//	cout << "aside\tnetid\tnodes\tdelta\tlinks\tfsets\tmtcol\tlpZ\tipZ\tsflag\tetime\totime\tttime" << endl;
 
 	string name = NETWORKS_PATH + to_string(nodes) + "-" + to_string((int)aside) + ".dat";
 
@@ -42,8 +46,6 @@ int main(int argc, char** argv)
 	uint64_t links, fsets, delta;
 	double lpZ, ipZ;
 
-	lpZ = ipZ = 0.0;
-
 	srand(netid);
 
 	network = new Network(nodes, aside, 300.0);
@@ -51,12 +53,12 @@ int main(int argc, char** argv)
 	delta = network->get_delta();
 
 	if(links == 0) {
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t1\t0.0\t0.0\t0.0" << endl;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t0.0\t1\t0.0\t0.0\t0.0" << endl;
 		return 0;
 	}
 
 	if(links > 128) {
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t2\t0.0\t0.0\t0.0" << endl;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t0.0\t2\t0.0\t0.0\t0.0" << endl;
 		return 0;
 	}
 
@@ -71,7 +73,7 @@ int main(int argc, char** argv)
 
 	if(fsets == 0) {
                 tt = clock();
-                cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t3\t" <<  double(tt - t) / CLOCKS_PER_SEC << "\t0.0\t" << double(tt - t) / CLOCKS_PER_SEC  << endl;
+                cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t0.0\t3\t" <<  double(tt - t) / CLOCKS_PER_SEC << "\t0.0\t" << double(tt - t) / CLOCKS_PER_SEC  << endl;
 		remove(name.c_str());
 		return 0;
 	}
@@ -120,7 +122,7 @@ int main(int argc, char** argv)
 
 		model.optimize();
 
-		lpZ = model.get(GRB_DoubleAttr_ObjVal);
+		ipZ = lpZ = model.get(GRB_DoubleAttr_ObjVal);
 		mtcol = false;
 		double y;
 		for (uint64_t i = 0; i < fsets; i++) {
@@ -132,12 +134,12 @@ int main(int argc, char** argv)
 		}
 
 		if(mtcol){
-			vars->Set(GRB_CharAttr_VType, "B");
+			for (uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
 			model.update();
 			model.optimize();
-
+			
 			ipZ = model.get(GRB_DoubleAttr_ObjVal);
-			mtcol = (ipZ == lpZ) ? false : true;
+			mtcol = (lpZ < ipZ) ? true : false;
 		}
 
 		delete[] vars;
@@ -152,7 +154,7 @@ int main(int argc, char** argv)
 	}
 
 	ttt = clock();
-  cout << mtcol << "\t" << lpZ << "\t" << ipZ << "\t0\t"
+	cout << mtcol << "\t"  << lpZ << "\t" << ipZ << "\t0\t"
 			 << double(tt - t) / CLOCKS_PER_SEC << "\t"
 			 << double(ttt - tt) / CLOCKS_PER_SEC << "\t"
 			 << double(ttt - t) / CLOCKS_PER_SEC << endl;
