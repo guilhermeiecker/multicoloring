@@ -1,29 +1,21 @@
 #!/bin/bash
+# reads files of the format
+# aside | netid | nodes | links | fsets | multi | objfn | sflag | time
+# writes files of the format
+# aside | netid | nodes | links | fsets | multi | zlp   | zip   | sflag | ttime
 
-LINE=''
-FLAG=()
-
-for AREA in 8000 7000
-#for AREA in 6000 5000 4000 3000 2000 1000
-do 
-	for SEED in {3..100}
+for AREA in 10000 9000 8000 7000 6000
+do
+	for NODE in {2..120}
 	do
-		for NODE in {40..120}
-#		for NODE in 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200
-		do
-			#./main $AREA $NODE $SEED >> output | awk -F $'\t' '{ if ($8 == 1) print $FLAG = $3}' | tee output
-			echo "./main $AREA $SEED $NODE" 
-                        LINE="$(./main $AREA $SEED $NODE)"
-			echo $LINE >> results/$AREA-$NODE.txt
-			IFS=$'\t' read -ra FLAG <<< "$LINE"
-			if [ ${FLAG[9]} -gt 2 ]
-			then
-				break
-			fi
-			if [ ${FLAG[9]} -gt 3 ]
-                        then
-                                break
-                        fi
-		done
+		while read line; do
+			IFS=', ' read -r -a array <<< "$line"
+			if [ ${array[5]} -gt 1 ]
+      then
+        ./main ${array[0]} ${array[1]} ${array[2]} >> results/${array[0]}-${array[2]}.txt
+			else
+				echo "${array[0]}\t${array[1]}\t${array[2]}\t${array[3]}\t${array[4]}\t${array[5]}\t${array[6]}\t${array[6]}\t${array[6]}\t${array[7]}\t${array[8]}" >> results/${array[0]}-${array[2]}.txt
+      fi
+		done <"/home/guilherme/physmodel/results/$AREA-$NODE.txt"
 	done
 done

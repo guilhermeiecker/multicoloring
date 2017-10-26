@@ -16,23 +16,23 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	if(argc != 4)
+	if(argc != 5)
 	{
 		cout << "Missing arguments!" << endl;
 		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
 		return 0;
 	}
-	
+
 	clock_t t, tt, ttt;
 
 	t = clock();
 
-        double aside = (double)atof(argv[1]);
-        int    netid = atoi(argv[2]);
+	double aside = (double)atof(argv[1]);
+	int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
-	
+	double zLP   = (double)atof(argv[4]);
 	//if(netid==1)
-	//	cout << "aside\tnetid\tnodes\tdelta\tlinks\tfsets\tmtcol\tlpZ\tipZ\tsflag\tetime\totime\tttime" << endl;
+	//	cout << "aside\tnetid\tnodes\tlinks\tfsets\tmulti\tlpZ\tipZ\tsflag\ttime" << endl;
 
 	string name = NETWORKS_PATH + to_string(nodes) + "-" + to_string((int)aside) + ".dat";
 
@@ -43,24 +43,13 @@ int main(int argc, char** argv)
 	Enumerator* enumerator;
 
 	bool mtcol;
-	uint64_t links, fsets, delta;
-	double lpZ, ipZ;
+	uint64_t links, fsets;
+	double zIP;
 
 	srand(netid);
 
 	network = new Network(nodes, aside, 300.0);
 	links = network->get_links().size();
-	delta = network->get_delta();
-
-	if(links == 0) {
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t0.0\t1\t0.0\t0.0\t0.0" << endl;
-		return 0;
-	}
-
-	if(links > 128) {
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t0.0\t2\t0.0\t0.0\t0.0" << endl;
-		return 0;
-	}
 
 	remove(name.c_str());
 	outfile.open(name, ios::binary | ios::out);
@@ -71,19 +60,10 @@ int main(int argc, char** argv)
 
 	outfile.close();
 
-	if(fsets == 0) {
-                tt = clock();
-                cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t0\t0\t0.0\t0.0\t3\t" <<  double(tt - t) / CLOCKS_PER_SEC << "\t0.0\t" << double(tt - t) / CLOCKS_PER_SEC  << endl;
-		remove(name.c_str());
-		return 0;
-	}
-
-	cout << aside << "\t" << netid << "\t" << nodes << "\t" << delta << "\t" << links << "\t" << fsets << "\t" << flush;
+	cout << aside << "\t" << netid << "\t" << nodes << "\t" << links << "\t" << fsets << "\t" << flush;
 
 	delete enumerator;
 	delete network;
-
-	tt = clock();
 
 	infile.open(name, ios::binary);
 	try {
@@ -96,7 +76,7 @@ int main(int argc, char** argv)
 		GRBLinExpr objective = 0;
 		GRBLinExpr* constraints = new GRBLinExpr[links];
 		fill(constraints, constraints + links, 0);
-		GRBVar* vars = model.addVars(fsets, GRB_CONTINUOUS);
+		GRBVar* vars = model.addVars(fsets, GRB_BINARY);
 
 		uint128_t p, q;
 		uint64_t r, idx;
@@ -122,25 +102,8 @@ int main(int argc, char** argv)
 
 		model.optimize();
 
-		ipZ = lpZ = model.get(GRB_DoubleAttr_ObjVal);
-		mtcol = false;
-		double y;
-		for (uint64_t i = 0; i < fsets; i++) {
-			y = vars[i].get(GRB_DoubleAttr_X);
-			if((y > 0.0) && (y < 1.0)) {
-				mtcol = true;
-				break;
-			}
-		}
-
-		if(mtcol){
-			for (uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
-			model.update();
-			model.optimize();
-			
-			ipZ = model.get(GRB_DoubleAttr_ObjVal);
-			mtcol = (lpZ < ipZ) ? true : false;
-		}
+		zIP = model.get(GRB_DoubleAttr_ObjVal);
+		mtcol = (zLP < zIP) ? true : false;
 
 		delete[] vars;
 	}
@@ -153,11 +116,8 @@ int main(int argc, char** argv)
 		return 0;
 	}
 
-	ttt = clock();
-	cout << mtcol << "\t"  << lpZ << "\t" << ipZ << "\t0\t"
-			 << double(tt - t) / CLOCKS_PER_SEC << "\t"
-			 << double(ttt - tt) / CLOCKS_PER_SEC << "\t"
-			 << double(ttt - t) / CLOCKS_PER_SEC << endl;
+	tt = clock();
+	cout << mtcol << "\t"  << zLP << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
 
 	return 0;
 }
