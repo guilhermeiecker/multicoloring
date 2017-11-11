@@ -91,7 +91,8 @@ void Network::set_links() {
 			if (dist <= max_range) {
 				i->inc_degree();
 				j->inc_degree();
-				pr = (dist > d0) ? pow(10.0, ((tpower_dBm - l0_dB - 10*alpha*log10(dist / d0))/10.0)) : pow(10.0, ((tpower_dBm - l0_dB) / 10.0));
+				if (dis > d0) pr = pow(10.0, ((tpower_dBm - l0_dB - 10*alpha*log10(dist / d0))/10.0));
+				else pr = pow(10.0, ((tpower_dBm - l0_dB) / 10.0));
 				links.push_back(Link(&(*i), &(*j), index++, dist, pr));
 			}
 		}

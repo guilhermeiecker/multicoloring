@@ -5,11 +5,14 @@
 #include <iomanip>      // std::setprecision
 #include <ctime>	// clock
 #include <iomanip>      // std::setprecision
+#include <math.h>	// ceil, floor
 
 #include "Enumerator.h"
 #include "gurobi_c++.h"
 
 #define NETWORKS_PATH "networks/"
+#define EPSILON 0.0000000001
+
 typedef unsigned __int128 uint128_t;
 
 using namespace std;
@@ -23,7 +26,7 @@ int main(int argc, char** argv)
 		return 0;
 	}
 
-	clock_t t, tt, ttt;
+	clock_t t, tt;
 
 	t = clock();
 
@@ -31,8 +34,13 @@ int main(int argc, char** argv)
 	int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
 	double zLP   = (double)atof(argv[4]);
-	//if(netid==1)
-	//	cout << "aside\tnetid\tnodes\tlinks\tfsets\tmulti\tlpZ\tipZ\tsflag\ttime" << endl;
+
+	double upper, lower;
+	upper = ceil(zLP);
+	lower = floor(zLP);
+
+	if((upper - zLP) < EPSILON) zLP = upper;
+	if((zLP - lower) < EPSILON) zLP = lower;
 
 	string name = NETWORKS_PATH + to_string(nodes) + "-" + to_string((int)aside) + ".dat";
 
@@ -70,8 +78,8 @@ int main(int argc, char** argv)
 		GRBEnv env = GRBEnv();
 		GRBModel model = GRBModel(env);
 		model.set("Method", "0");
+		model.getEnv().set(GRB_DoubleParam_TimeLimit, 1800.0);
 		model.getEnv().set(GRB_IntParam_OutputFlag, 0);
-		//model.getEnv().set("Presolve", "0");
 
 		GRBLinExpr objective = 0;
 		GRBLinExpr* constraints = new GRBLinExpr[links];
@@ -103,23 +111,21 @@ int main(int argc, char** argv)
 		model.optimize();
 
 		zIP = model.get(GRB_DoubleAttr_ObjVal);
+
 		if(zLP < zIP) mtcol = true;
 		else mtcol = false;
-		//mtcol = (zLP < zIP) ? true : false;
 
 		delete[] vars;
+
+		tt = clock();
+		cout << mtcol << "\t"  << zLP << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
+
+		return 0;
 	}
 	catch(GRBException e) {
 		cout << "Error code = " << e.getErrorCode() << endl;
-		return 0;
 	}
 	catch(...) {
 		cout << "Exception during optimization" << endl;
-		return 0;
 	}
-
-	tt = clock();
-	cout << mtcol << "\t"  << zLP << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
-
-	return 0;
 }
