@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 		GRBModel model = GRBModel(env);
 		model.set("Method", "0");
 		model.getEnv().set(GRB_IntParam_OutputFlag, 0);
-		model.getEnv().set("Presolve", "0");
+		//model.getEnv().set("Presolve", "0");
 
 		GRBLinExpr objective = 0;
 		GRBLinExpr* constraints = new GRBLinExpr[links];
@@ -103,7 +103,9 @@ int main(int argc, char** argv)
 		model.optimize();
 
 		zIP = model.get(GRB_DoubleAttr_ObjVal);
-		mtcol = (zLP < zIP) ? true : false;
+		if(zLP < zIP) mtcol = true;
+		else mtcol = false;
+		//mtcol = (zLP < zIP) ? true : false;
 
 		delete[] vars;
 	}

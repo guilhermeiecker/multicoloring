@@ -4,18 +4,20 @@
 # writes files of the format
 # aside | netid | nodes | links | fsets | multi | zlp   | zip   | sflag | ttime
 
-for AREA in 10000 9000 8000 7000 6000
+for AREA in 10000 9000 8000
 do
-	for NODE in {2..120}
+	for NODE in {119..120}
 	do
 		while read line; do
-			IFS=', ' read -r -a array <<< "$line"
-			if [ ${array[5]} -gt 1 ]
-      then
-        ./main ${array[0]} ${array[1]} ${array[2]} >> results/${array[0]}-${array[2]}.txt
+			echo $line
+			IFS="	" read -r -a array <<< "$line"
+			if [ ${array[5]} -eq 1 ]
+			then
+        			LINE="$(./main.exe ${array[0]} ${array[1]} ${array[2]} ${array[6]})" 
+				echo $LINE >> results/${array[0]}-${array[2]}.txt
 			else
-				echo "${array[0]}\t${array[1]}\t${array[2]}\t${array[3]}\t${array[4]}\t${array[5]}\t${array[6]}\t${array[6]}\t${array[6]}\t${array[7]}\t${array[8]}" >> results/${array[0]}-${array[2]}.txt
-      fi
-		done <"/home/guilherme/physmodel/results/$AREA-$NODE.txt"
+			echo "${array[0]}	${array[1]}	${array[2]}	${array[3]}	${array[4]}	${array[5]}	${array[6]}	${array[6]}	${array[7]}	${array[8]}	${array[9]}" >> results/${array[0]}-${array[2]}.txt
+      			fi
+		done <"/home/guilherme/data/$AREA-$NODE.txt"
 	done
 done
