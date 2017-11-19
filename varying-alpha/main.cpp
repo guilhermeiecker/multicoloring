@@ -1,17 +1,10 @@
-#include <iostream>	// cout
+#include <iostream>	// cout, endl
 #include <stdint.h>	// uint64_t
-#include <stdio.h>
-#include <fstream>	// ifstream, ofstream
 #include <iomanip>      // std::setprecision
 #include <ctime>	// clock
-#include <iomanip>      // std::setprecision
-#include <math.h>	// ceil, floor
 
 #include "Enumerator.h"
 #include "gurobi_c++.h"
-
-#define NETWORKS_PATH "networks/"
-#define EPSILON 0.0000000001
 
 typedef unsigned __int128 uint128_t;
 
@@ -19,64 +12,49 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	if(argc != 5)
+	if(argc != 4)
 	{
 		cout << "Missing arguments!" << endl;
 		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
 		return 0;
 	}
 
-	clock_t t, tt;
+	clock_t t, tt, ttt, tttt;
 
-	t = clock();
 
 	double aside = (double)atof(argv[1]);
 	int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
-	double zLP   = (double)atof(argv[4]);
+	double alpha = (double)atof(argv[2]);
 
-	double upper, lower;
-	upper = ceil(zLP);
-	lower = floor(zLP);
-
-	if((upper - zLP) < EPSILON) zLP = upper;
-	if((zLP - lower) < EPSILON) zLP = lower;
-
-	string name = NETWORKS_PATH + to_string(nodes) + "-" + to_string((int)aside) + ".dat";
-
-	ofstream outfile;
-	ifstream infile;
+	uint64_t links, fsets;
+	double x, zLP, zIP;
+	double etime, ltime, itime; // etime: enumeration time; ltime: simplex time; itime: b&b time	
 
 	Network* network;
 	Enumerator* enumerator;
 
-	bool mtcol;
-	uint64_t links, fsets;
-	double zIP;
+	GRBEnv env = GRBEnv();
+	GRBModel model = GRBModel(env);
 
 	srand(netid);
 
-	network = new Network(nodes, aside, 300.0);
+	network = new Network(nodes, aside, 300.0, alpha);
 	links = network->get_links().size();
+	
+	t = clock();
 
-	remove(name.c_str());
-	outfile.open(name, ios::binary | ios::out);
-
-	enumerator = new Enumerator(network, &outfile);
+	enumerator = new Enumerator(network, &model);
 	enumerator->find_fset_entry();
 	fsets = enumerator->get_fset();
-
-	outfile.close();
-
-	cout << aside << "\t" << netid << "\t" << nodes << "\t" << links << "\t" << fsets << "\t" << flush;
 
 	delete enumerator;
 	delete network;
 
+	tt = clock();
+
 	infile.open(name, ios::binary);
 	try {
-		GRBEnv env = GRBEnv();
-		GRBModel model = GRBModel(env);
 		model.set("Method", "0");
 		//model.getEnv().set(GRB_DoubleParam_TimeLimit, 1800.0);
 		model.getEnv().set(GRB_IntParam_OutputFlag, 0);
@@ -112,13 +90,12 @@ int main(int argc, char** argv)
 
 		zIP = model.get(GRB_DoubleAttr_ObjVal);
 
-		if(zLP < zIP) mtcol = true;
-		else mtcol = false;
-
 		delete[] vars;
 
 		tt = clock();
-		cout << mtcol << "\t"  << zLP << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
+
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << links << "\t" << fsets << "\t" << flush;
+		cout << mtcol << "\t" << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
 
 		return 0;
 	}

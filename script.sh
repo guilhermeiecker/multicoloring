@@ -4,7 +4,7 @@
 # writes files of the format
 # aside | netid | nodes | links | fsets | multi | zlp   | zip   | sflag | ttime
 
-for AREA in 9000 8000
+for AREA in 7000 6000
 do
 	//for NODE in {119..120}
 	for NODE in 10 20 30 40 50 60 70 80 90 100

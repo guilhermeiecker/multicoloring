@@ -1,0 +1,1628 @@
+desc: --massif-out-file=10000-50-80-massif
+cmd: ./main.exe 10000 50 80
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=1705474
+mem_heap_B=30
+mem_heap_extra_B=10
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=3071383
+mem_heap_B=17113
+mem_heap_extra_B=791
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=4301921
+mem_heap_B=17433
+mem_heap_extra_B=791
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=4
+#-----------
+time=6143946
+mem_heap_B=17561
+mem_heap_extra_B=807
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=5
+#-----------
+time=9857056
+mem_heap_B=17569
+mem_heap_extra_B=823
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=6
+#-----------
+time=10131303
+mem_heap_B=17625
+mem_heap_extra_B=815
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=7
+#-----------
+time=15840396
+mem_heap_B=17753
+mem_heap_extra_B=823
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=8
+#-----------
+time=15841912
+mem_heap_B=17689
+mem_heap_extra_B=815
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=9
+#-----------
+time=18847037
+mem_heap_B=17697
+mem_heap_extra_B=831
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=10
+#-----------
+time=19121101
+mem_heap_B=17753
+mem_heap_extra_B=823
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=11
+#-----------
+time=28362260
+mem_heap_B=9561
+mem_heap_extra_B=815
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=12
+#-----------
+time=29365240
+mem_heap_B=100625
+mem_heap_extra_B=11887
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=13
+#-----------
+time=30606804
+mem_heap_B=184457
+mem_heap_extra_B=12023
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=14
+#-----------
+time=31809547
+mem_heap_B=193551
+mem_heap_extra_B=12049
+mem_stacks_B=0
+heap_tree=detailed
+n19: 193551 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n2: 16160 0x52D5A5B: PRIVATE000000000055ac18 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8080 0x52DD48F: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8080 0x406605: main (main.cpp:69)
+  n1: 8080 0x52BC216: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 8080 0x406605: main (main.cpp:69)
+ n0: 14984 in 47 places, all below massif's threshold (01.00%)
+ n1: 14680 0x52DD64B: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 14680 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 14680 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 14680 0x406605: main (main.cpp:69)
+ n1: 13968 0x4EC8C1B: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13968 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13968 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13968 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E4F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8DC1: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8D7A: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E08: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n2: 13280 0x52D5C45: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8384 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8384 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8384 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8384 0x406605: main (main.cpp:69)
+  n1: 4896 0x52BC2E6: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 4896 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 4896 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 4896 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 4896 0x406605: main (main.cpp:69)
+ n1: 11024 0x52B2927: PRIVATE0000000000537b80 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 11024 0x4EBB719: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 11024 0x4EB9CBD: GRBnewmodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 11024 0x41D556: GRBModel::GRBModel(GRBEnv const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 11024 0x40661E: main (main.cpp:70)
+ n1: 9062 0x52D60AB: PRIVATE000000000055b738 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 9062 0x4EC9D6F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 9062 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 9062 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 9062 0x4067F8: main (main.cpp:78)
+ n2: 8760 0x52D5C79: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 6013 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 6013 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 6013 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 6013 0x406605: main (main.cpp:69)
+  n1: 2747 0x52BC2E6: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 2747 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 2747 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 2747 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 2747 0x406605: main (main.cpp:69)
+ n2: 8192 0x5FFE9FF: std::basic_filebuf<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+  n1: 8192 0x5FFEA71: std::basic_ifstream<char, std::char_traits<char> >::open(std::string const&, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+   n0: 8192 0x4065F6: main (main.cpp:67)
+  n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 8008 0x4EC8CCD: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8008 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8008 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 8008 0x4067F8: main (main.cpp:78)
+ n1: 5520 0x52DD1E8: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 5520 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 5520 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 5520 0x406605: main (main.cpp:69)
+ n1: 4737 0x400A822: _dl_new_object (dl-object.c:75)
+  n1: 4737 0x4005E42: _dl_map_object_from_fd (dl-load.c:1059)
+   n2: 4737 0x400805D: _dl_map_object (dl-load.c:2605)
+    n1: 2371 0x40129E3: dl_open_worker (dl-open.c:235)
+     n1: 2371 0x400E872: _dl_catch_error (dl-error.c:187)
+      n1: 2371 0x40123F9: _dl_open (dl-open.c:661)
+       n1: 2371 0x6883A20: do_dlopen (dl-libc.c:87)
+        n1: 2371 0x400E872: _dl_catch_error (dl-error.c:187)
+         n1: 2371 0x6883ABD: dlerror_run (dl-libc.c:46)
+          n1: 2371 0x6883B2F: __libc_dlopen_mode (dl-libc.c:163)
+           n1: 2371 0x686DA32: nss_load_library (nsswitch.c:358)
+            n1: 2371 0x686E1A6: __nss_lookup_function (nsswitch.c:466)
+             n0: 2371 in 2 places, all below massif's threshold (01.00%)
+    n1: 2366 0x400C360: openaux (dl-deps.c:63)
+     n1: 2366 0x400E872: _dl_catch_error (dl-error.c:187)
+      n1: 2366 0x400C5B3: _dl_map_object_deps (dl-deps.c:254)
+       n1: 2366 0x4012A3A: dl_open_worker (dl-open.c:272)
+        n1: 2366 0x400E872: _dl_catch_error (dl-error.c:187)
+         n1: 2366 0x40123F9: _dl_open (dl-open.c:661)
+          n1: 2366 0x6883A20: do_dlopen (dl-libc.c:87)
+           n1: 2366 0x400E872: _dl_catch_error (dl-error.c:187)
+            n1: 2366 0x6883ABD: dlerror_run (dl-libc.c:46)
+             n1: 2366 0x6883B2F: __libc_dlopen_mode (dl-libc.c:163)
+              n1: 2366 0x686DA32: nss_load_library (nsswitch.c:358)
+               n1: 2366 0x686E1A6: __nss_lookup_function (nsswitch.c:466)
+                n0: 2366 in 2 places, all below massif's threshold (01.00%)
+ n1: 4008 0x4EC8C81: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 4008 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 4008 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 4008 0x4067F8: main (main.cpp:78)
+ n1: 2768 0x52DE69C: PRIVATE0000000000561523 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 2768 0x4E5498C: PRIVATE000000000001d4a7 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 2768 0x4EB9DA2: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 2768 0x4EB9CBD: GRBnewmodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 2768 0x41D556: GRBModel::GRBModel(GRBEnv const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 2768 0x40661E: main (main.cpp:70)
+ n1: 2560 0x404F59: Network::set_nodes() (Network.h:80)
+  n1: 2560 0x40732D: Network::Network(unsigned long, double, double) (Network.h:46)
+   n0: 2560 0x406428: main (main.cpp:50)
+#-----------
+snapshot=15
+#-----------
+time=33650599
+mem_heap_B=289873
+mem_heap_extra_B=25919
+mem_stacks_B=0
+heap_tree=detailed
+n22: 289873 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n1: 21504 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 21504 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 17408 0x40692F: main (main.cpp:89)
+   n0: 4096 0x406855: main (main.cpp:83)
+ n1: 19456 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 19456 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 15360 0x40692F: main (main.cpp:89)
+   n0: 4096 0x406855: main (main.cpp:83)
+ n0: 18626 in 50 places, all below massif's threshold (01.00%)
+ n2: 16392 0x428E65: std::vector<GRBVar, std::allocator<GRBVar> >::_M_insert_aux(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, GRBVar const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 16384 0x418E79: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 16384 0x4067F8: main (main.cpp:78)
+  n0: 8 in 1 place, below massif's threshold (01.00%)
+ n2: 16160 0x52D5A5B: PRIVATE000000000055ac18 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8080 0x52DD48F: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8080 0x406605: main (main.cpp:69)
+  n1: 8080 0x52BC216: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 8080 0x406605: main (main.cpp:69)
+ n1: 14680 0x52DD64B: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 14680 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 14680 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 14680 0x406605: main (main.cpp:69)
+ n1: 13968 0x4EC8C1B: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13968 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13968 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13968 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8D7A: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8DC1: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E08: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E4F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13552 0x418CD9: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n0: 13552 0x4067F8: main (main.cpp:78)
+ n2: 13280 0x52D5C45: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8384 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8384 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8384 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8384 0x406605: main (main.cpp:69)
+  n1: 4896 0x52BC2E6: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 4896 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 4896 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 4896 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 4896 0x406605: main (main.cpp:69)
+ n1: 11024 0x52B2927: PRIVATE0000000000537b80 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 11024 0x4EBB719: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 11024 0x4EB9CBD: GRBnewmodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 11024 0x41D556: GRBModel::GRBModel(GRBEnv const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 11024 0x40661E: main (main.cpp:70)
+ n1: 9062 0x52D60AB: PRIVATE000000000055b738 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 9062 0x4EC9D6F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 9062 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 9062 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 9062 0x4067F8: main (main.cpp:78)
+ n2: 8760 0x52D5C79: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 6013 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 6013 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 6013 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 6013 0x406605: main (main.cpp:69)
+  n0: 2747 in 1 place, below massif's threshold (01.00%)
+ n2: 8192 0x5FFE9FF: std::basic_filebuf<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+  n1: 8192 0x5FFEA71: std::basic_ifstream<char, std::char_traits<char> >::open(std::string const&, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+   n0: 8192 0x4065F6: main (main.cpp:67)
+  n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 8008 0x4EC8CCD: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8008 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8008 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 8008 0x4067F8: main (main.cpp:78)
+ n1: 5520 0x52DD1E8: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 5520 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 5520 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 5520 0x406605: main (main.cpp:69)
+ n1: 4737 0x400A822: _dl_new_object (dl-object.c:75)
+  n1: 4737 0x4005E42: _dl_map_object_from_fd (dl-load.c:1059)
+   n1: 4737 0x400805D: _dl_map_object (dl-load.c:2605)
+    n0: 4737 in 2 places, all below massif's threshold (01.00%)
+ n1: 4008 0x4EC8C81: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 4008 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 4008 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 4008 0x4067F8: main (main.cpp:78)
+#-----------
+snapshot=16
+#-----------
+time=34885923
+mem_heap_B=331081
+mem_heap_extra_B=25911
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=17
+#-----------
+time=36492104
+mem_heap_B=355409
+mem_heap_extra_B=25927
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=18
+#-----------
+time=37798083
+mem_heap_B=433233
+mem_heap_extra_B=25935
+mem_stacks_B=0
+heap_tree=detailed
+n21: 433233 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 94208 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 94208 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 77824 0x40692F: main (main.cpp:89)
+   n0: 16384 0x406855: main (main.cpp:83)
+ n1: 90112 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 90112 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 73728 0x40692F: main (main.cpp:89)
+   n0: 16384 0x406855: main (main.cpp:83)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n0: 22634 in 51 places, all below massif's threshold (01.00%)
+ n2: 16392 0x428E65: std::vector<GRBVar, std::allocator<GRBVar> >::_M_insert_aux(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, GRBVar const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 16384 0x418E79: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 16384 0x4067F8: main (main.cpp:78)
+  n0: 8 in 1 place, below massif's threshold (01.00%)
+ n2: 16160 0x52D5A5B: PRIVATE000000000055ac18 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8080 0x52DD48F: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8080 0x406605: main (main.cpp:69)
+  n1: 8080 0x52BC216: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 8080 0x406605: main (main.cpp:69)
+ n1: 14680 0x52DD64B: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 14680 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 14680 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 14680 0x406605: main (main.cpp:69)
+ n1: 13968 0x4EC8C1B: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13968 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13968 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13968 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8D7A: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8DC1: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E08: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E4F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13552 0x418CD9: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n0: 13552 0x4067F8: main (main.cpp:78)
+ n2: 13280 0x52D5C45: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8384 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8384 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8384 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8384 0x406605: main (main.cpp:69)
+  n1: 4896 0x52BC2E6: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 4896 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 4896 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 4896 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 4896 0x406605: main (main.cpp:69)
+ n1: 11024 0x52B2927: PRIVATE0000000000537b80 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 11024 0x4EBB719: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 11024 0x4EB9CBD: GRBnewmodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 11024 0x41D556: GRBModel::GRBModel(GRBEnv const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 11024 0x40661E: main (main.cpp:70)
+ n1: 9062 0x52D60AB: PRIVATE000000000055b738 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 9062 0x4EC9D6F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 9062 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 9062 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 9062 0x4067F8: main (main.cpp:78)
+ n2: 8760 0x52D5C79: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 6013 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 6013 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 6013 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 6013 0x406605: main (main.cpp:69)
+  n0: 2747 in 1 place, below massif's threshold (01.00%)
+ n2: 8192 0x5FFE9FF: std::basic_filebuf<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+  n1: 8192 0x5FFEA71: std::basic_ifstream<char, std::char_traits<char> >::open(std::string const&, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+   n0: 8192 0x4065F6: main (main.cpp:67)
+  n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 8008 0x4EC8CCD: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8008 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8008 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 8008 0x4067F8: main (main.cpp:78)
+ n1: 5520 0x52DD1E8: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 5520 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 5520 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 5520 0x406605: main (main.cpp:69)
+ n1: 4737 0x400A822: _dl_new_object (dl-object.c:75)
+  n1: 4737 0x4005E42: _dl_map_object_from_fd (dl-load.c:1059)
+   n1: 4737 0x400805D: _dl_map_object (dl-load.c:2605)
+    n0: 4737 in 2 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=19
+#-----------
+time=39562050
+mem_heap_B=439377
+mem_heap_extra_B=25951
+mem_stacks_B=0
+heap_tree=detailed
+n21: 439377 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 96256 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 96256 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 79872 0x40692F: main (main.cpp:89)
+   n0: 16384 0x406855: main (main.cpp:83)
+ n1: 94208 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 94208 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 77824 0x40692F: main (main.cpp:89)
+   n0: 16384 0x406855: main (main.cpp:83)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n0: 22634 in 51 places, all below massif's threshold (01.00%)
+ n2: 16392 0x428E65: std::vector<GRBVar, std::allocator<GRBVar> >::_M_insert_aux(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, GRBVar const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 16384 0x418E79: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 16384 0x4067F8: main (main.cpp:78)
+  n0: 8 in 1 place, below massif's threshold (01.00%)
+ n2: 16160 0x52D5A5B: PRIVATE000000000055ac18 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8080 0x52DD48F: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8080 0x406605: main (main.cpp:69)
+  n1: 8080 0x52BC216: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8080 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8080 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 8080 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 8080 0x406605: main (main.cpp:69)
+ n1: 14680 0x52DD64B: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 14680 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 14680 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 14680 0x406605: main (main.cpp:69)
+ n1: 13968 0x4EC8C1B: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13968 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13968 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13968 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8D7A: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8DC1: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E08: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E4F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13552 0x418CD9: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n0: 13552 0x4067F8: main (main.cpp:78)
+ n2: 13280 0x52D5C45: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8384 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8384 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 8384 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 8384 0x406605: main (main.cpp:69)
+  n1: 4896 0x52BC2E6: PRIVATE000000000053efcf (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 4896 0x52DD4BB: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 4896 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 4896 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 4896 0x406605: main (main.cpp:69)
+ n1: 11024 0x52B2927: PRIVATE0000000000537b80 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 11024 0x4EBB719: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 11024 0x4EB9CBD: GRBnewmodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 11024 0x41D556: GRBModel::GRBModel(GRBEnv const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 11024 0x40661E: main (main.cpp:70)
+ n1: 9062 0x52D60AB: PRIVATE000000000055b738 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 9062 0x4EC9D6F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 9062 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 9062 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 9062 0x4067F8: main (main.cpp:78)
+ n2: 8760 0x52D5C79: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 6013 0x52DD778: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 6013 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 6013 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 6013 0x406605: main (main.cpp:69)
+  n0: 2747 in 1 place, below massif's threshold (01.00%)
+ n2: 8192 0x5FFE9FF: std::basic_filebuf<char, std::char_traits<char> >::open(char const*, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+  n1: 8192 0x5FFEA71: std::basic_ifstream<char, std::char_traits<char> >::open(std::string const&, std::_Ios_Openmode) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.20)
+   n0: 8192 0x4065F6: main (main.cpp:67)
+  n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 8008 0x4EC8CCD: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 8008 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 8008 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 8008 0x4067F8: main (main.cpp:78)
+ n1: 5520 0x52DD1E8: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 5520 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 5520 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 5520 0x406605: main (main.cpp:69)
+ n1: 4737 0x400A822: _dl_new_object (dl-object.c:75)
+  n1: 4737 0x4005E42: _dl_map_object_from_fd (dl-load.c:1059)
+   n1: 4737 0x400805D: _dl_map_object (dl-load.c:2605)
+    n0: 4737 in 2 places, all below massif's threshold (01.00%)
+#-----------
+snapshot=20
+#-----------
+time=41029737
+mem_heap_B=461889
+mem_heap_extra_B=25911
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=21
+#-----------
+time=42089428
+mem_heap_B=529081
+mem_heap_extra_B=25927
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=22
+#-----------
+time=43366487
+mem_heap_B=554634
+mem_heap_extra_B=26078
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=23
+#-----------
+time=44515541
+mem_heap_B=596878
+mem_heap_extra_B=26162
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=24
+#-----------
+time=45924457
+mem_heap_B=937494
+mem_heap_extra_B=26482
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=25
+#-----------
+time=46823740
+mem_heap_B=971622
+mem_heap_extra_B=26570
+mem_stacks_B=0
+heap_tree=detailed
+n31: 971622 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 114514 in 99 places, all below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 0x406855: main (main.cpp:83)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 0x406855: main (main.cpp:83)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n1: 67056 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 33532 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n2: 16384 0x428E65: std::vector<GRBVar, std::allocator<GRBVar> >::_M_insert_aux(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, GRBVar const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 16384 0x418E79: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 16384 0x4067F8: main (main.cpp:78)
+  n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 16160 0x52D5A5B: PRIVATE000000000055ac18 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n0: 16160 in 2 places, all below massif's threshold (01.00%)
+ n1: 14680 0x52DD64B: PRIVATE0000000000561aa2 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 14680 0x52DD085: GRBloadenvadv (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 14680 0x40D92F: GRBEnv::GRBEnv() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 14680 0x406605: main (main.cpp:69)
+ n1: 13968 0x4EC8C1B: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13968 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13968 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13968 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E08: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8E4F: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8D7A: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13960 0x4EC8DC1: GRBXaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13960 0x4EC8548: GRBaddvars (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13960 0x418C4A: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n0: 13960 0x4067F8: main (main.cpp:78)
+ n1: 13664 0x4ED72F6: PRIVATE000000000008a17b (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13664 0x4ED41CA: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13664 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13664 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 13664 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n1: 13664 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 13664 0x406AB0: main (main.cpp:102)
+ n1: 13656 0x4ED72CF: PRIVATE000000000008a17b (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13656 0x4ED41CA: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13656 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13656 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 13656 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n1: 13656 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 13656 0x406AB0: main (main.cpp:102)
+ n1: 13656 0x4ED7346: PRIVATE000000000008a17b (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13656 0x4ED41CA: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13656 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13656 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 13656 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n1: 13656 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 13656 0x406AB0: main (main.cpp:102)
+ n1: 13656 0x4ED72AB: PRIVATE000000000008a17b (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13656 0x4ED41CA: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13656 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13656 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 13656 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n1: 13656 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 13656 0x406AB0: main (main.cpp:102)
+ n1: 13656 0x4ED728A: PRIVATE000000000008a17b (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13656 0x4ED41CA: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13656 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13656 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 13656 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n1: 13656 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 13656 0x406AB0: main (main.cpp:102)
+ n1: 13560 0x5229458: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13560 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13560 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13560 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 13560 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 13560 0x406AB0: main (main.cpp:102)
+ n1: 13560 0x52278F5: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13560 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13560 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13560 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 13560 0x406AB0: main (main.cpp:102)
+ n1: 13560 0x5227917: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13560 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13560 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13560 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 13560 0x406AB0: main (main.cpp:102)
+ n1: 13560 0x522792E: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13560 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13560 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 13560 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 13560 0x406AB0: main (main.cpp:102)
+ n1: 13560 0x4ECB2F0: PRIVATE0000000000090fb6 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 13560 0x5248AC9: GRBsetdblattrarray (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 13560 0x4198C3: GRBModel::setObjective(GRBQuadExpr, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 13560 0x41A1A8: GRBModel::setObjective(GRBLinExpr, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 13560 0x4069E6: main (main.cpp:98)
+ n1: 13552 0x418CD9: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n0: 13552 0x4067F8: main (main.cpp:78)
+ n1: 13280 0x52D5C45: PRIVATE000000000055ae6a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n0: 13280 in 2 places, all below massif's threshold (01.00%)
+ n2: 11024 0x52B2927: PRIVATE0000000000537b80 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 11024 0x4EDDBD8: PRIVATE00000000000a5023 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 11024 0x4ECD278: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 11024 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 11024 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n1: 11024 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 11024 0x406AB0: main (main.cpp:102)
+  n0: 0 in 1 place, below massif's threshold (01.00%)
+#-----------
+snapshot=26
+#-----------
+time=47963844
+mem_heap_B=1733458
+mem_heap_extra_B=27174
+mem_stacks_B=0
+heap_tree=detailed
+n12: 1733458 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 588200 0x504C248: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 588200 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 588200 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 588200 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 588200 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 588200 0x406AB0: main (main.cpp:102)
+ n0: 558774 in 164 places, all below massif's threshold (01.00%)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 33532 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n1: 20352 0x50F3C58: PRIVATE0000000000334f60 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 20352 0x504F840: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 20352 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 20352 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 20352 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 20352 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 20352 0x406AB0: main (main.cpp:102)
+#-----------
+snapshot=27
+#-----------
+time=50328907
+mem_heap_B=1740122
+mem_heap_extra_B=27166
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=28
+#-----------
+time=51297845
+mem_heap_B=1733338
+mem_heap_extra_B=27158
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=29
+#-----------
+time=52490958
+mem_heap_B=1733338
+mem_heap_extra_B=27158
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=30
+#-----------
+time=53955764
+mem_heap_B=1733442
+mem_heap_extra_B=27190
+mem_stacks_B=0
+heap_tree=detailed
+n12: 1733442 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 588200 0x504C248: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 588200 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 588200 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 588200 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 588200 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 588200 0x406AB0: main (main.cpp:102)
+ n0: 558758 in 183 places, all below massif's threshold (01.00%)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 33532 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n1: 20352 0x50F3C58: PRIVATE0000000000334f60 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 20352 0x504F840: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 20352 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 20352 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 20352 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 20352 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 20352 0x406AB0: main (main.cpp:102)
+#-----------
+snapshot=31
+#-----------
+time=55067066
+mem_heap_B=1733442
+mem_heap_extra_B=27174
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=32
+#-----------
+time=56079993
+mem_heap_B=1799562
+mem_heap_extra_B=27238
+mem_stacks_B=0
+heap_tree=detailed
+n13: 1799562 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 588200 0x504C248: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 588200 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 588200 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 588200 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 588200 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 588200 0x406AB0: main (main.cpp:102)
+ n0: 559334 in 190 places, all below massif's threshold (01.00%)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 65544 0x50973B4: PRIVATE00000000002b9612 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 65544 0x505BD63: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 65544 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 65544 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 65544 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 65544 0x406AB0: main (main.cpp:102)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 33532 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+ n1: 20352 0x50F3C58: PRIVATE0000000000334f60 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 20352 0x504F840: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 20352 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 20352 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 20352 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 20352 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 20352 0x406AB0: main (main.cpp:102)
+#-----------
+snapshot=33
+#-----------
+time=57379479
+mem_heap_B=1948258
+mem_heap_extra_B=27270
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=34
+#-----------
+time=60084107
+mem_heap_B=2135386
+mem_heap_extra_B=27438
+mem_stacks_B=0
+heap_tree=detailed
+n17: 2135386 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 706166 in 227 places, all below massif's threshold (01.00%)
+ n1: 588200 0x504C248: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 588200 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 588200 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 588200 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 588200 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 588200 0x406AB0: main (main.cpp:102)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x509C397: PRIVATE00000000002be0bc (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x505C019: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x509C478: PRIVATE00000000002be0bc (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x505C019: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 36856 0x509CA25: PRIVATE00000000002be0bc (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 36856 0x505C019: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 36856 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 36856 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 36856 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 36856 0x406AB0: main (main.cpp:102)
+ n1: 36856 0x509CA02: PRIVATE00000000002be0bc (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 36856 0x505C019: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 36856 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 36856 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 36856 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 36856 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x509C450: PRIVATE00000000002be0bc (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x505C019: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x509C376: PRIVATE00000000002be0bc (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x505C019: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+#-----------
+snapshot=35
+#-----------
+time=61060636
+mem_heap_B=1848738
+mem_heap_extra_B=27310
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=36
+#-----------
+time=62791459
+mem_heap_B=1841962
+mem_heap_extra_B=27302
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=37
+#-----------
+time=63870206
+mem_heap_B=2124586
+mem_heap_extra_B=161598
+mem_stacks_B=0
+heap_tree=detailed
+n12: 2124586 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 635014 in 259 places, all below massif's threshold (01.00%)
+ n1: 588200 0x504C248: PRIVATE000000000024f539 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 588200 0x50593B1: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 588200 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 588200 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 588200 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 588200 0x406AB0: main (main.cpp:102)
+ n1: 335240 0x51E72A0: PRIVATE000000000046275a (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 335240 0x51E96B0: PRIVATE000000000045f7e0 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 335240 0x505C95D: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 335240 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 335240 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 335240 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 335240 0x406AB0: main (main.cpp:102)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 27104 0x429324: GRBVar::GRBVar(_GRBmodel*, int) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n1: 27104 0x418E21: GRBModel::addVars(int, char) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 27104 0x4067F8: main (main.cpp:78)
+#-----------
+snapshot=38
+#-----------
+time=65155945
+mem_heap_B=2032640
+mem_heap_extra_B=27488
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=39
+#-----------
+time=65961249
+mem_heap_B=2213152
+mem_heap_extra_B=27680
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=40
+#-----------
+time=142401096
+mem_heap_B=2212952
+mem_heap_extra_B=27664
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=41
+#-----------
+time=143802565
+mem_heap_B=1740170
+mem_heap_extra_B=27166
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=42
+#-----------
+time=145670772
+mem_heap_B=2179252
+mem_heap_extra_B=28212
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=43
+#-----------
+time=146797125
+mem_heap_B=2165628
+mem_heap_extra_B=28180
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=44
+#-----------
+time=148604784
+mem_heap_B=2681976
+mem_heap_extra_B=29384
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=45
+#-----------
+time=150200593
+mem_heap_B=2682132
+mem_heap_extra_B=29372
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=46
+#-----------
+time=151239715
+mem_heap_B=2682492
+mem_heap_extra_B=29388
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=47
+#-----------
+time=152681551
+mem_heap_B=2668268
+mem_heap_extra_B=29348
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=48
+#-----------
+time=153606319
+mem_heap_B=2957600
+mem_heap_extra_B=29464
+mem_stacks_B=0
+heap_tree=peak
+n26: 2957600 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 1088768 in 507 places, all below massif's threshold (01.00%)
+ n1: 348672 0x514AFB3: PRIVATE00000000003a7258 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 348672 0x5111F1A: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 348672 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 348672 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 348672 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 348672 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 348672 0x406AB0: main (main.cpp:102)
+ n2: 134112 0x52BF98C: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+  n1: 67056 0x5055268: PRIVATE0000000000254e51 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5059D74: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 110592 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 110592 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 110592 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 16384 in 1 place, below massif's threshold (01.00%)
+ n1: 77776 0x4EC4423: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 77776 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 77776 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 77776 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 77776 0x406A70: main (main.cpp:100)
+ n2: 67064 0x52BF965: PRIVATE0000000000544314 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x522A93E: PRIVATE00000000004a991e (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5228FCD: PRIVATE00000000004a826c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250567: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+  n1: 33532 0x5055268: PRIVATE0000000000254e51 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5059D74: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+       n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4E6B1EF: PRIVATE0000000000034ede (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4E764C8: PRIVATE0000000000040022 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4EB70C7: PRIVATE0000000000083f66 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x510BA25: PRIVATE000000000034c173 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x513892C: PRIVATE000000000038cd11 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x51367D4: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 67056 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 67056 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 67056 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+          n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+           n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+            n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4E6B13D: PRIVATE0000000000034ede (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4E764C8: PRIVATE0000000000040022 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4EB70C7: PRIVATE0000000000083f66 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x510BA25: PRIVATE000000000034c173 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x513892C: PRIVATE000000000038cd11 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x51367D4: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 67056 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 67056 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 67056 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+          n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+           n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+            n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x5053124: PRIVATE0000000000254e51 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x5059D74: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4EBA297: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x510ADC3: PRIVATE000000000034b002 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x5153F45: PRIVATE00000000003b1bd4 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x5135EC9: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 67056 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+          n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4E56A32: PRIVATE000000000001d635 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4EB66B2: PRIVATE0000000000083f66 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x510BA25: PRIVATE000000000034c173 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x513892C: PRIVATE000000000038cd11 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x51367D4: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 67056 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 67056 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+          n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+           n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4ED42DD: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 67056 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 67056 0x4E6B0FC: PRIVATE0000000000034ede (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 67056 0x4E764C8: PRIVATE0000000000040022 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 67056 0x4EB70C7: PRIVATE0000000000083f66 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 67056 0x510BA25: PRIVATE000000000034c173 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 67056 0x513892C: PRIVATE000000000038cd11 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 67056 0x51367D4: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 67056 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 67056 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 67056 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+          n1: 67056 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+           n1: 67056 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+            n0: 67056 0x406AB0: main (main.cpp:102)
+ n1: 65536 0x53242EC: PRIVATE00000000005a2a24 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 65536 0x516F0F9: PRIVATE00000000003d0518 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 65536 0x5113BC0: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 65536 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 65536 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 65536 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 65536 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+        n0: 65536 0x406AB0: main (main.cpp:102)
+ n1: 65536 0x5324302: PRIVATE00000000005a2a24 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 65536 0x516F0F9: PRIVATE00000000003d0518 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 65536 0x5113BC0: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 65536 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 65536 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 65536 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 65536 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+        n0: 65536 0x406AB0: main (main.cpp:102)
+ n1: 65536 0x5324318: PRIVATE00000000005a2a24 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 65536 0x516F0F9: PRIVATE00000000003d0518 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 65536 0x5113BC0: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 65536 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 65536 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 65536 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 65536 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+        n0: 65536 0x406AB0: main (main.cpp:102)
+ n1: 65536 0x5324346: PRIVATE00000000005a2a24 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 65536 0x516F0F9: PRIVATE00000000003d0518 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 65536 0x5113BC0: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 65536 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 65536 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 65536 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 65536 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+        n0: 65536 0x406AB0: main (main.cpp:102)
+ n1: 40968 0x517608A: PRIVATE00000000003d74f0 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n0: 40968 in 3 places, all below massif's threshold (01.00%)
+ n1: 40968 0x51760AA: PRIVATE00000000003d74f0 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n0: 40968 in 3 places, all below massif's threshold (01.00%)
+ n1: 38892 0x4EC43EF: PRIVATE000000000008d186 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 38892 0x4EC5FB2: GRBaddconstrs (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 38892 0x417125: GRBModel::addConstr(GRBLinExpr const&, char, double, double, std::string const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+    n1: 38892 0x417706: GRBModel::addConstr(GRBLinExpr const&, char, double, std::string) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n0: 38892 0x406A70: main (main.cpp:100)
+ n1: 33532 0x4E569F5: PRIVATE000000000001d635 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4EB66B2: PRIVATE0000000000083f66 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x510BA25: PRIVATE000000000034c173 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x513892C: PRIVATE000000000038cd11 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x51367D4: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 33532 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 33532 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+          n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+           n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4EBA26A: PRIVATE0000000000081d17 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x510ADC3: PRIVATE000000000034b002 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5153F45: PRIVATE00000000003b1bd4 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x5135EC9: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 33532 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+          n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x50530FA: PRIVATE0000000000254e51 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x5059D74: PRIVATE00000000002772ac (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x5250489: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4E6B1BB: PRIVATE0000000000034ede (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4E764C8: PRIVATE0000000000040022 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4EB70C7: PRIVATE0000000000083f66 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x510BA25: PRIVATE000000000034c173 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+     n1: 33532 0x513892C: PRIVATE000000000038cd11 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+      n1: 33532 0x51367D4: PRIVATE0000000000389c08 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+       n1: 33532 0x511305E: PRIVATE0000000000352e3c (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+        n1: 33532 0x51016C9: PRIVATE0000000000342c90 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+         n1: 33532 0x524FD88: PRIVATE00000000004cc836 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+          n1: 33532 0x524DCB5: GRBoptimize (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+           n1: 33532 0x416AA1: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+            n0: 33532 0x406AB0: main (main.cpp:102)
+ n1: 33532 0x4ED42A7: PRIVATE00000000000970ea (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+  n1: 33532 0x4ECD1BD: PRIVATE0000000000093477 (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+   n1: 33532 0x4ECCFA2: GRBupdatemodel (in /opt/gurobi702/linux64/lib/libgurobi.so.7.0.2)
+    n1: 33532 0x4161ED: GRBModel::update() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+     n1: 33532 0x416A99: GRBModel::optimize() (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+      n0: 33532 0x406AB0: main (main.cpp:102)
+#-----------
+snapshot=49
+#-----------
+time=154872618
+mem_heap_B=217906
+mem_heap_extra_B=3094
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=50
+#-----------
+time=154874162
+mem_heap_B=217292
+mem_heap_extra_B=2812
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=51
+#-----------
+time=154875692
+mem_heap_B=216727
+mem_heap_extra_B=2545
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=52
+#-----------
+time=154877228
+mem_heap_B=216176
+mem_heap_extra_B=2264
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=53
+#-----------
+time=154878800
+mem_heap_B=215598
+mem_heap_extra_B=1994
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=54
+#-----------
+time=154886966
+mem_heap_B=201629
+mem_heap_extra_B=1915
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=55
+#-----------
+time=154918548
+mem_heap_B=201609
+mem_heap_extra_B=1895
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=56
+#-----------
+time=154920079
+mem_heap_B=200675
+mem_heap_extra_B=1477
+mem_stacks_B=0
+heap_tree=detailed
+n5: 200675 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 94208 0x42D92D: void std::vector<double, std::allocator<double> >::_M_range_insert<__gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, __gnu_cxx::__normal_iterator<double const*, std::vector<double, std::allocator<double> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 94208 0x42CBA4: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 0 in 1 place, below massif's threshold (01.00%)
+ n1: 94208 0x42D476: void std::vector<GRBVar, std::allocator<GRBVar> >::_M_range_insert<__gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > > >(__gnu_cxx::__normal_iterator<GRBVar*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, __gnu_cxx::__normal_iterator<GRBVar const*, std::vector<GRBVar, std::allocator<GRBVar> > >, std::forward_iterator_tag) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+  n2: 94208 0x42CB40: GRBLinExpr::multAdd(double, GRBLinExpr const&) (in /home/guilherme/projects/multicoloring/ram-measurer/main.exe)
+   n0: 94208 0x40692F: main (main.cpp:89)
+   n0: 0 in 1 place, below massif's threshold (01.00%)
+ n0: 4962 in 541 places, all below massif's threshold (01.00%)
+ n1: 4737 0x400A822: _dl_new_object (dl-object.c:75)
+  n1: 4737 0x4005E42: _dl_map_object_from_fd (dl-load.c:1059)
+   n2: 4737 0x400805D: _dl_map_object (dl-load.c:2605)
+    n1: 2371 0x40129E3: dl_open_worker (dl-open.c:235)
+     n1: 2371 0x400E872: _dl_catch_error (dl-error.c:187)
+      n1: 2371 0x40123F9: _dl_open (dl-open.c:661)
+       n1: 2371 0x6883A20: do_dlopen (dl-libc.c:87)
+        n1: 2371 0x400E872: _dl_catch_error (dl-error.c:187)
+         n1: 2371 0x6883ABD: dlerror_run (dl-libc.c:46)
+          n1: 2371 0x6883B2F: __libc_dlopen_mode (dl-libc.c:163)
+           n1: 2371 0x686DA32: nss_load_library (nsswitch.c:358)
+            n1: 2371 0x686E1A6: __nss_lookup_function (nsswitch.c:466)
+             n0: 2371 in 2 places, all below massif's threshold (01.00%)
+    n1: 2366 0x400C360: openaux (dl-deps.c:63)
+     n1: 2366 0x400E872: _dl_catch_error (dl-error.c:187)
+      n1: 2366 0x400C5B3: _dl_map_object_deps (dl-deps.c:254)
+       n1: 2366 0x4012A3A: dl_open_worker (dl-open.c:272)
+        n1: 2366 0x400E872: _dl_catch_error (dl-error.c:187)
+         n1: 2366 0x40123F9: _dl_open (dl-open.c:661)
+          n1: 2366 0x6883A20: do_dlopen (dl-libc.c:87)
+           n1: 2366 0x400E872: _dl_catch_error (dl-error.c:187)
+            n1: 2366 0x6883ABD: dlerror_run (dl-libc.c:46)
+             n1: 2366 0x6883B2F: __libc_dlopen_mode (dl-libc.c:163)
+              n1: 2366 0x686DA32: nss_load_library (nsswitch.c:358)
+               n1: 2366 0x686E1A6: __nss_lookup_function (nsswitch.c:466)
+                n0: 2366 in 2 places, all below massif's threshold (01.00%)
+ n1: 2560 0x404F59: Network::set_nodes() (Network.h:80)
+  n1: 2560 0x40732D: Network::Network(unsigned long, double, double) (Network.h:46)
+   n0: 2560 0x406428: main (main.cpp:50)
+#-----------
+snapshot=57
+#-----------
+time=154922723
+mem_heap_B=200428
+mem_heap_extra_B=1356
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=58
+#-----------
+time=154925928
+mem_heap_B=198631
+mem_heap_extra_B=1257
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=59
+#-----------
+time=154928106
+mem_heap_B=192680
+mem_heap_extra_B=856
+mem_stacks_B=0
+heap_tree=empty

@@ -10,7 +10,6 @@
 #include "Enumerator.h"
 #include "gurobi_c++.h"
 
-#define NETWORKS_PATH "networks/"
 #define EPSILON 0.0000000001
 
 typedef unsigned __int128 uint128_t;
@@ -19,7 +18,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	if(argc != 5)
+	if(argc != 4)
 	{
 		cout << "Missing arguments!" << endl;
 		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
@@ -33,16 +32,8 @@ int main(int argc, char** argv)
 	double aside = (double)atof(argv[1]);
 	int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
-	double zLP   = (double)atof(argv[4]);
 
-	double upper, lower;
-	upper = ceil(zLP);
-	lower = floor(zLP);
-
-	if((upper - zLP) < EPSILON) zLP = upper;
-	if((zLP - lower) < EPSILON) zLP = lower;
-
-	string name = NETWORKS_PATH + to_string(nodes) + "-" + to_string((int)aside) + ".dat";
+	string name = "./tmp-" + to_string(nodes) + "-" + to_string((int)aside) + ".dat";
 
 	ofstream outfile;
 	ifstream infile;
@@ -112,13 +103,10 @@ int main(int argc, char** argv)
 
 		zIP = model.get(GRB_DoubleAttr_ObjVal);
 
-		if(zLP < zIP) mtcol = true;
-		else mtcol = false;
-
 		delete[] vars;
 
 		tt = clock();
-		cout << mtcol << "\t"  << zLP << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
+		cout << mtcol << "\t" << "\t" << zIP << "\t0\t" << double(tt - t) / CLOCKS_PER_SEC << "\t" << endl;
 
 		return 0;
 	}

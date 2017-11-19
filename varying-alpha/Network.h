@@ -21,9 +21,8 @@ typedef unsigned __int128 uint128_t;
 
 class Network {
 private:
-	uint64_t num_nodes, delta;
-	double area_side;
-	double tpower;
+	uint64_t num_nodes;
+	double area_side, tpower, alpha, max_range, tpower_dBm;
 
 	vector<Node> nodes;
 	vector<Link> links;
@@ -34,15 +33,13 @@ public:
 	const double noise_dBm = 10 * log10(noise_mW);
 	const double d0 = 1.0;
 	const double l0_dB = 0.0;
-	const double alpha = 4.0;
 	const double beta_dB = 25.0;
 	const double beta_mW = pow(10, beta_dB / 10.0);
-	const double tpower_dBm = 10 * log10(tpower);
-	const double max_range = d0*pow(10, (tpower_dBm - noise_dBm - beta_dB - l0_dB) / (10 * alpha));
 
-	Network(uint64_t _n = 100, double _a = 3000.0, double _p = 300.0) : num_nodes(_n), area_side(_a), tpower(_p)
+	Network(uint64_t _n = 100, double _a = 3000.0, double _p = 300.0, double _alpha = 4.0) : num_nodes(_n), area_side(_a), tpower(_p), alpha(_alpha)
 	{
-		delta = 0;
+		tpower_dBm = 10 * log10(tpower);	
+		max_range = d0*pow(10, (tpower_dBm - noise_dBm - beta_dB - l0_dB) / (10 * alpha));
 		set_nodes();
 		set_links();
 	}
@@ -89,17 +86,11 @@ void Network::set_links() {
 		for (vector<Node>::iterator j = i + 1; j != nodes.end(); ++j) {
 			dist = i->distance(*j);
 			if (dist <= max_range) {
-				i->inc_degree();
-				j->inc_degree();
 				if (dist > d0) pr = pow(10.0, ((tpower_dBm - l0_dB - 10*alpha*log10(dist / d0))/10.0));
 				else pr = pow(10.0, ((tpower_dBm - l0_dB) / 10.0));
 				links.push_back(Link(&(*i), &(*j), index++, dist, pr));
 			}
 		}
-	}
-	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i) {
-		delta = (i->get_degree() > delta) ? i->get_degree() : delta;
-		i->set_degree(0);
 	}
 }
 
@@ -121,5 +112,3 @@ void Network::print_nodes()
 	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i)
                 cout << "Node id=" << i->get_id() << " (" << i->get_x() << "," << i->get_y() << ")" << endl;
 }
-
-uint64_t Network::get_delta() { return delta; }
