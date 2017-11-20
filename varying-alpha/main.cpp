@@ -81,13 +81,14 @@ int main(int argc, char** argv)
 
 		ttt = clock();
 
-		GRBVar* vars = model.get_vars()
-		for(uint64_t i = 0; i < fsets; i++)  {
-			model.getVarByName(vars[i].get('VarName')).set('VType', 'B');
-		}
-		model.optimize();
-		zIP = model.get(GRB_DoubleAttr_ObjVal);
+		GRBVar* vars = model.getVars();
+		for(uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
 
+		model.update();
+		model.optimize();
+
+		zIP = model.get(GRB_DoubleAttr_ObjVal);
+		
 		delete[] vars;
 
 		tttt = clock();
@@ -96,7 +97,7 @@ int main(int argc, char** argv)
 		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
 		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
 
-		cout << frac << "\t" << "\t" << zLP << "\t" << zIP << "\t" << enumt << "\t" << enumt << "\t" << enumt << "\t" << endl;
+		cout << frac << "\t" << "\t" << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t" << endl;
 
 		return 0;
 	}
