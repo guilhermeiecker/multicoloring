@@ -80,15 +80,15 @@ int main(int argc, char** argv)
 		zLP = model.get(GRB_DoubleAttr_ObjVal);
 
 		ttt = clock();
-		/*
+
 		GRBVar* vars = model.get_vars()
 		for(uint64_t i = 0; i < fsets; i++)  {
 			model.getVarByName(vars[i].get('VarName')).set('VType', 'B');
 		}
+		model.optimize();
+		zIP = model.get(GRB_DoubleAttr_ObjVal);
 
 		delete[] vars;
-		*/
-		zIP = 0.0;
 
 		tttt = clock();
 
