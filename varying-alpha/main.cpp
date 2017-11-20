@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	double alpha = (double)atof(argv[4]);
 
 	uint64_t links, fsets;
-	double x, zLP, zIP;
+	double y, zLP, zIP;
 	double enumt, linpt, intpt; // enumt: enumeration time; linpt: simplex time; intpt: b&b time
 	bool frac = false;
 
@@ -40,11 +40,13 @@ int main(int argc, char** argv)
 	links = network->get_links().size();
 
 	if (links == 0) {
-		cout << "ERROR: Network has no links.";
+		cout << "Gurobi was not called yet." << endl;
+		cout << "ERROR0: Network has no links." << endl;
 		return 0;
 	}
 	if (links > 128) {
-		cout << "ERROR: Network has too many links (>128).";
+		cout << "Gurobi was not called yet." << endl;
+		cout << "ERROR1: Network has too many links (>128)." << endl;
 		return 0;
 	}
 
@@ -67,7 +69,12 @@ int main(int argc, char** argv)
 		enumerator->find_fset_entry();
 		fsets = enumerator->get_fset();
 
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << links << "\t" << fsets << "\t" << flush;
+		if (fsets == 0) {
+			cout << "ERROR1: Network has too many feasible sets." << endl;
+			return 0;
+		}
+
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t" << flush;
 
 		for(uint64_t i = 0; i < links; i++) model.addConstr(constraints[i], GRB_EQUAL, 1);
 
@@ -78,10 +85,18 @@ int main(int argc, char** argv)
 
 		model.optimize();
 		zLP = model.get(GRB_DoubleAttr_ObjVal);
+		GRBVar* vars = model.getVars();
+
+		for (uint64_t i = 0; i < fsets; i++) {
+			y = vars[i].get(GRB_DoubleAttr_X);
+			if((y > 0.0) && (y < 1.0)) {
+				frac = true;
+				break;
+			}
+		}
 
 		ttt = clock();
 
-		GRBVar* vars = model.getVars();
 		for(uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
 
 		model.update();
@@ -97,7 +112,7 @@ int main(int argc, char** argv)
 		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
 		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
 
-		cout << frac << "\t" << "\t" << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t" << endl;
+		cout << frac << "\t" << setprecision(6) << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t" << endl;
 
 		return 0;
 	}

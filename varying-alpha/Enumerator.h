@@ -27,7 +27,7 @@ uint128_t pow2(uint64_t);
 
 class Enumerator {
 private:
-	uint64_t n, m, f;
+	uint64_t n, m, f, stop;
 	vector<Link*> cset;
 	Network* network;
 	GRBModel* model;
@@ -53,6 +53,7 @@ Enumerator::Enumerator(Network* _network, GRBModel* _model, GRBLinExpr* _constra
 	n = network->get_nodes().size();
 	m = network->get_links().size();
 	f = 0;
+	stop = (uint64_t) (MAX / m);
 }
 
 void Enumerator::find_fset_entry() {
@@ -64,6 +65,12 @@ void Enumerator::find_fset_entry() {
 }
 
 void Enumerator::find_fset(uint128_t x) {
+	if (f >= stop) {
+		f = 0;
+		stop = 0;
+		return;
+	}
+
 	uint64_t limit = log2(x);
 	add_link(limit);
 	if (is_feasible()) {
