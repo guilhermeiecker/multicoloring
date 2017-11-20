@@ -3,9 +3,9 @@
 #   0   |   1   |   2   |   3   |   4   |   5   |  6   |  7  |  8  |   9   |  10   |  11   |
 # aside | netid | nodes | links | fsets | alpha | frac | zLP | zIP | enumt | linpt | intpt |
 
-for AREA in 10000 #9000 8000 7000 6000
+for AREA in 8000 7000
 do
-	for NETID in {1..500}
+	for NETID in {1..1000}
 	do
 		FLAG=false
 		for NODE in 10 20 30 40 50 60 70 80 90 100
@@ -20,14 +20,11 @@ do
 				SAIDA="$(./main.exe $AREA $NETID $NODE $ALPHA)"
 				IFS=$'\n' read -r -a linhas -d '' <<< "$SAIDA" # remove a linha obrigatoria impressa pelo gurobi em versao 7.5
 				CONTENT="${linhas[1]}"
-				echo $CONTENT
 				if [[ $CONTENT == *"ERROR1"* ]]; then
 					FLAG=true
 					break
 				fi
-				if [[ $CONTENT != *"ERROR0"* ]]; then
-					echo "$CONTENT" >> results/$AREA-$NETID-$NODE-$ALPHA.txt
-				fi
+				echo "$CONTENT" >> results/$AREA-$NETID-$NODE-$ALPHA.txt
 			done
 		done 
 	done

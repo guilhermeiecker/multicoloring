@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	uint64_t links, fsets;
 	double y, zLP, zIP;
 	double enumt, linpt, intpt; // enumt: enumeration time; linpt: simplex time; intpt: b&b time
-	bool frac = false;
+	bool frac, multi;
 
 	Network* network;
 	Enumerator* enumerator;
@@ -87,6 +87,7 @@ int main(int argc, char** argv)
 		zLP = model.get(GRB_DoubleAttr_ObjVal);
 		GRBVar* vars = model.getVars();
 
+		frac = false;
 		for (uint64_t i = 0; i < fsets; i++) {
 			y = vars[i].get(GRB_DoubleAttr_X);
 			if((y > 0.0) && (y < 1.0)) {
@@ -97,22 +98,29 @@ int main(int argc, char** argv)
 
 		ttt = clock();
 
-		for(uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
+		if (frac) {
+			for(uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
 
-		model.update();
-		model.optimize();
+			model.update();
+			model.optimize();
 
-		zIP = model.get(GRB_DoubleAttr_ObjVal);
-		
+			zIP = model.get(GRB_DoubleAttr_ObjVal);
+		} else {
+			zIP = zLP;
+		}
+
 		delete[] vars;
 
 		tttt = clock();
+
+		if (zLP < zIP) multi = true;
+		else multi = false;
 
 		enumt = double(tt - t)     / CLOCKS_PER_SEC;
 		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
 		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
 
-		cout << frac << "\t" << setprecision(6) << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t" << endl;
+		cout << multi << "\t" << setprecision(6) << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t" << endl;
 
 		return 0;
 	}

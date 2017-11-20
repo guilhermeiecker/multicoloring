@@ -3,7 +3,7 @@
 #   0   |   1   |   2   |   3   |   4   |   5   |  6   |  7  |  8  |   9   |  10   |  11   |
 # aside | netid | nodes | links | fsets | alpha | frac | zLP | zIP | enumt | linpt | intpt |
 
-for AREA in 10000 #9000 8000 7000 6000
+for AREA in 9000 6000
 do
 	for NETID in {1..1000}
 	do
