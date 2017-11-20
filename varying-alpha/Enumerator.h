@@ -8,13 +8,13 @@
 
 #include <iostream>	// cout, endl
 #include <stdint.h>	// uint64_t
-#include <math.h>	// pow, log
 #include <vector>	// vector
-#include <fstream>	// ifstream
 
 #include "Node.h"
 #include "Link.h"
 #include "Network.h"
+
+#include "gurobi_c++.h"
 
 #define MAX 2331756040 // a=8000,n=117,r=390,m=40
 
@@ -22,13 +22,16 @@ typedef unsigned __int128 uint128_t;
 
 using namespace std;
 
-class Enumerator
-{
+uint64_t log2(uint128_t);
+uint128_t pow2(uint64_t);
+
+class Enumerator {
 private:
-	uint64_t n, m, f, stop;
+	uint64_t n, m, f;
 	vector<Link*> cset;
 	Network* network;
-	ofstream* outfile;
+	GRBModel* model;
+	GRBLinExpr* constraints;
 
 	void add_link(uint64_t);
 	double calculate_interference(Node*, Node*);
@@ -37,56 +40,42 @@ private:
 	bool secondary_test();
 	double calculate_sinr(Link*);
 	void del_link(uint64_t);
+	void find_fset(uint128_t);
 
 public:
-	Enumerator(Network*, ofstream*);
+	Enumerator(Network*, GRBModel*);
 	void find_fset_entry();
-	void find_fset(uint128_t);
 	uint64_t get_fset();
 };
 
-uint64_t log2(uint128_t x) {
-        uint64_t count = 0;
-        while((x & 1) == 0) {
-                x = x >> 1;
-                count++;
-        }
-        return count;
-}
-
-uint128_t pow2(uint64_t x) {
-        uint128_t res = 1;
-        res = res << x;
-        return res;
+Enumerator::Enumerator(Network* _network, GRBModel* _model, GRBLinExpr* _constraints):
+	network(_network), model(_model), constraints(_constraints) {
+	n = network->get_nodes().size();
+	m = network->get_links().size();
+	f = 0;
 }
 
 void Enumerator::find_fset_entry() {
-	uint64_t limit = m;
-	uint128_t numero;
-	for (uint64_t i = 0; i < limit; i++) {
-		numero = pow2(i);
-		find_fset(numero);
+	uint128_t base;
+	for (uint64_t i = 0; i < m; i++) {
+		base = pow2(i);
+		find_fset(base);
 	}
 }
 
 void Enumerator::find_fset(uint128_t x) {
-	/*if (f >= stop) {
-		f = 0;
-		stop = 0;
-		return;
-	}*/
 	uint64_t limit = log2(x);
 	add_link(limit);
 	if (is_feasible()) {
-		outfile->write((char*)&x, sizeof(uint128_t));
 		f++;
+		GRBVar tmp = model->addVar(0.0, 1.0, 1.0, GRB_CONTINUOUS);
+		for (vector<Link*>::iterator i = cset.begin(); i != cset.end(); ++i) constraints[(*i)->get_id()] += tmp;
 		for (uint64_t i = 0; i < limit; i++) find_fset(x + pow2(i));
 	}
 	del_link(limit);
 }
 
-void Enumerator::add_link(uint64_t index)
-{
+void Enumerator::add_link(uint64_t index) {
 	if (!cset.empty()) {
 		double interfAB, interfBA;
 		for (vector<Link*>::iterator i = cset.begin(); i != cset.end(); ++i)
@@ -103,8 +92,7 @@ void Enumerator::add_link(uint64_t index)
 	cset.push_back(network->get_link(index));
 }
 
-double Enumerator::calculate_interference(Node* a, Node* b)
-{
+double Enumerator::calculate_interference(Node* a, Node* b) {
 	double dist = a->distance(*b);
 	if (dist > network->d0)
 		return pow(10.0, ((network->tpower_dBm - network->l0_dB - 10 * network->alpha*log10(dist / network->d0)) / 10.0));
@@ -112,8 +100,7 @@ double Enumerator::calculate_interference(Node* a, Node* b)
     		return pow(10.0, network->tpower_dBm - network->l0_dB / 10.0);
 }
 
-bool Enumerator::is_feasible()
-{
+bool Enumerator::is_feasible() {
 	if(cset.size() < 2)
 		return true;
 	if(cset.size() > n/2)
@@ -123,8 +110,7 @@ bool Enumerator::is_feasible()
 	return false;
 }
 
-bool Enumerator::primary_test()
-{
+bool Enumerator::primary_test() {
 	for (vector<Link*>::iterator i = cset.begin(); i != cset.end(); ++i)
 	{
 		if(((*i)->get_sender()->get_degree() > 1)||((*i)->get_recver()->get_degree() > 1))
@@ -133,8 +119,7 @@ bool Enumerator::primary_test()
 	return true;
 }
 
-bool Enumerator::secondary_test()
-{
+bool Enumerator::secondary_test() {
 	double sinr;
 	for(vector<Link*>::iterator i = cset.begin(); i != cset.end(); ++i)
 	{
@@ -145,13 +130,11 @@ bool Enumerator::secondary_test()
 	return true;
 }
 
-double Enumerator::calculate_sinr(Link* l)
-{
+double Enumerator::calculate_sinr(Link* l) {
     return l->get_rpower() / (network->noise_mW + l->clc_interf());
 }
 
-void Enumerator::del_link(uint64_t index)
-{
+void Enumerator::del_link(uint64_t index) {
 	cset.pop_back();
 	network->get_link(index)->get_sender()->dec_degree();
 	network->get_link(index)->get_recver()->dec_degree();
@@ -160,14 +143,19 @@ void Enumerator::del_link(uint64_t index)
 		    (*i)->del_interf();
 }
 
-Enumerator::Enumerator(Network* g, ofstream* file):
-	n(g->get_nodes().size()), m(g->get_links().size()), network(g), outfile(file)
-{
-	stop = (uint64_t) (MAX/m);
-	f = 0;
+uint64_t Enumerator::get_fset() { return f; }
+
+uint64_t log2(uint128_t x) {
+        uint64_t count = 0;
+        while((x & 1) == 0) {
+                x = x >> 1;
+                count++;
+        }
+        return count;
 }
 
-uint64_t Enumerator::get_fset()
-{
-	return f;
+uint128_t pow2(uint64_t x) {
+        uint128_t res = 1;
+        res = res << x;
+        return res;
 }
