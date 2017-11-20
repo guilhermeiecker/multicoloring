@@ -43,7 +43,7 @@ private:
 	void find_fset(uint128_t);
 
 public:
-	Enumerator(Network*, GRBModel*);
+	Enumerator(Network*, GRBModel*, GRBLinExpr*);
 	void find_fset_entry();
 	uint64_t get_fset();
 };
@@ -95,9 +95,9 @@ void Enumerator::add_link(uint64_t index) {
 double Enumerator::calculate_interference(Node* a, Node* b) {
 	double dist = a->distance(*b);
 	if (dist > network->d0)
-		return pow(10.0, ((network->tpower_dBm - network->l0_dB - 10 * network->alpha*log10(dist / network->d0)) / 10.0));
+		return pow(10.0, ((network->get_tpower() - network->l0_dB - 10 * network->get_alpha()*log10(dist / network->d0)) / 10.0));
 	else
-    		return pow(10.0, network->tpower_dBm - network->l0_dB / 10.0);
+    		return pow(10.0, network->get_tpower() - network->l0_dB / 10.0);
 }
 
 bool Enumerator::is_feasible() {

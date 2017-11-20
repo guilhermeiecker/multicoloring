@@ -12,10 +12,10 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	if(argc != 4)
+	if(argc != 5)
 	{
 		cout << "Missing arguments!" << endl;
-		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
+		cout << "USAGE: ./main <area side> <network id> <number of nodes> <alpha>" << endl;
 		return 0;
 	}
 
@@ -24,12 +24,12 @@ int main(int argc, char** argv)
 	double aside = (double)atof(argv[1]);
 	int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
-	double alpha = (double)atof(argv[2]);
+	double alpha = (double)atof(argv[4]);
 
 	uint64_t links, fsets;
 	double x, zLP, zIP;
 	double enumt, linpt, intpt; // enumt: enumeration time; linpt: simplex time; intpt: b&b time
-	bool frac;
+	bool frac = false;
 
 	Network* network;
 	Enumerator* enumerator;
@@ -88,13 +88,15 @@ int main(int argc, char** argv)
 
 		delete[] vars;
 		*/
+		zIP = 0.0;
+
 		tttt = clock();
 
 		enumt = double(tt - t)     / CLOCKS_PER_SEC;
 		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
 		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
 
-		cout << mtcol << "\t" << "\t" << zLP << "\t" << zIP"\t" << enumt << "\t" << enumt << "\t" << enumt << "\t" << endl;
+		cout << frac << "\t" << "\t" << zLP << "\t" << zIP << "\t" << enumt << "\t" << enumt << "\t" << enumt << "\t" << endl;
 
 		return 0;
 	}

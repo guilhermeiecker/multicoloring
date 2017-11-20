@@ -55,6 +55,8 @@ public:
 	void print_nodes();
 
 	uint64_t get_delta();
+	double get_alpha();
+	double get_tpower();
 };
 
 #include "Network.h"
@@ -112,3 +114,6 @@ void Network::print_nodes()
 	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i)
                 cout << "Node id=" << i->get_id() << " (" << i->get_x() << "," << i->get_y() << ")" << endl;
 }
+
+double Network::get_alpha() { return alpha; }
+double Network::get_tpower() { return tpower_dBm; }
