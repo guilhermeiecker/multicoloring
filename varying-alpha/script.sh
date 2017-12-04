@@ -5,15 +5,13 @@
 
 for AREA in 10000 9000 8000 7000 6000
 do
-	for NETID in {1..250}		#super
-	#for NETID in {251..500}	#node10
-	#for NETID in {501..750}	#gandalf1
-	#for NETID in {751..1000}	#gandalf2
+	for NETID in {1..300}		#super
+	#for NETID in {301..650}	#gandalf1
+	#for NETID in {651..1000}	#gandalf2
 	do
-		FLAG=false
-		for NODE in 10 20 30 40 50 60 70 80 90 100
+		for ALPHA in 3.0 3.2 3.4 3.6 3.8 4.0
 		do
-			for ALPHA in 3.0 3.2 3.4 3.6 3.8 4.0
+			for NODE 10 20 30 40 50 60 70 80 90 100
 			do
 				echo "Running for $AREA $NETID $NODE $ALPHA"
 				./main.exe $AREA $NETID $NODE $ALPHA >> results/$AREA-$NODE.txt
