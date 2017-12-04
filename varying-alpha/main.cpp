@@ -40,13 +40,11 @@ int main(int argc, char** argv)
 	links = network->get_links().size();
 
 	if (links == 0) {
-		cout << "Gurobi was not called yet." << endl;
-		cout << "ERROR0: Network has no links." << endl;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0" << endl;
 		return 0;
 	}
 	if (links > 128) {
-		cout << "Gurobi was not called yet." << endl;
-		cout << "ERROR1: Network has too many links (>128)." << endl;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0" << endl;
 		return 0;
 	}
 
@@ -70,7 +68,7 @@ int main(int argc, char** argv)
 		fsets = enumerator->get_fset();
 
 		if (fsets == 0) {
-			cout << "ERROR1: Network has too many feasible sets." << endl;
+			cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0" << endl;
 			return 0;
 		}
 
@@ -120,7 +118,7 @@ int main(int argc, char** argv)
 		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
 		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
 
-		cout << multi << "\t" << setprecision(6) << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t" << endl;
+		cout << multi << "\t" << setprecision(6) << zLP << "\t" << zIP << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t1" << endl;
 
 		return 0;
 	}

@@ -84,13 +84,18 @@ void Network::set_nodes()
 void Network::set_links() {
 	double pr, dist;
 	uint64_t index = 0;
+	int coin;
 	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i) {
 		for (vector<Node>::iterator j = i + 1; j != nodes.end(); ++j) {
 			dist = i->distance(*j);
 			if (dist <= max_range) {
 				if (dist > d0) pr = pow(10.0, ((tpower_dBm - l0_dB - 10*alpha*log10(dist / d0))/10.0));
 				else pr = pow(10.0, ((tpower_dBm - l0_dB) / 10.0));
-				links.push_back(Link(&(*i), &(*j), index++, dist, pr));
+				coin = random();
+				if (coin % 2 == 0)
+					links.push_back(Link(&(*i), &(*j), index++, dist, pr));
+				else
+					links.push_back(Link(&(*j), &(*i), index++, dist, pr));
 			}
 		}
 	}
