@@ -3,12 +3,13 @@
 #   0   |   1   |   2   |   3   |   4   |   5   |  6   |  7  |  8  |   9   |  10   |  11   |
 # aside | netid | nodes | links | fsets | alpha | frac | zLP | zIP | enumt | linpt | intpt |
 
-for AREA in 8000 7000
+for AREA in 11000 9000 7000
 do
 	for NETID in {1..1000}
 	do
 		FLAG=false
-		for NODE in 10 20 30 40 50 60 70 80 90 100
+		#for NODE in 10 20 30 40 50 60 70 80 90 100
+		for NODE in 110 120 130 140 150 160 170 180 190 200
 		do
 			if $FLAG; then
 				break
