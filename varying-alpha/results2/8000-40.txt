@@ -1,0 +1,3861 @@
+8000	651	40	3	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	651	40	3.2	60	283	0	45	45	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	651	40	3.4	25	208	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	651	40	3.6	11	74	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	651	40	3.8	6	23	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	651	40	4	3	5	0	2	2	0	0	0	1
+8000	652	40	3	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	652	40	3.2	66	1117	1	40.5	41	0.03	0	0.01	1
+Academic license - for non-commercial use only
+8000	652	40	3.4	34	927	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	652	40	3.6	17	271	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	652	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	652	40	4	3	6	1	1.5	2	0	0	0	1
+8000	653	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	653	40	3.2	50	461	0	35	35	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	653	40	3.4	26	502	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	653	40	3.6	18	326	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	653	40	3.8	7	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	653	40	4	5	23	0	2	2	0	0	0	1
+8000	654	40	3	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	654	40	3.2	61	234	0	52	52	0	0	0	1
+Academic license - for non-commercial use only
+8000	654	40	3.4	29	192	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	654	40	3.6	15	102	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	654	40	3.8	6	25	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	654	40	4	4	15	0	1	1	0	0	0	1
+8000	655	40	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	655	40	3.2	74	668	0	59	59	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	655	40	3.4	31	815	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	655	40	3.6	16	603	0	5	5	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	655	40	3.8	10	241	1	2.5	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	655	40	4	6	63	0	1	1	0	0	0	1
+8000	656	40	3	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	656	40	3.2	69	323	0	51	51	0	0	0	1
+Academic license - for non-commercial use only
+8000	656	40	3.4	41	270	0	26	26	0	0	0	1
+Academic license - for non-commercial use only
+8000	656	40	3.6	22	162	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	656	40	3.8	9	59	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	656	40	4	7	30	0	3	3	0	0	0	1
+8000	657	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	657	40	3.2	51	201	0	39	39	0	0	0	1
+Academic license - for non-commercial use only
+8000	657	40	3.4	20	121	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	657	40	3.6	7	43	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	657	40	3.8	5	31	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	657	40	4	3	7	0	1	1	0	0	0	1
+8000	658	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	658	40	3.2	61	322	1	45.75	46	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	658	40	3.4	26	256	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	658	40	3.6	11	63	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	658	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	658	40	4	3	7	0	1	1	0	0	0	1
+8000	659	40	3	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	659	40	3.2	62	537	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	659	40	3.4	30	490	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	659	40	3.6	14	184	1	4.25	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	659	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	659	40	4	3	7	0	1	1	0	0	0	1
+8000	660	40	3	130	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	660	40	3.2	55	386	0	36	36	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	660	40	3.4	29	311	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	660	40	3.6	11	117	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	660	40	3.8	6	19	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	660	40	4	2	2	0	2	2	0	0	0	1
+8000	661	40	3	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	661	40	3.2	60	802	0	38	38	0.02	0	0.01	1
+Academic license - for non-commercial use only
+8000	661	40	3.4	32	883	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	661	40	3.6	17	405	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	661	40	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	661	40	4	5	31	0	1	1	0	0	0	1
+8000	662	40	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	662	40	3.2	68	174	0	59	59	0	0	0	1
+Academic license - for non-commercial use only
+8000	662	40	3.4	29	124	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	662	40	3.6	16	73	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	662	40	3.8	8	20	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	662	40	4	6	14	0	4	4	0	0	0	1
+8000	663	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	663	40	3.2	80	1025	0	56	56	0.03	0	0	1
+Academic license - for non-commercial use only
+8000	663	40	3.4	40	1059	0	20	20	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	663	40	3.6	21	515	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	663	40	3.8	11	122	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	663	40	4	5	15	0	3	3	0	0	0	1
+8000	664	40	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	664	40	3.2	76	410	0	67	67	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	664	40	3.4	37	378	0	27	27	0	0	0	1
+Academic license - for non-commercial use only
+8000	664	40	3.6	19	242	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	664	40	3.8	8	49	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	664	40	4	4	11	0	2	2	0	0	0	1
+8000	665	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	665	40	3.2	73	518	0	54	54	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	665	40	3.4	32	491	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	665	40	3.6	15	245	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	665	40	3.8	9	97	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	665	40	4	6	47	0	2	2	0	0	0	1
+8000	666	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	666	40	3.2	51	220	0	38	38	0	0	0	1
+Academic license - for non-commercial use only
+8000	666	40	3.4	19	237	1	8.5	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	666	40	3.6	12	145	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	666	40	3.8	6	44	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	666	40	4	4	15	0	1	1	0	0	0	1
+8000	667	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	667	40	3.2	54	152	1	41.5	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	667	40	3.4	23	112	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	667	40	3.6	8	36	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	667	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	667	40	4	3	5	0	2	2	0	0	0	1
+8000	668	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	668	40	3.2	62	314	0	50	50	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	668	40	3.4	21	224	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	668	40	3.6	9	104	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	668	40	3.8	6	35	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	668	40	4	3	7	0	1	1	0	0	0	1
+8000	669	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	669	40	3.2	69	265	1	52.5	53	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	669	40	3.4	27	189	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	669	40	3.6	13	61	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	669	40	3.8	5	9	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	669	40	4	2	3	0	1	1	0	0	0	1
+8000	670	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	670	40	3.2	64	1350	0	38	38	0.04	0	0	1
+Academic license - for non-commercial use only
+8000	670	40	3.4	37	2054	0	15	15	0.02	0.01	0	1
+Academic license - for non-commercial use only
+8000	670	40	3.6	22	2130	0	7	7	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	670	40	3.8	15	1150	1	3.5	4	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	670	40	4	9	179	0	2	2	0	0	0	1
+8000	671	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	671	40	3.2	64	409	0	51	51	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	671	40	3.4	28	453	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	671	40	3.6	16	217	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	671	40	3.8	9	62	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	671	40	4	5	15	0	3	3	0	0	0	1
+8000	672	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	672	40	3.2	59	295	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	672	40	3.4	28	215	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	672	40	3.6	12	133	1	4.5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	672	40	3.8	7	59	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	672	40	4	5	31	0	1	1	0	0	0	1
+8000	673	40	3	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	673	40	3.2	62	308	0	48	48	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	673	40	3.4	22	243	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	673	40	3.6	13	137	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	673	40	3.8	8	41	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	673	40	4	2	3	0	1	1	0	0	0	1
+8000	674	40	3	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	674	40	3.2	58	465	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	674	40	3.4	25	399	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	674	40	3.6	14	146	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	674	40	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	674	40	4	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	675	40	3	126	349	0	112	112	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	675	40	3.2	51	345	0	36	36	0	0	0	1
+Academic license - for non-commercial use only
+8000	675	40	3.4	24	280	1	11.2857	12	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	675	40	3.6	14	207	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	675	40	3.8	8	114	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	675	40	4	5	31	0	1	1	0	0	0	1
+8000	676	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	676	40	3.2	58	352	0	44	44	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	676	40	3.4	27	318	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	676	40	3.6	14	205	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	676	40	3.8	7	30	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	676	40	4	2	3	0	1	1	0	0	0	1
+8000	677	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	677	40	3.2	78	544	0	60	60	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	677	40	3.4	39	578	0	24	24	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	677	40	3.6	21	187	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	677	40	3.8	7	44	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	677	40	4	4	15	0	1	1	0	0	0	1
+8000	678	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	678	40	3.2	69	349	0	56	56	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	678	40	3.4	33	286	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	678	40	3.6	16	161	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	678	40	3.8	8	41	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	678	40	4	3	5	0	2	2	0	0	0	1
+8000	679	40	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	679	40	3.2	73	195	0	64	64	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	679	40	3.4	28	155	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	679	40	3.6	13	108	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	679	40	3.8	6	20	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	679	40	4	3	7	0	1	1	0	0	0	1
+8000	680	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	680	40	3.2	75	4269	0	44	44	0.13	0	0.03	1
+Academic license - for non-commercial use only
+8000	680	40	3.4	38	5626	0	14	14	0.09	0.01	0	1
+Academic license - for non-commercial use only
+8000	680	40	3.6	23	2874	0	7	7	0.03	0	0	1
+Academic license - for non-commercial use only
+8000	680	40	3.8	17	1116	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	680	40	4	10	215	0	3	3	0	0	0	1
+8000	681	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	681	40	3.2	57	223	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	681	40	3.4	30	219	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	681	40	3.6	18	124	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	681	40	3.8	11	78	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	681	40	4	6	47	0	2	2	0	0	0	1
+8000	682	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	682	40	3.2	63	484	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	682	40	3.4	25	435	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	682	40	3.6	14	294	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	682	40	3.8	9	105	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	682	40	4	6	39	0	2	2	0	0	0	1
+8000	683	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	683	40	3.2	71	203	0	61	61	0	0	0	1
+Academic license - for non-commercial use only
+8000	683	40	3.4	29	120	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	683	40	3.6	13	83	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	683	40	3.8	5	19	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	683	40	4	4	15	0	1	1	0	0	0	1
+8000	684	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	684	40	3.2	69	559	0	51	51	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	684	40	3.4	30	666	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	684	40	3.6	24	388	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	684	40	3.8	13	174	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	684	40	4	6	47	0	2	2	0	0	0	1
+8000	685	40	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	685	40	3.2	70	189	0	59	59	0	0	0	1
+Academic license - for non-commercial use only
+8000	685	40	3.4	33	157	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	685	40	3.6	16	78	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	685	40	3.8	8	27	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	685	40	4	3	5	0	2	2	0	0	0	1
+8000	686	40	3	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	686	40	3.2	69	355	0	55	55	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	686	40	3.4	36	323	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	686	40	3.6	15	152	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	686	40	3.8	7	43	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	686	40	4	4	15	0	1	1	0	0	0	1
+8000	687	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	687	40	3.2	56	293	1	44.5	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	687	40	3.4	26	265	1	14.5	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	687	40	3.6	12	165	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	687	40	3.8	8	95	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	687	40	4	7	63	0	3	3	0	0	0	1
+8000	688	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	688	40	3.2	61	373	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	688	40	3.4	29	405	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	688	40	3.6	16	129	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	688	40	3.8	9	43	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	688	40	4	6	14	0	4	4	0	0	0	1
+8000	689	40	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	689	40	3.2	76	202	1	62.5	63	0	0	0	1
+Academic license - for non-commercial use only
+8000	689	40	3.4	29	153	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	689	40	3.6	16	68	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	689	40	3.8	8	20	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	689	40	4	6	19	0	3	3	0	0	0	1
+8000	690	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	690	40	3.2	68	311	0	54	54	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	690	40	3.4	28	260	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	690	40	3.6	11	90	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	690	40	3.8	6	17	0	3	3	0	0	0	1
+8000	690	40	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+8000	691	40	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	691	40	3.2	57	175	0	46	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	691	40	3.4	26	105	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	691	40	3.6	9	36	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	691	40	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	691	40	4	3	7	0	1	1	0	0	0	1
+8000	692	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	692	40	3.2	63	350	0	50	50	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	692	40	3.4	27	288	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	692	40	3.6	12	202	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	692	40	3.8	8	107	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	692	40	4	4	8	0	2	2	0	0	0	1
+8000	693	40	3	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	693	40	3.2	67	331	0	53	53	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	693	40	3.4	33	334	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	693	40	3.6	17	209	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	693	40	3.8	9	83	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	693	40	4	3	5	0	2	2	0	0	0	1
+8000	694	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	694	40	3.2	63	599	0	44	44	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	694	40	3.4	30	517	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	694	40	3.6	15	333	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	694	40	3.8	8	83	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	694	40	4	5	14	0	3	3	0	0	0	1
+8000	695	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	695	40	3.2	65	268	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	695	40	3.4	24	220	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	695	40	3.6	11	142	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	695	40	3.8	7	55	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	695	40	4	5	31	0	1	1	0	0	0	1
+8000	696	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	696	40	3.2	61	231	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	696	40	3.4	24	207	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	696	40	3.6	11	125	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	696	40	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	696	40	4	2	3	0	1	1	0	0	0	1
+8000	697	40	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	697	40	3.2	76	266	0	62	62	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	697	40	3.4	33	218	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	697	40	3.6	13	94	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	697	40	3.8	7	33	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	697	40	4	5	19	0	2	2	0	0	0	1
+8000	698	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	698	40	3.2	55	276	0	40	40	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	698	40	3.4	27	232	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	698	40	3.6	12	81	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	698	40	3.8	7	41	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	698	40	4	5	23	0	2	2	0	0	0	1
+8000	699	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	699	40	3.2	79	389	0	62	62	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	699	40	3.4	34	347	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	699	40	3.6	16	212	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	699	40	3.8	7	20	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	699	40	4	2	3	0	1	1	0	0	0	1
+8000	700	40	3	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	700	40	3.2	58	324	1	41.3333	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	700	40	3.4	25	221	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	700	40	3.6	11	58	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	700	40	3.8	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	700	40	4	1	1	0	1	1	0	0	0	1
+8000	701	40	3	130	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	701	40	3.2	47	193	0	35	35	0	0	0	1
+Academic license - for non-commercial use only
+8000	701	40	3.4	21	127	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	701	40	3.6	9	70	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	701	40	3.8	6	25	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	701	40	4	2	3	0	1	1	0	0	0	1
+8000	702	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	702	40	3.2	50	226	0	41	41	0	0	0	1
+Academic license - for non-commercial use only
+8000	702	40	3.4	25	173	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	702	40	3.6	12	65	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	702	40	3.8	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	702	40	4	2	3	0	1	1	0	0	0	1
+8000	703	40	3	132	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	703	40	3.2	55	932	0	38	38	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	703	40	3.4	32	923	0	19	19	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	703	40	3.6	16	692	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	703	40	3.8	11	359	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	703	40	4	7	95	0	2	2	0	0	0	1
+8000	704	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	704	40	3.2	50	544	1	32.25	33	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	704	40	3.4	28	622	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	704	40	3.6	19	434	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	704	40	3.8	6	30	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	704	40	4	4	9	0	2	2	0	0	0	1
+8000	705	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	705	40	3.2	69	274	0	58	58	0	0	0	1
+Academic license - for non-commercial use only
+8000	705	40	3.4	26	193	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	705	40	3.6	14	121	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	705	40	3.8	10	87	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	705	40	4	4	11	0	2	2	0	0	0	1
+8000	706	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	706	40	3.2	60	321	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	706	40	3.4	31	289	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	706	40	3.6	12	157	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	706	40	3.8	7	43	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	706	40	4	6	35	0	2	2	0	0	0	1
+8000	707	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	707	40	3.2	69	307	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	707	40	3.4	36	214	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	707	40	3.6	14	74	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	707	40	3.8	7	22	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	707	40	4	3	7	0	1	1	0	0	0	1
+8000	708	40	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	708	40	3.2	72	802	0	54	54	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	708	40	3.4	43	780	0	28	28	0	0	0	1
+Academic license - for non-commercial use only
+8000	708	40	3.6	20	400	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	708	40	3.8	9	80	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	708	40	4	5	31	0	1	1	0	0	0	1
+8000	709	40	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	709	40	3.2	64	192	0	55	55	0	0	0	1
+Academic license - for non-commercial use only
+8000	709	40	3.4	24	144	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	709	40	3.6	12	90	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	709	40	3.8	7	24	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	709	40	4	2	3	0	1	1	0	0	0	1
+8000	710	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	710	40	3.2	65	505	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	710	40	3.4	32	351	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	710	40	3.6	17	176	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	710	40	3.8	10	51	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	710	40	4	5	9	0	4	4	0	0	0	1
+8000	711	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	711	40	3.2	56	240	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	711	40	3.4	24	175	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	711	40	3.6	11	64	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	711	40	3.8	6	17	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	711	40	4	2	3	0	1	1	0	0	0	1
+8000	712	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	712	40	3.2	69	1037	0	46	46	0.07	0	0	1
+Academic license - for non-commercial use only
+8000	712	40	3.4	34	1123	0	18	18	0.01	0.01	0	1
+Academic license - for non-commercial use only
+8000	712	40	3.6	18	861	0	6	6	0.01	0	0.02	1
+Academic license - for non-commercial use only
+8000	712	40	3.8	11	499	0	3	3	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	712	40	4	8	255	0	1	1	0	0	0	1
+8000	713	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	713	40	3.2	56	357	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	713	40	3.4	23	375	0	12	12	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	713	40	3.6	16	138	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	713	40	3.8	9	59	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	713	40	4	5	15	0	3	3	0	0	0	1
+8000	714	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	714	40	3.2	55	400	0	41	41	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	714	40	3.4	33	411	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	714	40	3.6	14	141	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	714	40	3.8	6	35	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	714	40	4	4	11	0	2	2	0	0	0	1
+8000	715	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	715	40	3.2	73	1072	0	49	49	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	715	40	3.4	33	958	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	715	40	3.6	18	294	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	715	40	3.8	8	38	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	715	40	4	2	2	0	2	2	0	0	0	1
+8000	716	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	716	40	3.2	65	413	0	47	47	0	0	0	1
+Academic license - for non-commercial use only
+8000	716	40	3.4	25	379	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	716	40	3.6	14	271	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	716	40	3.8	8	57	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	716	40	4	3	5	0	2	2	0	0	0	1
+8000	717	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	717	40	3.2	58	222	0	50	50	0	0	0	1
+Academic license - for non-commercial use only
+8000	717	40	3.4	23	190	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	717	40	3.6	15	139	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	717	40	3.8	11	71	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	717	40	4	6	39	0	2	2	0	0	0	1
+8000	718	40	3	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	718	40	3.2	63	244	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	718	40	3.4	28	155	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	718	40	3.6	9	29	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	718	40	3.8	6	17	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	718	40	4	4	11	0	2	2	0	0	0	1
+8000	719	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	719	40	3.2	54	367	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	719	40	3.4	23	279	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	719	40	3.6	12	141	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	719	40	3.8	5	19	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	719	40	4	4	15	0	1	1	0	0	0	1
+8000	720	40	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	720	40	3.2	75	780	0	56	56	0.04	0	0.01	1
+Academic license - for non-commercial use only
+8000	720	40	3.4	35	776	0	21	21	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	720	40	3.6	19	401	1	7.66667	8	0	0	0.02	1
+Academic license - for non-commercial use only
+8000	720	40	3.8	11	137	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	720	40	4	5	15	0	3	3	0	0	0	1
+8000	721	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	721	40	3.2	62	251	0	46	46	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	721	40	3.4	21	128	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	721	40	3.6	8	80	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	721	40	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	721	40	4	4	15	0	1	1	0	0	0	1
+8000	722	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	722	40	3.2	55	370	0	41	41	0	0	0	1
+Academic license - for non-commercial use only
+8000	722	40	3.4	26	291	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	722	40	3.6	13	84	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	722	40	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	722	40	4	2	3	0	1	1	0	0	0	1
+8000	723	40	3	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	723	40	3.2	69	145	0	62	62	0	0	0	1
+Academic license - for non-commercial use only
+8000	723	40	3.4	25	102	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	723	40	3.6	12	56	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	723	40	3.8	7	37	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	723	40	4	4	15	0	1	1	0	0	0	1
+8000	724	40	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	724	40	3.2	68	392	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	724	40	3.4	34	444	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	724	40	3.6	19	395	1	6.33333	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	724	40	3.8	14	179	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	724	40	4	5	19	0	2	2	0	0	0	1
+8000	725	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	725	40	3.2	54	310	0	41	41	0	0	0	1
+Academic license - for non-commercial use only
+8000	725	40	3.4	28	300	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	725	40	3.6	15	158	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	725	40	3.8	7	27	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	725	40	4	5	9	0	4	4	0	0	0	1
+8000	726	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	726	40	3.2	67	385	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	726	40	3.4	28	315	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	726	40	3.6	11	84	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	726	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	726	40	4	1	1	0	1	1	0	0	0	1
+8000	727	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	727	40	3.2	68	1113	0	47	47	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	727	40	3.4	37	974	0	18	18	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	727	40	3.6	18	473	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	727	40	3.8	11	113	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	727	40	4	3	5	0	2	2	0	0	0	1
+8000	728	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	728	40	3.2	71	266	0	58	58	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	728	40	3.4	32	268	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	728	40	3.6	13	112	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	728	40	3.8	7	15	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	728	40	4	4	7	0	3	3	0	0	0	1
+8000	729	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	729	40	3.2	57	718	0	41	41	0.01	0.01	0	1
+Academic license - for non-commercial use only
+8000	729	40	3.4	28	864	1	12.5	13	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	729	40	3.6	18	761	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	729	40	3.8	11	287	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	729	40	4	7	40	0	3	3	0	0	0	1
+8000	730	40	3	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	730	40	3.2	61	308	0	46	46	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	730	40	3.4	29	286	1	15.5	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	730	40	3.6	15	166	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	730	40	3.8	9	74	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	730	40	4	5	13	0	3	3	0	0	0	1
+8000	731	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	731	40	3.2	67	268	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	731	40	3.4	26	175	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	731	40	3.6	11	101	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	731	40	3.8	7	35	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	731	40	4	4	11	0	2	2	0	0	0	1
+8000	732	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	732	40	3.2	57	324	0	42	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	732	40	3.4	25	229	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	732	40	3.6	11	73	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	732	40	3.8	6	23	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	732	40	4	1	1	0	1	1	0	0	0	1
+8000	733	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	733	40	3.2	70	224	0	57	57	0	0	0	1
+Academic license - for non-commercial use only
+8000	733	40	3.4	28	181	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	733	40	3.6	14	78	1	6.8	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	733	40	3.8	6	16	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	733	40	4	2	3	0	1	1	0	0	0	1
+8000	734	40	3	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	734	40	3.2	55	328	0	43	43	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	734	40	3.4	26	384	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	734	40	3.6	14	326	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	734	40	3.8	8	167	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	734	40	4	4	15	0	1	1	0	0	0	1
+8000	735	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	735	40	3.2	60	178	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	735	40	3.4	27	96	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	735	40	3.6	12	31	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	735	40	3.8	9	15	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	735	40	4	2	2	0	2	2	0	0	0	1
+8000	736	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	736	40	3.2	76	623	0	61	61	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	736	40	3.4	36	999	1	24	24	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	736	40	3.6	22	791	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	736	40	3.8	13	319	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	736	40	4	10	89	0	4	4	0	0	0	1
+8000	737	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	737	40	3.2	74	1017	0	48	48	0.03	0	0	1
+Academic license - for non-commercial use only
+8000	737	40	3.4	36	1005	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	737	40	3.6	20	728	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	737	40	3.8	8	119	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	737	40	4	3	7	0	1	1	0	0	0	1
+8000	738	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	738	40	3.2	57	134	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	738	40	3.4	24	86	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	738	40	3.6	9	37	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	738	40	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	738	40	4	1	1	0	1	1	0	0	0	1
+8000	739	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	739	40	3.2	72	212	0	60	60	0	0	0	1
+Academic license - for non-commercial use only
+8000	739	40	3.4	28	172	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	739	40	3.6	14	105	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	739	40	3.8	9	48	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	739	40	4	6	21	0	3	3	0	0	0	1
+8000	740	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	740	40	3.2	63	235	0	50	50	0	0	0	1
+Academic license - for non-commercial use only
+8000	740	40	3.4	22	160	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	740	40	3.6	9	77	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	740	40	3.8	6	25	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	740	40	4	3	5	0	2	2	0	0	0	1
+8000	741	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	741	40	3.2	64	346	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	741	40	3.4	27	339	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	741	40	3.6	14	226	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	741	40	3.8	10	161	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	741	40	4	7	49	0	3	3	0	0	0	1
+8000	742	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	742	40	3.2	56	196	0	46	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	742	40	3.4	27	169	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	742	40	3.6	12	75	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	742	40	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	742	40	4	4	13	1	1.5	2	0	0	0	1
+8000	743	40	3	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	743	40	3.2	71	161	0	64	64	0	0	0	1
+Academic license - for non-commercial use only
+8000	743	40	3.4	30	101	0	25	25	0	0	0	1
+Academic license - for non-commercial use only
+8000	743	40	3.6	12	43	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	743	40	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	743	40	4	2	2	0	2	2	0	0	0	1
+8000	744	40	3	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	744	40	3.2	67	306	0	55	55	0	0	0	1
+Academic license - for non-commercial use only
+8000	744	40	3.4	33	216	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	744	40	3.6	8	55	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	744	40	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	744	40	4	4	15	0	1	1	0	0	0	1
+8000	745	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	745	40	3.2	51	164	0	42	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	745	40	3.4	25	128	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	745	40	3.6	12	85	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	745	40	3.8	7	36	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	745	40	4	5	17	0	2	2	0	0	0	1
+8000	746	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	746	40	3.2	73	524	0	56	56	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	746	40	3.4	33	454	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	746	40	3.6	17	193	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	746	40	3.8	9	131	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	746	40	4	7	59	0	2	2	0	0	0	1
+8000	747	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	747	40	3.2	70	249	0	56	56	0	0	0	1
+Academic license - for non-commercial use only
+8000	747	40	3.4	32	144	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	747	40	3.6	15	48	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	747	40	3.8	7	12	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	747	40	4	4	4	0	4	4	0	0	0	1
+8000	748	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	748	40	3.2	63	306	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	748	40	3.4	22	189	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	748	40	3.6	10	57	1	4.5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	748	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	748	40	4	2	2	0	2	2	0	0	0	1
+8000	749	40	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	749	40	3.2	78	285	0	70	70	0	0	0	1
+Academic license - for non-commercial use only
+8000	749	40	3.4	39	152	0	34	34	0	0	0	1
+Academic license - for non-commercial use only
+8000	749	40	3.6	16	31	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	749	40	3.8	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	749	40	4	3	3	0	3	3	0	0	0	1
+8000	750	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	750	40	3.2	74	627	0	59	59	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	750	40	3.4	36	622	0	23	23	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	750	40	3.6	13	267	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	750	40	3.8	9	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	750	40	4	4	7	0	3	3	0	0	0	1
+8000	751	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	751	40	3.2	61	281	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	751	40	3.4	30	198	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	751	40	3.6	11	79	1	5.5	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	751	40	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	751	40	4	3	5	0	2	2	0	0	0	1
+8000	752	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	752	40	3.2	52	210	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	752	40	3.4	25	164	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	752	40	3.6	10	82	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	752	40	3.8	6	20	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	752	40	4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	753	40	3	119	384	0	104	104	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	753	40	3.2	46	432	1	30.3333	31	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	753	40	3.4	25	555	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	753	40	3.6	15	575	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	753	40	3.8	13	367	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	753	40	4	6	35	0	2	2	0	0	0	1
+8000	754	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	754	40	3.2	75	811	0	57	57	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	754	40	3.4	35	868	0	20	20	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	754	40	3.6	22	513	0	11	11	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	754	40	3.8	11	84	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	754	40	4	5	15	0	3	3	0	0	0	1
+8000	755	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	755	40	3.2	58	648	0	39	39	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	755	40	3.4	31	670	1	15.6	16	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	755	40	3.6	19	495	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	755	40	3.8	11	209	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	755	40	4	5	23	0	2	2	0	0	0	1
+8000	756	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	756	40	3.2	65	499	0	52	52	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	756	40	3.4	28	427	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	756	40	3.6	13	164	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	756	40	3.8	8	111	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	756	40	4	4	15	0	1	1	0	0	0	1
+8000	757	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	757	40	3.2	62	159	0	51	51	0	0	0	1
+Academic license - for non-commercial use only
+8000	757	40	3.4	24	92	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	757	40	3.6	8	50	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	757	40	3.8	6	25	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	757	40	4	4	15	0	1	1	0	0	0	1
+8000	758	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	758	40	3.2	64	307	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	758	40	3.4	22	292	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	758	40	3.6	11	217	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	758	40	3.8	8	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	758	40	4	4	15	0	1	1	0	0	0	1
+8000	759	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	759	40	3.2	57	269	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	759	40	3.4	29	137	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	759	40	3.6	11	35	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	759	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	759	40	4	3	7	0	1	1	0	0	0	1
+8000	760	40	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	760	40	3.2	64	249	0	50	50	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	760	40	3.4	28	277	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	760	40	3.6	17	190	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	760	40	3.8	8	29	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	760	40	4	5	20	0	2	2	0	0	0	1
+8000	761	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	761	40	3.2	53	188	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	761	40	3.4	25	114	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	761	40	3.6	9	40	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	761	40	3.8	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	761	40	4	1	1	0	1	1	0	0	0	1
+8000	762	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	762	40	3.2	59	259	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	762	40	3.4	29	282	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	762	40	3.6	17	182	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	762	40	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	762	40	4	4	15	0	1	1	0	0	0	1
+8000	763	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	763	40	3.2	67	529	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	763	40	3.4	27	538	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	763	40	3.6	11	209	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	763	40	3.8	7	71	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	763	40	4	5	22	0	2	2	0	0	0	1
+8000	764	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	764	40	3.2	63	493	0	44	44	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	764	40	3.4	32	437	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	764	40	3.6	18	231	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	764	40	3.8	8	91	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	764	40	4	6	35	0	2	2	0	0	0	1
+8000	765	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	765	40	3.2	55	197	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	765	40	3.4	21	139	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	765	40	3.6	8	63	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	765	40	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	765	40	4	2	3	0	1	1	0	0	0	1
+8000	766	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	766	40	3.2	69	496	0	52	52	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	766	40	3.4	31	312	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	766	40	3.6	13	94	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	766	40	3.8	7	33	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	766	40	4	5	23	0	2	2	0	0	0	1
+8000	767	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	767	40	3.2	54	509	1	35.6667	36	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	767	40	3.4	30	427	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	767	40	3.6	13	174	1	5.5	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	767	40	3.8	8	74	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	767	40	4	6	47	0	2	2	0	0	0	1
+8000	768	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	768	40	3.2	46	192	0	35	35	0	0	0	1
+Academic license - for non-commercial use only
+8000	768	40	3.4	23	172	1	13.5	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	768	40	3.6	11	84	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	768	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	768	40	4	2	3	0	1	1	0	0	0	1
+8000	769	40	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	769	40	3.2	80	256	0	71	71	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	769	40	3.4	37	185	0	28	28	0	0	0	1
+Academic license - for non-commercial use only
+8000	769	40	3.6	13	86	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	769	40	3.8	5	13	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	769	40	4	2	3	0	1	1	0	0	0	1
+8000	770	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	770	40	3.2	71	219	0	61	61	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	770	40	3.4	26	155	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	770	40	3.6	13	101	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	770	40	3.8	5	13	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	770	40	4	3	4	0	2	2	0	0	0	1
+8000	771	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	771	40	3.2	47	308	0	34	34	0	0	0	1
+Academic license - for non-commercial use only
+8000	771	40	3.4	25	320	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	771	40	3.6	18	246	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	771	40	3.8	7	48	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	771	40	4	2	3	0	1	1	0	0	0	1
+8000	772	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	772	40	3.2	65	366	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	772	40	3.4	25	306	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	772	40	3.6	12	189	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	772	40	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	772	40	4	6	63	0	1	1	0	0	0	1
+8000	773	40	3	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	773	40	3.2	56	132	0	47	47	0	0	0	1
+Academic license - for non-commercial use only
+8000	773	40	3.4	24	79	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	773	40	3.6	6	15	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	773	40	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	773	40	4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	774	40	3	125	242	0	113	113	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	774	40	3.2	53	189	1	41.5	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	774	40	3.4	18	92	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	774	40	3.6	5	14	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	774	40	3.8	2	3	0	1	1	0	0	0	1
+8000	774	40	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	775	40	3	116	456	0	98	98	0.03	0	0	1
+Academic license - for non-commercial use only
+8000	775	40	3.2	47	580	0	30	30	0	0	0	1
+Academic license - for non-commercial use only
+8000	775	40	3.4	22	511	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	775	40	3.6	10	132	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	775	40	3.8	7	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	775	40	4	5	31	0	1	1	0	0	0	1
+8000	776	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	776	40	3.2	61	178	0	52	52	0	0	0	1
+Academic license - for non-commercial use only
+8000	776	40	3.4	21	122	1	10.6667	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	776	40	3.6	13	48	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	776	40	3.8	5	9	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	776	40	4	2	3	0	1	1	0	0	0	1
+8000	777	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	777	40	3.2	73	543	0	56	56	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	777	40	3.4	37	425	0	26	26	0	0	0	1
+Academic license - for non-commercial use only
+8000	777	40	3.6	19	329	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	777	40	3.8	11	225	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	777	40	4	9	191	0	3	3	0	0	0	1
+8000	778	40	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	778	40	3.2	67	151	0	59	59	0	0	0	1
+Academic license - for non-commercial use only
+8000	778	40	3.4	25	96	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	778	40	3.6	10	57	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	778	40	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	778	40	4	5	9	0	4	4	0	0	0	1
+8000	779	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	779	40	3.2	59	233	1	45.5	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	779	40	3.4	25	156	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	779	40	3.6	10	58	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	779	40	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	779	40	4	3	7	0	1	1	0	0	0	1
+8000	780	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	780	40	3.2	65	323	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	780	40	3.4	23	234	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	780	40	3.6	13	133	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	780	40	3.8	6	29	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	780	40	4	4	8	0	2	2	0	0	0	1
+8000	781	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	781	40	3.2	66	423	0	46	46	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	781	40	3.4	31	282	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	781	40	3.6	13	70	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	781	40	3.8	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	781	40	4	3	7	0	1	1	0	0	0	1
+8000	782	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	782	40	3.2	45	183	0	34	34	0	0	0	1
+Academic license - for non-commercial use only
+8000	782	40	3.4	22	152	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	782	40	3.6	12	58	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	782	40	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	782	40	4	2	3	0	1	1	0	0	0	1
+8000	783	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	783	40	3.2	68	207	1	53.5	54	0	0	0	1
+Academic license - for non-commercial use only
+8000	783	40	3.4	26	138	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	783	40	3.6	10	79	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	783	40	3.8	8	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	783	40	4	6	19	0	3	3	0	0	0	1
+8000	784	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	784	40	3.2	66	426	0	54	54	0	0	0	1
+Academic license - for non-commercial use only
+8000	784	40	3.4	32	382	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	784	40	3.6	16	320	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	784	40	3.8	10	108	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	784	40	4	6	23	0	3	3	0	0	0	1
+8000	785	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	785	40	3.2	67	460	0	55	55	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	785	40	3.4	35	439	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	785	40	3.6	22	185	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	785	40	3.8	13	83	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	785	40	4	6	11	0	5	5	0	0	0	1
+8000	786	40	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	786	40	3.2	77	817	0	62	62	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	786	40	3.4	33	1062	0	19	19	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	786	40	3.6	20	589	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	786	40	3.8	13	249	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	786	40	4	6	31	0	3	3	0	0	0	1
+8000	787	40	3	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	787	40	3.2	60	195	0	46	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	787	40	3.4	23	128	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	787	40	3.6	9	56	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	787	40	3.8	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	787	40	4	1	1	0	1	1	0	0	0	1
+8000	788	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	788	40	3.2	54	424	0	40	40	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	788	40	3.4	27	385	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	788	40	3.6	16	262	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	788	40	3.8	9	45	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	788	40	4	3	6	1	1.5	2	0	0	0	1
+8000	789	40	3	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	789	40	3.2	62	177	0	51	51	0	0	0	1
+Academic license - for non-commercial use only
+8000	789	40	3.4	30	114	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	789	40	3.6	10	26	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	789	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	789	40	4	2	3	0	1	1	0	0	0	1
+8000	790	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	790	40	3.2	54	277	1	41.25	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	790	40	3.4	26	243	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	790	40	3.6	12	176	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	790	40	3.8	8	73	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	790	40	4	4	15	0	1	1	0	0	0	1
+8000	791	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	791	40	3.2	65	223	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	791	40	3.4	27	217	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	791	40	3.6	14	176	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	791	40	3.8	10	91	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	791	40	4	5	23	0	2	2	0	0	0	1
+8000	792	40	3	132	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	792	40	3.2	61	475	0	48	48	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	792	40	3.4	31	489	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	792	40	3.6	14	223	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	792	40	3.8	8	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	792	40	4	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	793	40	3	128	596	1	110	111	0.02	0	0.01	1
+Academic license - for non-commercial use only
+8000	793	40	3.2	57	822	0	38	38	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	793	40	3.4	29	1196	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	793	40	3.6	21	951	1	7.33333	8	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	793	40	3.8	10	386	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	793	40	4	8	150	0	2	2	0	0	0	1
+8000	794	40	3	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	794	40	3.2	49	170	0	39	39	0	0	0	1
+Academic license - for non-commercial use only
+8000	794	40	3.4	21	141	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	794	40	3.6	9	59	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	794	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	794	40	4	3	7	0	1	1	0	0	0	1
+8000	795	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	795	40	3.2	58	226	0	42	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	795	40	3.4	24	130	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	795	40	3.6	9	53	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	795	40	3.8	5	19	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	795	40	4	1	1	0	1	1	0	0	0	1
+8000	796	40	3	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	796	40	3.2	59	349	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	796	40	3.4	30	333	1	17.3333	18	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	796	40	3.6	12	166	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	796	40	3.8	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	796	40	4	1	1	0	1	1	0	0	0	1
+8000	797	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	797	40	3.2	72	655	0	53	53	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	797	40	3.4	36	736	0	18	18	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	797	40	3.6	23	444	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	797	40	3.8	11	82	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	797	40	4	5	17	0	2	2	0	0	0	1
+8000	798	40	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	798	40	3.2	74	341	0	60	60	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	798	40	3.4	30	255	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	798	40	3.6	17	213	1	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	798	40	3.8	8	107	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	798	40	4	6	36	0	2	2	0	0	0	1
+8000	799	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	799	40	3.2	67	468	0	53	53	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	799	40	3.4	27	371	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	799	40	3.6	14	236	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	799	40	3.8	8	83	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	799	40	4	5	23	0	2	2	0	0	0	1
+8000	800	40	3	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	800	40	3.2	69	952	1	49.5	50	0.03	0	0.01	1
+Academic license - for non-commercial use only
+8000	800	40	3.4	33	1116	0	18	18	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	800	40	3.6	17	721	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	800	40	3.8	12	511	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	800	40	4	8	59	0	4	4	0	0	0	1
+8000	801	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	801	40	3.2	68	1306	0	51	51	0.04	0	0	1
+Academic license - for non-commercial use only
+8000	801	40	3.4	35	1818	0	21	21	0.02	0.01	0.02	1
+Academic license - for non-commercial use only
+8000	801	40	3.6	20	1419	0	7	7	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	801	40	3.8	12	307	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	801	40	4	6	29	0	2	2	0	0	0	1
+8000	802	40	3	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	802	40	3.2	49	473	0	38	38	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	802	40	3.4	21	493	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	802	40	3.6	15	542	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	802	40	3.8	13	275	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	802	40	4	3	7	0	1	1	0	0	0	1
+8000	803	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	803	40	3.2	62	902	0	42	42	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	803	40	3.4	27	956	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	803	40	3.6	14	705	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	803	40	3.8	11	374	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	803	40	4	8	141	0	2	2	0	0	0	1
+8000	804	40	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	804	40	3.2	80	261	0	69	69	0	0	0	1
+Academic license - for non-commercial use only
+8000	804	40	3.4	29	217	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	804	40	3.6	13	169	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	804	40	3.8	9	73	1	3.66667	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	804	40	4	3	4	0	2	2	0	0	0	1
+8000	805	40	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	805	40	3.2	67	238	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	805	40	3.4	33	184	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	805	40	3.6	15	88	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	805	40	3.8	7	22	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	805	40	4	2	3	0	1	1	0	0	0	1
+8000	806	40	3	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	806	40	3.2	62	561	0	47	47	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	806	40	3.4	30	461	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	806	40	3.6	15	208	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	806	40	3.8	7	47	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	806	40	4	4	10	0	2	2	0	0	0	1
+8000	807	40	3	179	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	807	40	3.2	76	340	1	62.3333	63	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	807	40	3.4	40	311	0	28	28	0	0	0	1
+Academic license - for non-commercial use only
+8000	807	40	3.6	17	246	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	807	40	3.8	11	124	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	807	40	4	7	71	0	2	2	0	0	0	1
+8000	808	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	808	40	3.2	69	568	0	54	54	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	808	40	3.4	34	426	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	808	40	3.6	13	46	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	808	40	3.8	6	14	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	808	40	4	4	8	0	2	2	0	0	0	1
+8000	809	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	809	40	3.2	66	180	0	55	55	0	0	0	1
+Academic license - for non-commercial use only
+8000	809	40	3.4	23	112	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	809	40	3.6	14	45	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	809	40	3.8	4	8	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	809	40	4	2	2	0	2	2	0	0	0	1
+8000	810	40	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	810	40	3.2	75	678	0	58	58	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	810	40	3.4	37	754	0	24	24	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	810	40	3.6	20	489	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	810	40	3.8	9	89	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	810	40	4	7	29	0	4	4	0	0	0	1
+8000	811	40	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	811	40	3.2	85	328	0	77	77	0	0	0	1
+Academic license - for non-commercial use only
+8000	811	40	3.4	46	242	0	41	41	0	0	0	1
+Academic license - for non-commercial use only
+8000	811	40	3.6	19	88	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	811	40	3.8	13	65	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	811	40	4	9	67	0	5	5	0	0	0	1
+8000	812	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	812	40	3.2	74	215	1	59.25	60	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	812	40	3.4	26	157	1	14.6667	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	812	40	3.6	13	55	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	812	40	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	812	40	4	2	3	0	1	1	0	0	0	1
+8000	813	40	3	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	813	40	3.2	62	167	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	813	40	3.4	28	74	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	813	40	3.6	6	9	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	813	40	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	813	40	4	2	3	0	1	1	0	0	0	1
+8000	814	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	814	40	3.2	75	996	0	52	52	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	814	40	3.4	38	1233	0	21	21	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	814	40	3.6	21	741	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	814	40	3.8	13	129	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	814	40	4	6	31	0	3	3	0	0	0	1
+8000	815	40	3	129	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	815	40	3.2	59	385	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	815	40	3.4	31	408	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	815	40	3.6	15	187	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	815	40	3.8	7	69	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	815	40	4	3	7	0	1	1	0	0	0	1
+8000	816	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	816	40	3.2	72	432	0	52	52	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	816	40	3.4	43	313	0	27	27	0	0	0	1
+Academic license - for non-commercial use only
+8000	816	40	3.6	16	101	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	816	40	3.8	7	36	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	816	40	4	5	15	0	3	3	0	0	0	1
+8000	817	40	3	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	817	40	3.2	57	185	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	817	40	3.4	25	132	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	817	40	3.6	9	56	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	817	40	3.8	8	44	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	817	40	4	4	15	0	1	1	0	0	0	1
+8000	818	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	818	40	3.2	64	301	0	52	52	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	818	40	3.4	29	310	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	818	40	3.6	15	177	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	818	40	3.8	10	130	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	818	40	4	7	47	0	3	3	0	0	0	1
+8000	819	40	3	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	819	40	3.2	61	536	1	40.4	41	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	819	40	3.4	30	413	1	13.6667	14	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	819	40	3.6	13	105	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	819	40	3.8	7	24	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	819	40	4	4	11	0	2	2	0	0	0	1
+8000	820	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	820	40	3.2	57	340	0	41	41	0	0	0	1
+Academic license - for non-commercial use only
+8000	820	40	3.4	23	217	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	820	40	3.6	14	153	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	820	40	3.8	10	63	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	820	40	4	2	3	0	1	1	0	0	0	1
+8000	821	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	821	40	3.2	52	317	0	37	37	0	0	0	1
+Academic license - for non-commercial use only
+8000	821	40	3.4	27	233	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	821	40	3.6	10	61	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	821	40	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	821	40	4	4	11	0	2	2	0	0	0	1
+8000	822	40	3	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	822	40	3.2	62	148	0	52	52	0	0	0	1
+Academic license - for non-commercial use only
+8000	822	40	3.4	23	104	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	822	40	3.6	10	43	1	5.5	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	822	40	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	822	40	4	3	7	0	1	1	0	0	0	1
+8000	823	40	3	132	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	823	40	3.2	44	157	0	34	34	0	0	0	1
+Academic license - for non-commercial use only
+8000	823	40	3.4	18	91	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	823	40	3.6	6	12	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	823	40	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	823	40	4	1	1	0	1	1	0	0	0	1
+8000	824	40	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	824	40	3.2	73	274	0	61	61	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	824	40	3.4	41	205	0	31	31	0	0	0	1
+Academic license - for non-commercial use only
+8000	824	40	3.6	14	77	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	824	40	3.8	10	29	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	824	40	4	5	10	0	3	3	0	0	0	1
+8000	825	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	825	40	3.2	67	434	0	52	52	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	825	40	3.4	29	386	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	825	40	3.6	15	250	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	825	40	3.8	9	71	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	825	40	4	3	7	0	1	1	0	0	0	1
+8000	826	40	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	826	40	3.2	75	177	1	61.5	62	0	0	0	1
+Academic license - for non-commercial use only
+8000	826	40	3.4	34	99	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	826	40	3.6	16	36	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	826	40	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	826	40	4	1	1	0	1	1	0	0	0	1
+8000	827	40	3	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	827	40	3.2	66	138	0	56	56	0	0	0	1
+Academic license - for non-commercial use only
+8000	827	40	3.4	26	77	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	827	40	3.6	11	30	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	827	40	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	827	40	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	828	40	3	126	400	0	109	109	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	828	40	3.2	55	471	1	36.2	37	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	828	40	3.4	30	417	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	828	40	3.6	14	276	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	828	40	3.8	8	66	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	828	40	4	2	2	0	2	2	0	0	0	1
+8000	829	40	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	829	40	3.2	79	478	0	66	66	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	829	40	3.4	39	474	0	25	25	0	0	0	1
+Academic license - for non-commercial use only
+8000	829	40	3.6	25	255	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	829	40	3.8	12	80	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	829	40	4	6	31	0	3	3	0	0	0	1
+8000	830	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	830	40	3.2	59	183	1	47.5	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	830	40	3.4	27	173	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	830	40	3.6	15	155	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	830	40	3.8	9	44	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	830	40	4	2	3	0	1	1	0	0	0	1
+8000	831	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	831	40	3.2	57	795	0	44	44	0.01	0.01	0	1
+Academic license - for non-commercial use only
+8000	831	40	3.4	28	896	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	831	40	3.6	19	507	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	831	40	3.8	9	67	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	831	40	4	4	11	0	2	2	0	0	0	1
+8000	832	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	832	40	3.2	65	340	0	53	53	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	832	40	3.4	28	293	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	832	40	3.6	15	146	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	832	40	3.8	9	77	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	832	40	4	7	59	0	3	3	0	0	0	1
+8000	833	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	833	40	3.2	62	435	0	50	50	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	833	40	3.4	31	684	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	833	40	3.6	16	537	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	833	40	3.8	10	146	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	833	40	4	6	31	0	3	3	0	0	0	1
+8000	834	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	834	40	3.2	55	336	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	834	40	3.4	25	403	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	834	40	3.6	16	319	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	834	40	3.8	7	54	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	834	40	4	6	27	0	3	3	0	0	0	1
+8000	835	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	835	40	3.2	72	548	0	51	51	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	835	40	3.4	39	410	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	835	40	3.6	13	123	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	835	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	835	40	4	1	1	0	1	1	0	0	0	1
+8000	836	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	836	40	3.2	55	397	1	36.5	37	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	836	40	3.4	29	345	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	836	40	3.6	19	257	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	836	40	3.8	13	199	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	836	40	4	6	23	0	3	3	0	0	0	1
+8000	837	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	837	40	3.2	63	424	0	44	44	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	837	40	3.4	29	334	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	837	40	3.6	16	105	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	837	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	837	40	4	4	15	0	1	1	0	0	0	1
+8000	838	40	3	132	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	838	40	3.2	51	326	0	36	36	0	0	0	1
+Academic license - for non-commercial use only
+8000	838	40	3.4	25	213	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	838	40	3.6	11	144	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	838	40	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	838	40	4	4	15	0	1	1	0	0	0	1
+8000	839	40	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	839	40	3.2	71	342	0	60	60	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	839	40	3.4	33	282	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	839	40	3.6	16	192	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	839	40	3.8	12	103	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	839	40	4	7	55	0	3	3	0	0	0	1
+8000	840	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	840	40	3.2	65	308	1	48.5	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	840	40	3.4	25	219	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	840	40	3.6	12	83	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	840	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	840	40	4	2	3	0	1	1	0	0	0	1
+8000	841	40	3	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	841	40	3.2	73	730	0	51	51	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	841	40	3.4	36	562	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	841	40	3.6	16	255	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	841	40	3.8	10	64	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	841	40	4	4	15	0	1	1	0	0	0	1
+8000	842	40	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	842	40	3.2	78	371	0	63	63	0	0	0	1
+Academic license - for non-commercial use only
+8000	842	40	3.4	38	306	0	26	26	0	0	0	1
+Academic license - for non-commercial use only
+8000	842	40	3.6	16	159	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	842	40	3.8	11	111	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	842	40	4	6	17	0	4	4	0	0	0	1
+8000	843	40	3	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	843	40	3.2	54	238	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	843	40	3.4	26	144	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	843	40	3.6	11	79	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	843	40	3.8	5	19	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	843	40	4	4	15	0	1	1	0	0	0	1
+8000	844	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	844	40	3.2	64	525	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	844	40	3.4	35	564	0	21	21	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	844	40	3.6	19	298	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	844	40	3.8	8	69	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	844	40	4	5	23	0	2	2	0	0	0	1
+8000	845	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	845	40	3.2	52	203	0	42	42	0	0	0	1
+Academic license - for non-commercial use only
+8000	845	40	3.4	21	189	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	845	40	3.6	14	128	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	845	40	3.8	6	38	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	845	40	4	4	11	0	2	2	0	0	0	1
+8000	846	40	3	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	846	40	3.2	59	297	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	846	40	3.4	27	413	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	846	40	3.6	16	262	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	846	40	3.8	9	49	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	846	40	4	3	7	0	1	1	0	0	0	1
+8000	847	40	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	847	40	3.2	66	168	1	54.5	55	0	0	0	1
+Academic license - for non-commercial use only
+8000	847	40	3.4	28	137	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	847	40	3.6	10	63	1	4.33333	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	847	40	3.8	5	20	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	847	40	4	3	7	0	1	1	0	0	0	1
+8000	848	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	848	40	3.2	56	430	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	848	40	3.4	23	429	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	848	40	3.6	14	304	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	848	40	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	848	40	4	7	57	0	2	2	0	0	0	1
+8000	849	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	849	40	3.2	77	578	0	60	60	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	849	40	3.4	43	624	0	29	29	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	849	40	3.6	22	569	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	849	40	3.8	13	124	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	849	40	4	7	35	0	3	3	0	0	0	1
+8000	850	40	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	850	40	3.2	90	364	0	70	70	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	850	40	3.4	39	285	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	850	40	3.6	19	151	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	850	40	3.8	7	15	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	850	40	4	4	7	0	3	3	0	0	0	1
+8000	851	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	851	40	3.2	60	447	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	851	40	3.4	33	311	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	851	40	3.6	10	175	1	2.25	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	851	40	3.8	7	63	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	851	40	4	6	39	0	2	2	0	0	0	1
+8000	852	40	3	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	852	40	3.2	60	308	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	852	40	3.4	27	228	1	14.5	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	852	40	3.6	13	146	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	852	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	852	40	4	2	3	0	1	1	0	0	0	1
+8000	853	40	3	132	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	853	40	3.2	56	589	0	37	37	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	853	40	3.4	30	372	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	853	40	3.6	11	100	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	853	40	3.8	7	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	853	40	4	5	31	0	1	1	0	0	0	1
+8000	854	40	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	854	40	3.2	59	242	0	47	47	0	0	0	1
+Academic license - for non-commercial use only
+8000	854	40	3.4	29	220	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	854	40	3.6	13	117	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	854	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	854	40	4	3	7	0	1	1	0	0	0	1
+8000	855	40	3	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	855	40	3.2	68	314	0	54	54	0	0	0	1
+Academic license - for non-commercial use only
+8000	855	40	3.4	28	237	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	855	40	3.6	13	93	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	855	40	3.8	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	855	40	4	1	1	0	1	1	0	0	0	1
+8000	856	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	856	40	3.2	76	213	0	70	70	0	0	0	1
+Academic license - for non-commercial use only
+8000	856	40	3.4	35	204	0	29	29	0	0	0	1
+Academic license - for non-commercial use only
+8000	856	40	3.6	17	125	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	856	40	3.8	6	13	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	856	40	4	1	1	0	1	1	0	0	0	1
+8000	857	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	857	40	3.2	60	247	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	857	40	3.4	24	163	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	857	40	3.6	13	93	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	857	40	3.8	7	47	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	857	40	4	4	15	0	1	1	0	0	0	1
+8000	858	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	858	40	3.2	73	639	0	51	51	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	858	40	3.4	33	504	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	858	40	3.6	16	241	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	858	40	3.8	9	71	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	858	40	4	7	39	0	4	4	0	0	0	1
+8000	859	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	859	40	3.2	69	356	0	55	55	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	859	40	3.4	30	381	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	859	40	3.6	17	290	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	859	40	3.8	11	200	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	859	40	4	7	71	0	2	2	0	0	0	1
+8000	860	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	860	40	3.2	64	227	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	860	40	3.4	27	137	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	860	40	3.6	9	47	1	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	860	40	3.8	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	860	40	4	2	2	0	2	2	0	0	0	1
+8000	861	40	3	179	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	861	40	3.2	73	127	0	65	65	0	0	0	1
+Academic license - for non-commercial use only
+8000	861	40	3.4	26	83	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	861	40	3.6	11	43	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	861	40	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	861	40	4	2	3	0	1	1	0	0	0	1
+8000	862	40	3	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	862	40	3.2	57	447	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	862	40	3.4	28	424	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	862	40	3.6	16	240	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	862	40	3.8	9	83	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	862	40	4	5	15	0	3	3	0	0	0	1
+8000	863	40	3	220	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	863	40	3.2	86	136	0	78	78	0	0	0	1
+Academic license - for non-commercial use only
+8000	863	40	3.4	32	75	0	27	27	0	0	0	1
+Academic license - for non-commercial use only
+8000	863	40	3.6	13	25	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	863	40	3.8	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	863	40	4	3	4	0	2	2	0	0	0	1
+8000	864	40	3	131	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	864	40	3.2	51	236	0	40	40	0	0	0	1
+Academic license - for non-commercial use only
+8000	864	40	3.4	22	115	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	864	40	3.6	10	28	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	864	40	3.8	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	864	40	4	2	3	0	1	1	0	0	0	1
+8000	865	40	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	865	40	3.2	101	349	0	88	88	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	865	40	3.4	47	375	0	35	35	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	865	40	3.6	25	284	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	865	40	3.8	16	140	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	865	40	4	9	49	0	4	4	0	0	0	1
+8000	866	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	866	40	3.2	66	376	0	48	48	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	866	40	3.4	33	398	1	18.6667	19	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	866	40	3.6	18	317	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	866	40	3.8	9	81	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	866	40	4	2	3	0	1	1	0	0	0	1
+8000	867	40	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	867	40	3.2	67	440	0	50	50	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	867	40	3.4	29	472	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	867	40	3.6	17	255	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	867	40	3.8	7	61	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	867	40	4	4	15	0	1	1	0	0	0	1
+8000	868	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	868	40	3.2	69	811	0	48	48	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	868	40	3.4	31	762	1	13.5	14	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	868	40	3.6	15	390	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	868	40	3.8	8	61	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	868	40	4	2	3	0	1	1	0	0	0	1
+8000	869	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	869	40	3.2	62	286	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	869	40	3.4	28	199	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	869	40	3.6	13	72	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	869	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	869	40	4	4	14	1	1.33333	2	0	0	0	1
+8000	870	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	870	40	3.2	56	197	0	47	47	0	0	0	1
+Academic license - for non-commercial use only
+8000	870	40	3.4	24	131	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	870	40	3.6	9	73	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	870	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	870	40	4	1	1	0	1	1	0	0	0	1
+8000	871	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	871	40	3.2	58	244	0	47	47	0	0	0	1
+Academic license - for non-commercial use only
+8000	871	40	3.4	25	222	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	871	40	3.6	14	213	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	871	40	3.8	10	64	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	871	40	4	3	5	0	2	2	0	0	0	1
+8000	872	40	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	872	40	3.2	75	507	0	57	57	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	872	40	3.4	37	605	1	20.6667	21	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	872	40	3.6	21	457	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	872	40	3.8	13	107	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	872	40	4	6	23	0	3	3	0	0	0	1
+8000	873	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	873	40	3.2	70	189	0	59	59	0	0	0	1
+Academic license - for non-commercial use only
+8000	873	40	3.4	28	152	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	873	40	3.6	10	84	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	873	40	3.8	6	43	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	873	40	4	3	7	0	1	1	0	0	0	1
+8000	874	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	874	40	3.2	73	246	0	62	62	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	874	40	3.4	30	227	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	874	40	3.6	20	140	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	874	40	3.8	9	30	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	874	40	4	5	15	0	3	3	0	0	0	1
+8000	875	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	875	40	3.2	66	498	0	48	48	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	875	40	3.4	31	548	0	14	14	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	875	40	3.6	16	222	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	875	40	3.8	10	57	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	875	40	4	3	7	0	1	1	0	0	0	1
+8000	876	40	3	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	876	40	3.2	74	548	0	60	60	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	876	40	3.4	33	514	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	876	40	3.6	19	374	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	876	40	3.8	11	144	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	876	40	4	6	47	0	2	2	0	0	0	1
+8000	877	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	877	40	3.2	78	493	0	59	59	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	877	40	3.4	31	411	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	877	40	3.6	17	211	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	877	40	3.8	8	59	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	877	40	4	5	9	0	4	4	0	0	0	1
+8000	878	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	878	40	3.2	63	379	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	878	40	3.4	28	340	1	15.25	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	878	40	3.6	14	239	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	878	40	3.8	8	111	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	878	40	4	4	15	0	1	1	0	0	0	1
+8000	879	40	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	879	40	3.2	63	240	0	50	50	0	0	0	1
+Academic license - for non-commercial use only
+8000	879	40	3.4	29	234	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	879	40	3.6	15	185	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	879	40	3.8	8	43	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	879	40	4	4	8	0	2	2	0	0	0	1
+8000	880	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	880	40	3.2	73	977	0	50	50	0.04	0	0	1
+Academic license - for non-commercial use only
+8000	880	40	3.4	35	1159	0	18	18	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	880	40	3.6	22	641	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	880	40	3.8	11	204	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	880	40	4	8	49	0	3	3	0	0	0	1
+8000	881	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	881	40	3.2	61	200	0	50	50	0	0	0	1
+Academic license - for non-commercial use only
+8000	881	40	3.4	26	153	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	881	40	3.6	11	70	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	881	40	3.8	6	36	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	881	40	4	5	21	0	2	2	0	0	0	1
+8000	882	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	882	40	3.2	73	520	0	56	56	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	882	40	3.4	40	483	0	26	26	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	882	40	3.6	16	211	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	882	40	3.8	8	63	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	882	40	4	6	27	0	3	3	0	0	0	1
+8000	883	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	883	40	3.2	63	314	1	46.5	47	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	883	40	3.4	27	253	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	883	40	3.6	15	179	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	883	40	3.8	9	90	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	883	40	4	4	11	0	2	2	0	0	0	1
+8000	884	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	884	40	3.2	67	427	0	56	56	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	884	40	3.4	32	302	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	884	40	3.6	16	154	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	884	40	3.8	7	44	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	884	40	4	5	17	0	2	2	0	0	0	1
+8000	885	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	885	40	3.2	58	224	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	885	40	3.4	22	162	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	885	40	3.6	12	92	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	885	40	3.8	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	885	40	4	1	1	0	1	1	0	0	0	1
+8000	886	40	3	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	886	40	3.2	55	265	0	42	42	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	886	40	3.4	25	274	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	886	40	3.6	14	138	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	886	40	3.8	6	23	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	886	40	4	4	11	0	2	2	0	0	0	1
+8000	887	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	887	40	3.2	55	160	0	46	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	887	40	3.4	24	104	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	887	40	3.6	11	54	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	887	40	3.8	6	19	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	887	40	4	3	7	0	1	1	0	0	0	1
+8000	888	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	888	40	3.2	60	277	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	888	40	3.4	23	234	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	888	40	3.6	13	107	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	888	40	3.8	8	47	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	888	40	4	4	11	0	2	2	0	0	0	1
+8000	889	40	3	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	889	40	3.2	70	576	0	51	51	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	889	40	3.4	35	596	1	16.75	17	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	889	40	3.6	16	269	1	6.5	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	889	40	3.8	9	82	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	889	40	4	5	23	0	2	2	0	0	0	1
+8000	890	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	890	40	3.2	68	321	0	54	54	0	0	0	1
+Academic license - for non-commercial use only
+8000	890	40	3.4	32	292	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	890	40	3.6	18	187	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	890	40	3.8	12	107	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	890	40	4	6	35	0	2	2	0	0	0	1
+8000	891	40	3	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	891	40	3.2	54	141	1	45.5	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	891	40	3.4	21	115	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	891	40	3.6	10	41	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	891	40	3.8	8	39	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	891	40	4	5	15	0	3	3	0	0	0	1
+8000	892	40	3	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	892	40	3.2	68	596	0	54	54	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	892	40	3.4	35	578	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	892	40	3.6	19	270	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	892	40	3.8	9	66	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	892	40	4	8	58	0	4	4	0	0	0	1
+8000	893	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	893	40	3.2	62	308	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	893	40	3.4	25	162	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	893	40	3.6	11	54	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	893	40	3.8	4	9	0	2	2	0	0	0	1
+8000	893	40	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+8000	894	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	894	40	3.2	54	240	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	894	40	3.4	25	159	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	894	40	3.6	12	52	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	894	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	894	40	4	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	895	40	3	128	365	0	114	114	0.03	0	0	1
+Academic license - for non-commercial use only
+8000	895	40	3.2	55	377	0	39	39	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	895	40	3.4	24	300	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	895	40	3.6	9	84	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	895	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	895	40	4	4	15	0	1	1	0	0	0	1
+8000	896	40	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	896	40	3.2	64	178	0	51	51	0	0	0	1
+Academic license - for non-commercial use only
+8000	896	40	3.4	25	127	1	15.5	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	896	40	3.6	12	70	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	896	40	3.8	7	38	1	2.33333	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	896	40	4	4	15	0	1	1	0	0	0	1
+8000	897	40	3	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	897	40	3.2	67	511	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	897	40	3.4	31	497	1	16	16	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	897	40	3.6	16	294	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	897	40	3.8	10	111	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	897	40	4	5	11	0	3	3	0	0	0	1
+8000	898	40	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	898	40	3.2	81	301	0	68	68	0	0	0	1
+Academic license - for non-commercial use only
+8000	898	40	3.4	34	255	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	898	40	3.6	17	200	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	898	40	3.8	11	98	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	898	40	4	6	31	0	3	3	0	0	0	1
+8000	899	40	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	899	40	3.2	63	1102	0	44	44	0.04	0	0	1
+Academic license - for non-commercial use only
+8000	899	40	3.4	30	1312	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	899	40	3.6	19	1090	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	899	40	3.8	13	388	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	899	40	4	7	95	0	2	2	0	0	0	1
+8000	900	40	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	900	40	3.2	68	188	0	57	57	0	0	0	1
+Academic license - for non-commercial use only
+8000	900	40	3.4	34	136	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	900	40	3.6	13	53	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	900	40	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	900	40	4	3	5	0	2	2	0	0	0	1
+8000	901	40	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	901	40	3.2	75	428	0	60	60	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	901	40	3.4	30	344	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	901	40	3.6	17	199	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	901	40	3.8	9	70	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	901	40	4	4	11	0	2	2	0	0	0	1
+8000	902	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	902	40	3.2	71	190	0	59	59	0	0	0	1
+Academic license - for non-commercial use only
+8000	902	40	3.4	29	146	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	902	40	3.6	14	47	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	902	40	3.8	4	8	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	902	40	4	1	1	0	1	1	0	0	0	1
+8000	903	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	903	40	3.2	50	276	1	35.5	36	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	903	40	3.4	26	249	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	903	40	3.6	15	144	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	903	40	3.8	9	70	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	903	40	4	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	904	40	3	128	292	1	112.5	113	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	904	40	3.2	53	269	0	37	37	0	0	0	1
+Academic license - for non-commercial use only
+8000	904	40	3.4	26	147	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	904	40	3.6	9	38	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	904	40	3.8	6	11	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	904	40	4	2	2	0	2	2	0	0	0	1
+8000	905	40	3	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	905	40	3.2	60	253	0	46	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	905	40	3.4	25	204	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	905	40	3.6	12	117	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	905	40	3.8	4	7	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	905	40	4	2	2	0	2	2	0	0	0	1
+8000	906	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	906	40	3.2	58	177	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	906	40	3.4	23	99	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	906	40	3.6	9	38	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	906	40	3.8	4	11	0	2	2	0	0	0	1
+8000	906	40	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+8000	907	40	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	907	40	3.2	77	280	0	66	66	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	907	40	3.4	30	261	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	907	40	3.6	16	151	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	907	40	3.8	10	110	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	907	40	4	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	908	40	3	127	434	0	111	111	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	908	40	3.2	63	470	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	908	40	3.4	26	367	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	908	40	3.6	12	111	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	908	40	3.8	8	59	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	908	40	4	4	15	0	1	1	0	0	0	1
+8000	909	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	909	40	3.2	67	419	0	52	52	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	909	40	3.4	26	455	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	909	40	3.6	14	289	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	909	40	3.8	8	78	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	909	40	4	4	15	0	1	1	0	0	0	1
+8000	910	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	910	40	3.2	58	335	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	910	40	3.4	28	285	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	910	40	3.6	16	177	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	910	40	3.8	6	35	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	910	40	4	4	11	0	2	2	0	0	0	1
+8000	911	40	3	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	911	40	3.2	80	193	1	67.5	68	0	0	0	1
+Academic license - for non-commercial use only
+8000	911	40	3.4	30	157	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	911	40	3.6	15	86	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	911	40	3.8	6	27	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	911	40	4	2	3	0	1	1	0	0	0	1
+8000	912	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	912	40	3.2	59	396	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	912	40	3.4	28	321	1	14.5	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	912	40	3.6	13	163	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	912	40	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	912	40	4	3	7	0	1	1	0	0	0	1
+8000	913	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	913	40	3.2	62	390	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	913	40	3.4	29	432	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	913	40	3.6	17	275	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	913	40	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	913	40	4	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	914	40	3	123	250	0	111	111	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	914	40	3.2	55	267	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	914	40	3.4	24	228	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	914	40	3.6	10	72	1	4.25	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	914	40	3.8	6	17	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	914	40	4	3	7	0	1	1	0	0	0	1
+8000	915	40	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	915	40	3.2	65	272	0	50	50	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	915	40	3.4	24	168	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	915	40	3.6	12	86	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	915	40	3.8	7	59	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	915	40	4	5	31	0	1	1	0	0	0	1
+8000	916	40	3	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	916	40	3.2	62	891	0	40	40	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	916	40	3.4	32	1076	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	916	40	3.6	16	772	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	916	40	3.8	11	189	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	916	40	4	7	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	917	40	3	118	320	1	107.5	108	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	917	40	3.2	43	335	0	30	30	0	0	0	1
+Academic license - for non-commercial use only
+8000	917	40	3.4	22	276	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	917	40	3.6	10	211	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	917	40	3.8	8	98	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	917	40	4	7	95	0	2	2	0	0	0	1
+8000	918	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	918	40	3.2	64	361	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	918	40	3.4	29	394	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	918	40	3.6	14	248	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	918	40	3.8	7	57	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	918	40	4	4	15	0	1	1	0	0	0	1
+8000	919	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	919	40	3.2	63	334	0	46	46	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	919	40	3.4	31	273	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	919	40	3.6	11	88	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	919	40	3.8	5	15	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	919	40	4	1	1	0	1	1	0	0	0	1
+8000	920	40	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	920	40	3.2	57	272	0	43	43	0	0	0	1
+Academic license - for non-commercial use only
+8000	920	40	3.4	26	241	1	14.6667	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	920	40	3.6	15	182	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	920	40	3.8	9	81	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	920	40	4	7	27	0	3	3	0	0	0	1
+8000	921	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	921	40	3.2	68	701	0	52	52	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	921	40	3.4	28	642	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	921	40	3.6	16	429	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	921	40	3.8	12	235	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	921	40	4	7	63	0	3	3	0	0	0	1
+8000	922	40	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	922	40	3.2	65	226	0	54	54	0	0	0	1
+Academic license - for non-commercial use only
+8000	922	40	3.4	29	181	0	20	20	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	922	40	3.6	12	118	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	922	40	3.8	7	27	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	922	40	4	3	7	0	1	1	0	0	0	1
+8000	923	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	923	40	3.2	68	348	0	54	54	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	923	40	3.4	38	264	0	25	25	0	0	0	1
+Academic license - for non-commercial use only
+8000	923	40	3.6	16	102	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	923	40	3.8	5	13	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	923	40	4	1	1	0	1	1	0	0	0	1
+8000	924	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	924	40	3.2	67	454	0	54	54	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	924	40	3.4	31	425	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	924	40	3.6	16	206	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	924	40	3.8	6	35	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	924	40	4	2	3	0	1	1	0	0	0	1
+8000	925	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	925	40	3.2	67	276	0	57	57	0	0	0	1
+Academic license - for non-commercial use only
+8000	925	40	3.4	27	224	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	925	40	3.6	12	154	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	925	40	3.8	9	117	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	925	40	4	6	25	0	2	2	0	0	0	1
+8000	926	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	926	40	3.2	68	273	0	52	52	0	0	0	1
+Academic license - for non-commercial use only
+8000	926	40	3.4	28	166	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	926	40	3.6	13	95	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	926	40	3.8	9	50	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	926	40	4	6	16	0	3	3	0	0	0	1
+8000	927	40	3	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	927	40	3.2	47	253	0	39	39	0	0	0	1
+Academic license - for non-commercial use only
+8000	927	40	3.4	22	233	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	927	40	3.6	12	72	0	6	6	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	927	40	3.8	7	29	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	927	40	4	4	5	0	3	3	0	0	0	1
+8000	928	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	928	40	3.2	66	405	0	51	51	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	928	40	3.4	29	297	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	928	40	3.6	15	122	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	928	40	3.8	7	39	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	928	40	4	5	15	0	3	3	0	0	0	1
+8000	929	40	3	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	929	40	3.2	77	208	0	64	64	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	929	40	3.4	27	119	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	929	40	3.6	10	30	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	929	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	929	40	4	2	3	0	1	1	0	0	0	1
+8000	930	40	3	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	930	40	3.2	80	430	0	65	65	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	930	40	3.4	37	434	0	23	23	0	0	0	1
+Academic license - for non-commercial use only
+8000	930	40	3.6	19	146	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	930	40	3.8	5	9	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	930	40	4	3	5	0	2	2	0	0	0	1
+8000	931	40	3	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	931	40	3.2	70	345	0	56	56	0	0	0	1
+Academic license - for non-commercial use only
+8000	931	40	3.4	31	296	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	931	40	3.6	16	228	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	931	40	3.8	11	169	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	931	40	4	6	30	0	2	2	0	0	0	1
+8000	932	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	932	40	3.2	78	772	0	61	61	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	932	40	3.4	37	713	0	20	20	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	932	40	3.6	20	437	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	932	40	3.8	12	275	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	932	40	4	5	17	0	2	2	0	0	0	1
+8000	933	40	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	933	40	3.2	71	368	0	58	58	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	933	40	3.4	34	290	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	933	40	3.6	14	71	1	7.33333	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	933	40	3.8	7	17	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	933	40	4	3	7	0	1	1	0	0	0	1
+8000	934	40	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	934	40	3.2	66	334	0	52	52	0	0	0	1
+Academic license - for non-commercial use only
+8000	934	40	3.4	26	334	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	934	40	3.6	17	195	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	934	40	3.8	8	35	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	934	40	4	2	3	0	1	1	0	0	0	1
+8000	935	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	935	40	3.2	69	328	1	53.3333	54	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	935	40	3.4	33	255	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	935	40	3.6	14	118	1	6.66667	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	935	40	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	935	40	4	3	5	0	2	2	0	0	0	1
+8000	936	40	3	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	936	40	3.2	56	634	1	38.25	39	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	936	40	3.4	25	582	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	936	40	3.6	15	490	1	4.25	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	936	40	3.8	11	209	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	936	40	4	6	63	0	1	1	0	0	0	1
+8000	937	40	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	937	40	3.2	63	258	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	937	40	3.4	30	188	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	937	40	3.6	11	132	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	937	40	3.8	6	35	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	937	40	4	5	17	0	2	2	0	0	0	1
+8000	938	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	938	40	3.2	73	196	0	59	59	0	0	0	1
+Academic license - for non-commercial use only
+8000	938	40	3.4	27	130	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	938	40	3.6	10	52	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	938	40	3.8	6	18	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	938	40	4	3	7	0	1	1	0	0	0	1
+8000	939	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	939	40	3.2	62	227	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	939	40	3.4	34	190	1	23.5	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	939	40	3.6	11	98	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	939	40	3.8	5	18	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	939	40	4	3	7	0	1	1	0	0	0	1
+8000	940	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	940	40	3.2	67	242	0	57	57	0	0	0	1
+Academic license - for non-commercial use only
+8000	940	40	3.4	25	192	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	940	40	3.6	14	69	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	940	40	3.8	5	21	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	940	40	4	5	17	0	2	2	0	0	0	1
+8000	941	40	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	941	40	3.2	68	243	0	57	57	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	941	40	3.4	30	194	0	21	21	0	0	0	1
+Academic license - for non-commercial use only
+8000	941	40	3.6	12	113	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	941	40	3.8	7	24	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	941	40	4	2	3	0	1	1	0	0	0	1
+8000	942	40	3	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	942	40	3.2	54	363	0	38	38	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	942	40	3.4	28	365	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	942	40	3.6	15	206	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	942	40	3.8	8	36	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	942	40	4	2	2	0	2	2	0	0	0	1
+8000	943	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	943	40	3.2	60	334	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	943	40	3.4	24	254	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	943	40	3.6	11	146	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	943	40	3.8	6	30	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	943	40	4	2	3	0	1	1	0	0	0	1
+8000	944	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	944	40	3.2	76	616	0	55	55	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	944	40	3.4	33	498	0	16	16	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	944	40	3.6	13	211	1	4.5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	944	40	3.8	9	46	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	944	40	4	4	9	0	2	2	0	0	0	1
+8000	945	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	945	40	3.2	65	297	1	51.5	52	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	945	40	3.4	22	216	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	945	40	3.6	10	103	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	945	40	3.8	6	29	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	945	40	4	3	7	0	1	1	0	0	0	1
+8000	946	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	946	40	3.2	57	267	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	946	40	3.4	27	173	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	946	40	3.6	13	52	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	946	40	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	946	40	4	3	5	0	2	2	0	0	0	1
+8000	947	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	947	40	3.2	57	124	0	50	50	0	0	0	1
+Academic license - for non-commercial use only
+8000	947	40	3.4	22	74	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	947	40	3.6	11	55	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	947	40	3.8	6	25	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	947	40	4	4	15	0	1	1	0	0	0	1
+8000	948	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	948	40	3.2	68	394	0	52	52	0	0	0	1
+Academic license - for non-commercial use only
+8000	948	40	3.4	29	294	1	13.3333	14	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	948	40	3.6	15	103	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	948	40	3.8	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	948	40	4	4	7	0	3	3	0	0	0	1
+8000	949	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	949	40	3.2	60	195	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	949	40	3.4	22	146	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	949	40	3.6	10	74	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	949	40	3.8	6	24	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	949	40	4	2	3	0	1	1	0	0	0	1
+8000	950	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	950	40	3.2	60	223	0	48	48	0	0	0	1
+Academic license - for non-commercial use only
+8000	950	40	3.4	27	168	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	950	40	3.6	8	51	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	950	40	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	950	40	4	1	1	0	1	1	0	0	0	1
+8000	951	40	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	951	40	3.2	79	191	0	69	69	0	0	0	1
+Academic license - for non-commercial use only
+8000	951	40	3.4	36	118	0	27	27	0	0	0	1
+Academic license - for non-commercial use only
+8000	951	40	3.6	11	43	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	951	40	3.8	7	37	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	951	40	4	5	13	0	3	3	0	0	0	1
+8000	952	40	3	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	952	40	3.2	60	530	0	41	41	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	952	40	3.4	28	525	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	952	40	3.6	16	390	1	5.5	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	952	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	952	40	4	4	15	0	1	1	0	0	0	1
+8000	953	40	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	953	40	3.2	74	667	0	59	59	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	953	40	3.4	36	683	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	953	40	3.6	24	370	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	953	40	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	953	40	4	4	9	0	2	2	0	0	0	1
+8000	954	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	954	40	3.2	59	743	1	40.25	41	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	954	40	3.4	28	787	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+8000	954	40	3.6	16	724	1	4.6	5	0	0	0.02	1
+Academic license - for non-commercial use only
+8000	954	40	3.8	7	47	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	954	40	4	6	29	0	2	2	0	0	0	1
+8000	955	40	3	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	955	40	3.2	65	708	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	955	40	3.4	34	724	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	955	40	3.6	19	325	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	955	40	3.8	7	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	955	40	4	2	3	0	1	1	0	0	0	1
+8000	956	40	3	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	956	40	3.2	67	1254	0	45	45	0.04	0	0	1
+Academic license - for non-commercial use only
+8000	956	40	3.4	34	1269	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	956	40	3.6	20	664	0	8	8	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	956	40	3.8	13	455	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	956	40	4	7	39	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	957	40	3	123	364	0	108	108	0.01	0.01	0	1
+Academic license - for non-commercial use only
+8000	957	40	3.2	59	406	0	43	43	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	957	40	3.4	27	359	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	957	40	3.6	15	199	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	957	40	3.8	9	115	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	957	40	4	8	95	0	3	3	0	0	0	1
+8000	958	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	958	40	3.2	64	239	0	51	51	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	958	40	3.4	24	203	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	958	40	3.6	12	63	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	958	40	3.8	5	15	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	958	40	4	2	2	0	2	2	0	0	0	1
+8000	959	40	3	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	959	40	3.2	71	306	0	58	58	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	959	40	3.4	26	189	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	959	40	3.6	11	80	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	959	40	3.8	6	23	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	959	40	4	4	6	0	3	3	0	0	0	1
+8000	960	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	960	40	3.2	63	303	0	49	49	0	0	0	1
+Academic license - for non-commercial use only
+8000	960	40	3.4	25	229	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	960	40	3.6	11	134	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	960	40	3.8	7	45	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	960	40	4	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	961	40	3	128	283	0	114	114	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	961	40	3.2	51	241	0	37	37	0	0	0	1
+Academic license - for non-commercial use only
+8000	961	40	3.4	24	171	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	961	40	3.6	11	112	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	961	40	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	961	40	4	3	7	0	1	1	0	0	0	1
+8000	962	40	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	962	40	3.2	65	184	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	962	40	3.4	26	172	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	962	40	3.6	14	88	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	962	40	3.8	6	34	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	962	40	4	4	15	0	1	1	0	0	0	1
+8000	963	40	3	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	963	40	3.2	58	900	0	38	38	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	963	40	3.4	30	1086	0	13	13	0.02	0.01	0.03	1
+Academic license - for non-commercial use only
+8000	963	40	3.6	18	648	0	6	6	0	0.01	0.04	1
+Academic license - for non-commercial use only
+8000	963	40	3.8	13	339	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	963	40	4	10	119	0	4	4	0	0	0	1
+8000	964	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	964	40	3.2	60	1115	0	45	45	0.02	0.01	0	1
+Academic license - for non-commercial use only
+8000	964	40	3.4	24	1785	0	10	10	0.02	0.01	0	1
+Academic license - for non-commercial use only
+8000	964	40	3.6	19	1516	0	6	6	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	964	40	3.8	13	405	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	964	40	4	7	39	0	3	3	0	0	0	1
+8000	965	40	3	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	965	40	3.2	67	663	0	48	48	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	965	40	3.4	31	714	0	15	15	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	965	40	3.6	16	502	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	965	40	3.8	12	338	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	965	40	4	4	11	0	2	2	0	0	0	1
+8000	966	40	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	966	40	3.2	74	494	0	56	56	0	0	0	1
+Academic license - for non-commercial use only
+8000	966	40	3.4	31	624	0	15	15	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	966	40	3.6	18	493	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	966	40	3.8	11	165	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	966	40	4	6	29	0	2	2	0	0	0	1
+8000	967	40	3	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	967	40	3.2	64	461	1	51.5	52	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	967	40	3.4	30	340	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	967	40	3.6	12	159	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	967	40	3.8	7	87	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	967	40	4	6	39	0	2	2	0	0	0	1
+8000	968	40	3	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	968	40	3.2	54	173	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	968	40	3.4	22	110	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	968	40	3.6	8	53	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	968	40	3.8	5	31	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	968	40	4	4	15	0	1	1	0	0	0	1
+8000	969	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	969	40	3.2	81	335	0	65	65	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	969	40	3.4	42	229	0	31	31	0	0	0	1
+Academic license - for non-commercial use only
+8000	969	40	3.6	14	87	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	969	40	3.8	7	23	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	969	40	4	4	11	0	2	2	0	0	0	1
+8000	970	40	3	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	970	40	3.2	76	622	0	56	56	0.02	0	0.01	1
+Academic license - for non-commercial use only
+8000	970	40	3.4	40	496	0	23	23	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	970	40	3.6	15	142	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	970	40	3.8	8	46	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	970	40	4	4	11	0	2	2	0	0	0	1
+8000	971	40	3	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	971	40	3.2	66	545	0	47	47	0	0	0	1
+Academic license - for non-commercial use only
+8000	971	40	3.4	34	587	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	971	40	3.6	19	295	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	971	40	3.8	11	69	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	971	40	4	8	35	0	5	5	0	0	0	1
+8000	972	40	3	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	972	40	3.2	78	219	0	70	70	0	0	0	1
+Academic license - for non-commercial use only
+8000	972	40	3.4	35	170	0	28	28	0	0	0	1
+Academic license - for non-commercial use only
+8000	972	40	3.6	18	133	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	972	40	3.8	8	30	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	972	40	4	3	5	0	2	2	0	0	0	1
+8000	973	40	3	130	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	973	40	3.2	62	261	0	49	49	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	973	40	3.4	23	212	1	12.5	13	0	0	0	1
+Academic license - for non-commercial use only
+8000	973	40	3.6	11	121	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	973	40	3.8	6	34	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	973	40	4	2	3	0	1	1	0	0	0	1
+8000	974	40	3	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	974	40	3.2	57	425	0	38	38	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	974	40	3.4	29	348	1	14.5	15	0	0	0	1
+Academic license - for non-commercial use only
+8000	974	40	3.6	12	155	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	974	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	974	40	4	2	3	0	1	1	0	0	0	1
+8000	975	40	3	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	975	40	3.2	63	277	0	50	50	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	975	40	3.4	28	266	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	975	40	3.6	16	82	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	975	40	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	975	40	4	3	5	0	2	2	0	0	0	1
+8000	976	40	3	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	976	40	3.2	65	234	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	976	40	3.4	26	186	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	976	40	3.6	12	89	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	976	40	3.8	6	17	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	976	40	4	4	7	0	3	3	0	0	0	1
+8000	977	40	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	977	40	3.2	81	394	0	60	60	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	977	40	3.4	40	346	1	22.6667	23	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	977	40	3.6	19	127	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	977	40	3.8	6	29	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	977	40	4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	978	40	3	126	228	0	114	114	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	978	40	3.2	60	203	0	46	46	0	0	0	1
+Academic license - for non-commercial use only
+8000	978	40	3.4	25	123	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	978	40	3.6	13	53	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	978	40	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	978	40	4	1	1	0	1	1	0	0	0	1
+8000	979	40	3	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	979	40	3.2	77	450	0	62	62	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	979	40	3.4	28	386	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	979	40	3.6	14	220	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	979	40	3.8	10	217	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	979	40	4	6	23	0	3	3	0	0	0	1
+8000	980	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	980	40	3.2	65	297	0	50	50	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	980	40	3.4	29	219	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	980	40	3.6	15	145	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	980	40	3.8	9	79	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	980	40	4	7	47	0	3	3	0	0	0	1
+8000	981	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	981	40	3.2	66	231	0	56	56	0	0	0	1
+Academic license - for non-commercial use only
+8000	981	40	3.4	29	175	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+8000	981	40	3.6	11	51	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	981	40	3.8	6	17	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	981	40	4	3	5	0	2	2	0	0	0	1
+8000	982	40	3	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	982	40	3.2	60	319	0	44	44	0	0	0	1
+Academic license - for non-commercial use only
+8000	982	40	3.4	22	273	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+8000	982	40	3.6	11	195	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	982	40	3.8	10	113	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	982	40	4	6	25	0	3	3	0	0	0	1
+8000	983	40	3	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	983	40	3.2	73	327	0	59	59	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	983	40	3.4	35	246	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	983	40	3.6	14	91	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	983	40	3.8	8	41	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	983	40	4	6	35	0	2	2	0	0	0	1
+8000	984	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	984	40	3.2	69	516	0	52	52	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	984	40	3.4	30	439	1	15.5	16	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	984	40	3.6	14	203	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	984	40	3.8	7	35	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	984	40	4	3	7	0	1	1	0	0	0	1
+8000	985	40	3	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	985	40	3.2	77	641	0	58	58	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	985	40	3.4	29	580	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	985	40	3.6	16	288	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	985	40	3.8	9	119	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	985	40	4	5	23	0	2	2	0	0	0	1
+8000	986	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	986	40	3.2	61	459	0	45	45	0	0	0	1
+Academic license - for non-commercial use only
+8000	986	40	3.4	28	345	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+8000	986	40	3.6	14	207	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	986	40	3.8	8	95	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	986	40	4	3	5	0	2	2	0	0	0	1
+8000	987	40	3	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	987	40	3.2	80	306	0	66	66	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	987	40	3.4	39	267	0	25	25	0	0	0	1
+Academic license - for non-commercial use only
+8000	987	40	3.6	18	127	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	987	40	3.8	7	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	987	40	4	2	2	0	2	2	0	0	0	1
+8000	988	40	3	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	988	40	3.2	69	193	0	58	58	0	0	0	1
+Academic license - for non-commercial use only
+8000	988	40	3.4	26	126	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	988	40	3.6	9	39	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	988	40	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+8000	988	40	4	2	3	0	1	1	0	0	0	1
+8000	989	40	3	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	989	40	3.2	67	269	0	54	54	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	989	40	3.4	27	175	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+8000	989	40	3.6	13	57	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	989	40	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	989	40	4	4	15	0	1	1	0	0	0	1
+8000	990	40	3	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	990	40	3.2	82	719	0	62	62	0.02	0	0	1
+Academic license - for non-commercial use only
+8000	990	40	3.4	35	942	1	16.5	17	0.01	0	0.01	1
+Academic license - for non-commercial use only
+8000	990	40	3.6	17	579	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+8000	990	40	3.8	11	179	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	990	40	4	5	28	1	1.33333	2	0	0	0	1
+8000	991	40	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	991	40	3.2	82	308	0	72	72	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	991	40	3.4	37	158	0	28	28	0	0	0	1
+Academic license - for non-commercial use only
+8000	991	40	3.6	15	56	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	991	40	3.8	7	17	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	991	40	4	4	7	0	3	3	0	0	0	1
+8000	992	40	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	992	40	3.2	75	608	0	63	63	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	992	40	3.4	33	525	0	22	22	0	0	0	1
+Academic license - for non-commercial use only
+8000	992	40	3.6	18	426	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	992	40	3.8	10	187	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	992	40	4	8	74	0	2	2	0	0	0	1
+8000	993	40	3	130	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	993	40	3.2	58	467	0	40	40	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	993	40	3.4	26	395	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+8000	993	40	3.6	12	241	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	993	40	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	993	40	4	2	3	0	1	1	0	0	0	1
+8000	994	40	3	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	994	40	3.2	64	226	0	53	53	0	0	0	1
+Academic license - for non-commercial use only
+8000	994	40	3.4	30	207	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+8000	994	40	3.6	17	143	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+8000	994	40	3.8	6	19	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	994	40	4	3	5	0	2	2	0	0	0	1
+8000	995	40	3	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	995	40	3.2	71	1279	0	55	55	0.01	0.01	0	1
+Academic license - for non-commercial use only
+8000	995	40	3.4	37	1953	0	21	21	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	995	40	3.6	22	2157	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	995	40	3.8	13	918	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	995	40	4	7	41	1	2.25	3	0	0	0	1
+8000	996	40	3	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	996	40	3.2	63	509	0	45	45	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	996	40	3.4	33	477	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+8000	996	40	3.6	18	285	1	9	9	0	0	0	1
+Academic license - for non-commercial use only
+8000	996	40	3.8	10	161	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	996	40	4	6	19	0	4	4	0	0	0	1
+8000	997	40	3	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	997	40	3.2	70	1096	0	52	52	0.04	0	0	1
+Academic license - for non-commercial use only
+8000	997	40	3.4	35	1240	0	20	20	0.01	0.01	0	1
+Academic license - for non-commercial use only
+8000	997	40	3.6	19	877	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	997	40	3.8	13	374	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	997	40	4	9	188	0	2	2	0	0	0	1
+8000	998	40	3	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	998	40	3.2	73	510	0	56	56	0	0.01	0	1
+Academic license - for non-commercial use only
+8000	998	40	3.4	38	481	0	25	25	0	0	0	1
+Academic license - for non-commercial use only
+8000	998	40	3.6	16	241	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+8000	998	40	3.8	8	45	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	998	40	4	5	15	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+8000	999	40	3	123	377	0	106	106	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	999	40	3.2	52	392	1	33.5	34	0	0	0.01	1
+Academic license - for non-commercial use only
+8000	999	40	3.4	21	235	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+8000	999	40	3.6	9	71	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+8000	999	40	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	999	40	4	5	31	0	1	1	0	0	0	1
+8000	1000	40	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+8000	1000	40	3.2	79	270	0	61	61	0.01	0	0	1
+Academic license - for non-commercial use only
+8000	1000	40	3.4	39	204	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+8000	1000	40	3.6	11	61	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+8000	1000	40	3.8	5	19	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+8000	1000	40	4	1	1	0	1	1	0	0	0	1

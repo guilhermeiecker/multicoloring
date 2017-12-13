@@ -1,0 +1,3369 @@
+Academic license - for non-commercial use only
+9000	651	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	651	10	3.2	1	1	0	1	1	0	0	0	1
+9000	651	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	651	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	651	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	651	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	652	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	652	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	652	10	3.4	1	1	0	1	1	0	0	0	1
+9000	652	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	652	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	652	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	653	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	653	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	653	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	653	10	3.6	1	1	0	1	1	0	0	0	1
+9000	653	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	653	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	654	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	654	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	654	10	3.4	1	1	0	1	1	0	0	0	1
+9000	654	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	654	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	654	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	655	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	655	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	655	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	655	10	3.6	1	1	0	1	1	0	0	0	1
+9000	655	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	655	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	656	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	656	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	656	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	656	10	3.6	1	1	0	1	1	0	0	0	1
+9000	656	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	656	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	657	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	657	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	657	10	3.4	1	1	0	1	1	0	0	0	1
+9000	657	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	657	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	657	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	658	10	3	5	5	0	5	5	0	0	0	1
+9000	658	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	658	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	658	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	658	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	658	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	659	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	659	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	659	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	659	10	3.6	1	1	0	1	1	0	0	0	1
+9000	659	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	659	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	660	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	660	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	660	10	3.4	2	2	0	2	2	0	0	0	1
+9000	660	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	660	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	660	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	661	10	3	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	661	10	3.2	1	1	0	1	1	0	0	0	1
+9000	661	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	661	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	661	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	661	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	662	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	662	10	3.2	3	3	0	3	3	0	0	0	1
+9000	662	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	662	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	662	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	662	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	663	10	3	15	17	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+9000	663	10	3.2	9	11	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	663	10	3.4	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	663	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	663	10	3.8	1	1	0	1	1	0	0	0	1
+9000	663	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	664	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	664	10	3.2	3	3	0	3	3	0	0	0	1
+9000	664	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	664	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	664	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	664	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	665	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	665	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	665	10	3.4	1	1	0	1	1	0	0	0	1
+9000	665	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	665	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	665	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	666	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	666	10	3.2	2	2	0	2	2	0	0	0	1
+9000	666	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	666	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	666	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	666	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	667	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	667	10	3.2	2	2	0	2	2	0	0	0	1
+9000	667	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	667	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	667	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	667	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	668	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	668	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	668	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	668	10	3.6	1	1	0	1	1	0	0	0	1
+9000	668	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	668	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	669	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	669	10	3.2	2	2	0	2	2	0	0	0	1
+9000	669	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	669	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	669	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	669	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	670	10	3	6	12	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	670	10	3.2	6	12	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	670	10	3.4	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	670	10	3.6	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	670	10	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	670	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	671	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	671	10	3.2	5	5	0	5	5	0	0	0	1
+9000	671	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	671	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	671	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	671	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	672	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	672	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	672	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	672	10	3.6	1	1	0	1	1	0	0	0	1
+9000	672	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	672	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	673	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	673	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	673	10	3.4	2	2	0	2	2	0	0	0	1
+9000	673	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	673	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	673	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	674	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	674	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	674	10	3.4	1	1	0	1	1	0	0	0	1
+9000	674	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	674	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	674	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	675	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	675	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	675	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	675	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	675	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	675	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	676	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	676	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	676	10	3.4	1	1	0	1	1	0	0	0	1
+9000	676	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	676	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	676	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	677	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	677	10	3.2	3	3	0	3	3	0	0	0	1
+9000	677	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	677	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	677	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	677	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	678	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	678	10	3.2	2	2	0	2	2	0	0	0	1
+9000	678	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	678	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	678	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	678	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	679	10	3	11	12	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	679	10	3.2	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	679	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	679	10	3.6	1	1	0	1	1	0	0	0	1
+9000	679	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	679	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	680	10	3	9	10	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	680	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	680	10	3.4	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	680	10	3.6	1	1	0	1	1	0	0	0	1
+9000	680	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	680	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	681	10	3	9	10	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	681	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	681	10	3.4	2	3	0	1	1	0	0	0	1
+9000	681	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	681	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	681	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	682	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	682	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	682	10	3.4	1	1	0	1	1	0	0	0	1
+9000	682	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	682	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	682	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	683	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	683	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	683	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	683	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	683	10	3.8	1	1	0	1	1	0	0	0	1
+9000	683	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	684	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	684	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	684	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	684	10	3.6	2	2	0	2	2	0	0	0	1
+9000	684	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	684	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	685	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	685	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	685	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	685	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	685	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	685	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	686	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	686	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	686	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	686	10	3.6	1	1	0	1	1	0	0	0	1
+9000	686	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	686	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	687	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	687	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	687	10	3.4	1	1	0	1	1	0	0	0	1
+9000	687	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	687	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	687	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	688	10	3	11	12	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	688	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	688	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	688	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	688	10	3.8	1	1	0	1	1	0	0	0	1
+9000	688	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	689	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	689	10	3.2	2	2	0	2	2	0	0	0	1
+9000	689	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	689	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	689	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	689	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	690	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	690	10	3.2	5	5	0	5	5	0	0	0	1
+9000	690	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	690	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	690	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	690	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	691	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	691	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	691	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	691	10	3.6	1	1	0	1	1	0	0	0	1
+9000	691	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	691	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	692	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	692	10	3.2	1	1	0	1	1	0	0	0	1
+9000	692	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	692	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	692	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	692	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	693	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	693	10	3.2	2	2	0	2	2	0	0	0	1
+9000	693	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	693	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	693	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	693	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	694	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	694	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	694	10	3.4	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	694	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	694	10	3.8	1	1	0	1	1	0	0	0	1
+9000	694	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	695	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	695	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	695	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	695	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	695	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	695	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	696	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	696	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	696	10	3.4	1	1	0	1	1	0	0	0	1
+9000	696	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	696	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	696	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	697	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	697	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	697	10	3.4	1	1	0	1	1	0	0	0	1
+9000	697	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	697	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	697	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	698	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	698	10	3.2	2	2	0	2	2	0	0	0	1
+9000	698	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	698	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	698	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	698	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	699	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	699	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	699	10	3.4	1	1	0	1	1	0	0	0	1
+9000	699	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	699	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	699	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	700	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	700	10	3.2	2	2	0	2	2	0	0	0	1
+9000	700	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	700	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	700	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	700	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	701	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	701	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	701	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	701	10	3.6	1	1	0	1	1	0	0	0	1
+9000	701	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	701	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	702	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	702	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	702	10	3.4	1	1	0	1	1	0	0	0	1
+9000	702	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	702	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	702	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	703	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	703	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	703	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	703	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	703	10	3.8	1	1	0	1	1	0	0	0	1
+9000	703	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	704	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	704	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	704	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	704	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	704	10	3.8	1	1	0	1	1	0	0	0	1
+9000	704	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	705	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	705	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	705	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	705	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	705	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	705	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	706	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	706	10	3.2	2	2	0	2	2	0	0	0	1
+9000	706	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	706	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	706	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	706	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	707	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	707	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	707	10	3.4	2	2	0	2	2	0	0	0	1
+9000	707	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	707	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	707	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	708	10	3	8	14	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	708	10	3.2	4	10	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	708	10	3.4	4	10	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	708	10	3.6	3	7	0	1	1	0	0	0	1
+9000	708	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	708	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	709	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	709	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	709	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	709	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	709	10	3.8	1	1	0	1	1	0	0	0	1
+9000	709	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	710	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	710	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	710	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	710	10	3.6	1	1	0	1	1	0	0	0	1
+9000	710	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	710	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	711	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	711	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	711	10	3.4	1	1	0	1	1	0	0	0	1
+9000	711	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	711	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	711	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	712	10	3	14	17	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+9000	712	10	3.2	7	10	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	712	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	712	10	3.6	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	712	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	712	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	713	10	3	7	7	0	7	7	0	0	0	1
+9000	713	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	713	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	713	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	713	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	713	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	714	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	714	10	3.2	1	1	0	1	1	0	0	0	1
+9000	714	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	714	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	714	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	714	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	715	10	3	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	715	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	715	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	715	10	3.6	1	1	0	1	1	0	0	0	1
+9000	715	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	715	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	716	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	716	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	716	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	716	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	716	10	3.8	1	1	0	1	1	0	0	0	1
+9000	716	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	717	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	717	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	717	10	3.4	1	1	0	1	1	0	0	0	1
+9000	717	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	717	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	717	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	718	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	718	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	718	10	3.4	2	2	0	2	2	0	0	0	1
+9000	718	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	718	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	718	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	719	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	719	10	3.2	3	3	0	3	3	0	0	0	1
+9000	719	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	719	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	719	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	719	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	720	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	720	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	720	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	720	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	720	10	3.8	1	1	0	1	1	0	0	0	1
+9000	720	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	721	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	721	10	3.2	5	5	0	5	5	0	0	0	1
+9000	721	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	721	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	721	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	721	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	722	10	3	8	10	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	722	10	3.2	6	9	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	722	10	3.4	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	722	10	3.6	1	1	0	1	1	0	0	0	1
+9000	722	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	722	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	723	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	723	10	3.2	2	2	0	2	2	0	0	0	1
+9000	723	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	723	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	723	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	723	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	724	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	724	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	724	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	724	10	3.6	1	1	0	1	1	0	0	0	1
+9000	724	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	724	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	725	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	725	10	3.2	1	1	0	1	1	0	0	0	1
+9000	725	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	725	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	725	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	725	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	726	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	726	10	3.2	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	726	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	726	10	3.6	1	1	0	1	1	0	0	0	1
+9000	726	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	726	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	727	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	727	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	727	10	3.4	1	1	0	1	1	0	0	0	1
+9000	727	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	727	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	727	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	728	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	728	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	728	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	728	10	3.6	1	1	0	1	1	0	0	0	1
+9000	728	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	728	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	729	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	729	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	729	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	729	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	729	10	3.8	1	1	0	1	1	0	0	0	1
+9000	729	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	730	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	730	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	730	10	3.4	1	1	0	1	1	0	0	0	1
+9000	730	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	730	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	730	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	731	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	731	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	731	10	3.4	1	1	0	1	1	0	0	0	1
+9000	731	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	731	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	731	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	732	10	3	13	13	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+9000	732	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	732	10	3.4	2	2	0	2	2	0	0	0	1
+9000	732	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	732	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	732	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	733	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	733	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	733	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	733	10	3.6	1	1	0	1	1	0	0	0	1
+9000	733	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	733	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	734	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	734	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	734	10	3.4	1	1	0	1	1	0	0	0	1
+9000	734	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	734	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	734	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	735	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	735	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	735	10	3.4	2	2	0	2	2	0	0	0	1
+9000	735	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	735	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	735	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	736	10	3	7	9	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	736	10	3.2	5	7	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	736	10	3.4	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	736	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	736	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	736	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	737	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	737	10	3.2	4	4	0	4	4	0	0	0	1
+9000	737	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	737	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	737	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	737	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	738	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	738	10	3.2	1	1	0	1	1	0	0	0	1
+9000	738	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	738	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	738	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	738	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	739	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	739	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	739	10	3.4	2	2	0	2	2	0	0	0	1
+9000	739	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	739	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	739	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	740	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	740	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	740	10	3.4	1	1	0	1	1	0	0	0	1
+9000	740	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	740	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	740	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	741	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	741	10	3.2	2	2	0	2	2	0	0	0	1
+9000	741	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	741	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	741	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	741	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	742	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	742	10	3.2	1	1	0	1	1	0	0	0	1
+9000	742	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	742	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	742	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	742	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	743	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	743	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	743	10	3.4	2	2	0	2	2	0	0	0	1
+9000	743	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	743	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	743	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	744	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	744	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	744	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	744	10	3.6	1	1	0	1	1	0	0	0	1
+9000	744	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	744	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	745	10	3	4	4	0	4	4	0	0	0	1
+9000	745	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	745	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	745	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	745	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	745	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	746	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	746	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	746	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	746	10	3.6	1	1	0	1	1	0	0	0	1
+9000	746	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	746	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	747	10	3	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	747	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	747	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	747	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	747	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	747	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	748	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	748	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	748	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	748	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	748	10	3.8	1	1	0	1	1	0	0	0	1
+9000	748	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	749	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	749	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	749	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	749	10	3.6	1	1	0	1	1	0	0	0	1
+9000	749	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	749	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	750	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	750	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	750	10	3.4	2	2	0	2	2	0	0	0	1
+9000	750	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	750	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	750	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	751	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	751	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	751	10	3.4	1	1	0	1	1	0	0	0	1
+9000	751	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	751	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	751	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	752	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	752	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	752	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	752	10	3.6	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	752	10	3.8	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	752	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	753	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	753	10	3.2	1	1	0	1	1	0	0	0	1
+9000	753	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	753	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	753	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	753	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	754	10	3	8	10	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	754	10	3.2	5	7	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	754	10	3.4	3	6	1	1.5	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	754	10	3.6	2	2	0	2	2	0	0	0	1
+9000	754	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	754	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	755	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	755	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	755	10	3.4	3	3	0	3	3	0	0	0	1
+9000	755	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	755	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	755	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	756	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	756	10	3.2	4	4	0	4	4	0	0	0	1
+9000	756	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	756	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	756	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	756	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	757	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	757	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	757	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	757	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	757	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	757	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	758	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	758	10	3.2	2	2	0	2	2	0	0	0	1
+9000	758	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	758	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	758	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	758	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	759	10	3	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	759	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	759	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	759	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	759	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	759	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	760	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	760	10	3.2	1	1	0	1	1	0	0	0	1
+9000	760	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	760	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	760	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	760	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	761	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	761	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	761	10	3.4	1	1	0	1	1	0	0	0	1
+9000	761	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	761	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	761	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	762	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	762	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	762	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	762	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	762	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	762	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	763	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	763	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	763	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	763	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	763	10	3.8	1	1	0	1	1	0	0	0	1
+9000	763	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	764	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	764	10	3.2	2	2	0	2	2	0	0	0	1
+9000	764	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	764	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	764	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	764	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	765	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	765	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	765	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	765	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	765	10	3.8	1	1	0	1	1	0	0	0	1
+9000	765	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	766	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	766	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	766	10	3.4	1	1	0	1	1	0	0	0	1
+9000	766	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	766	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	766	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	767	10	3	11	14	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	767	10	3.2	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	767	10	3.4	4	7	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	767	10	3.6	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	767	10	3.8	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	767	10	4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	768	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	768	10	3.2	1	1	0	1	1	0	0	0	1
+9000	768	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	768	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	768	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	768	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	769	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	769	10	3.2	1	1	0	1	1	0	0	0	1
+9000	769	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	769	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	769	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	769	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	770	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	770	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	770	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	770	10	3.6	2	3	0	1	1	0	0	0	1
+9000	770	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	770	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	771	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	771	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	771	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	771	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	771	10	3.8	1	1	0	1	1	0	0	0	1
+9000	771	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	772	10	3	15	19	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+9000	772	10	3.2	8	10	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	772	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	772	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	772	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	772	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	773	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	773	10	3.2	1	1	0	1	1	0	0	0	1
+9000	773	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	773	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	773	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	773	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	774	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	774	10	3.2	2	2	0	2	2	0	0	0	1
+9000	774	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	774	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	774	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	774	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	775	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	775	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	775	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	775	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	775	10	3.8	1	1	0	1	1	0	0	0	1
+9000	775	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	776	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	776	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	776	10	3.4	1	1	0	1	1	0	0	0	1
+9000	776	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	776	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	776	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	777	10	3	13	14	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+9000	777	10	3.2	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	777	10	3.4	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	777	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	777	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	777	10	4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	778	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	778	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	778	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	778	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	778	10	3.8	1	1	0	1	1	0	0	0	1
+9000	778	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	779	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	779	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	779	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	779	10	3.6	1	1	0	1	1	0	0	0	1
+9000	779	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	779	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	780	10	3	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	780	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	780	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	780	10	3.6	1	1	0	1	1	0	0	0	1
+9000	780	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	780	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	781	10	3	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	781	10	3.2	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	781	10	3.4	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	781	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	781	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	781	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	782	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	782	10	3.2	3	3	0	3	3	0	0	0	1
+9000	782	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	782	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	782	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	782	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	783	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	783	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	783	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	783	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	783	10	3.8	1	1	0	1	1	0	0	0	1
+9000	783	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	784	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	784	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	784	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	784	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	784	10	3.8	1	1	0	1	1	0	0	0	1
+9000	784	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	785	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	785	10	3.2	1	1	0	1	1	0	0	0	1
+9000	785	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	785	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	785	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	785	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	786	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	786	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	786	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	786	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	786	10	3.8	2	2	0	2	2	0	0	0	1
+9000	786	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	787	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	787	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	787	10	3.4	1	1	0	1	1	0	0	0	1
+9000	787	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	787	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	787	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	788	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	788	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	788	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	788	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	788	10	3.8	1	1	0	1	1	0	0	0	1
+9000	788	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	789	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	789	10	3.2	3	3	0	3	3	0	0	0	1
+9000	789	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	789	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	789	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	789	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	790	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	790	10	3.2	2	2	0	2	2	0	0	0	1
+9000	790	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	790	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	790	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	790	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	791	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	791	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	791	10	3.4	1	1	0	1	1	0	0	0	1
+9000	791	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	791	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	791	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	792	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	792	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	792	10	3.4	2	3	0	1	1	0	0	0	1
+9000	792	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	792	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	792	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	793	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	793	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	793	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	793	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	793	10	3.8	1	1	0	1	1	0	0	0	1
+9000	793	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	794	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	794	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	794	10	3.4	1	1	0	1	1	0	0	0	1
+9000	794	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	794	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	794	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	795	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	795	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	795	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	795	10	3.6	1	1	0	1	1	0	0	0	1
+9000	795	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	795	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	796	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	796	10	3.2	5	8	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	796	10	3.4	3	6	1	1.5	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	796	10	3.6	2	3	0	1	1	0	0	0	1
+9000	796	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	796	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	797	10	3	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	797	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	797	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	797	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	797	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	797	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	798	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	798	10	3.2	3	3	0	3	3	0	0	0	1
+9000	798	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	798	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	798	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	798	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	799	10	3	7	7	0	7	7	0	0	0	1
+9000	799	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	799	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	799	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	799	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	799	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	800	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	800	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	800	10	3.4	1	1	0	1	1	0	0	0	1
+9000	800	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	800	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	800	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	801	10	3	12	13	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	801	10	3.2	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	801	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	801	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	801	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	801	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	802	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	802	10	3.2	1	1	0	1	1	0	0	0	1
+9000	802	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	802	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	802	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	802	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	803	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	803	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	803	10	3.4	2	2	0	2	2	0	0	0	1
+9000	803	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	803	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	803	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	804	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	804	10	3.2	2	2	0	2	2	0	0	0	1
+9000	804	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	804	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	804	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	804	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	805	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	805	10	3.2	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	805	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	805	10	3.6	2	2	0	2	2	0	0	0	1
+9000	805	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	805	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	806	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	806	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	806	10	3.4	1	1	0	1	1	0	0	0	1
+9000	806	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	806	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	806	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	807	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	807	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	807	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	807	10	3.6	1	1	0	1	1	0	0	0	1
+9000	807	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	807	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	808	10	3	13	14	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+9000	808	10	3.2	9	10	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	808	10	3.4	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	808	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	808	10	3.8	1	1	0	1	1	0	0	0	1
+9000	808	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	809	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	809	10	3.2	1	1	0	1	1	0	0	0	1
+9000	809	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	809	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	809	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	809	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	810	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	810	10	3.2	4	4	0	4	4	0	0	0	1
+9000	810	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	810	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	810	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	810	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	811	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	811	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	811	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	811	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	811	10	3.8	1	1	0	1	1	0	0	0	1
+9000	811	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	812	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	812	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	812	10	3.4	1	1	0	1	1	0	0	0	1
+9000	812	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	812	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	812	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	813	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	813	10	3.2	1	1	0	1	1	0	0	0	1
+9000	813	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	813	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	813	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	813	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	814	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	814	10	3.2	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	814	10	3.4	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	814	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	814	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	814	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	815	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	815	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	815	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	815	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	815	10	3.8	1	1	0	1	1	0	0	0	1
+9000	815	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	816	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	816	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	816	10	3.4	3	3	0	3	3	0	0	0	1
+9000	816	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	816	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	816	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	817	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	817	10	3.2	3	3	0	3	3	0	0	0	1
+9000	817	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	817	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	817	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	817	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	818	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	818	10	3.2	1	1	0	1	1	0	0	0	1
+9000	818	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	818	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	818	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	818	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	819	10	3	4	4	0	4	4	0	0	0	1
+9000	819	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	819	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	819	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	819	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	819	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	820	10	3	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	820	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	820	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	820	10	3.6	1	1	0	1	1	0	0	0	1
+9000	820	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	820	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	821	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	821	10	3.2	4	4	0	4	4	0	0	0	1
+9000	821	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	821	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	821	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	821	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	822	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	822	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	822	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	822	10	3.6	1	1	0	1	1	0	0	0	1
+9000	822	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	822	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	823	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	823	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	823	10	3.4	1	1	0	1	1	0	0	0	1
+9000	823	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	823	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	823	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	824	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	824	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	824	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	824	10	3.6	1	1	0	1	1	0	0	0	1
+9000	824	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	824	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	825	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	825	10	3.2	1	1	0	1	1	0	0	0	1
+9000	825	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	825	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	825	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	825	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	826	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	826	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	826	10	3.4	2	2	0	2	2	0	0	0	1
+9000	826	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	826	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	826	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	827	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	827	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	827	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	827	10	3.6	1	1	0	1	1	0	0	0	1
+9000	827	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	827	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	828	10	3	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	828	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	828	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	828	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	828	10	3.8	1	1	0	1	1	0	0	0	1
+9000	828	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	829	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	829	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	829	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	829	10	3.6	1	1	0	1	1	0	0	0	1
+9000	829	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	829	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	830	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	830	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	830	10	3.4	1	1	0	1	1	0	0	0	1
+9000	830	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	830	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	830	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	831	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	831	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	831	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	831	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	831	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	831	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	832	10	3	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	832	10	3.2	5	7	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	832	10	3.4	2	2	0	2	2	0	0	0	1
+9000	832	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	832	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	832	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	833	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	833	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	833	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	833	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	833	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	833	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	834	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	834	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	834	10	3.4	1	1	0	1	1	0	0	0	1
+9000	834	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	834	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	834	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	835	10	3	13	13	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+9000	835	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	835	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	835	10	3.6	1	1	0	1	1	0	0	0	1
+9000	835	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	835	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	836	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	836	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	836	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	836	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	836	10	3.8	1	1	0	1	1	0	0	0	1
+9000	836	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	837	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	837	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	837	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	837	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	837	10	3.8	1	1	0	1	1	0	0	0	1
+9000	837	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	838	10	3	7	9	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	838	10	3.2	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	838	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	838	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	838	10	3.8	1	1	0	1	1	0	0	0	1
+9000	838	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	839	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	839	10	3.2	4	4	0	4	4	0	0	0	1
+9000	839	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	839	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	839	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	839	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	840	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	840	10	3.2	2	2	0	2	2	0	0	0	1
+9000	840	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	840	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	840	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	840	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	841	10	3	9	14	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	841	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	841	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	841	10	3.6	1	1	0	1	1	0	0	0	1
+9000	841	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	841	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	842	10	3	6	10	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	842	10	3.2	5	9	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	842	10	3.4	4	8	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	842	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	842	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	842	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	843	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	843	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	843	10	3.4	1	1	0	1	1	0	0	0	1
+9000	843	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	843	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	843	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	844	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	844	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	844	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	844	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	844	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	844	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	845	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	845	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	845	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	845	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	845	10	3.8	1	1	0	1	1	0	0	0	1
+9000	845	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	846	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	846	10	3.2	2	2	0	2	2	0	0	0	1
+9000	846	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	846	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	846	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	846	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	847	10	3	10	11	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	847	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	847	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	847	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	847	10	3.8	1	1	0	1	1	0	0	0	1
+9000	847	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	848	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	848	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	848	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	848	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	848	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	848	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	849	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	849	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	849	10	3.4	2	2	0	2	2	0	0	0	1
+9000	849	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	849	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	849	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	850	10	3	12	12	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+9000	850	10	3.2	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	850	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	850	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	850	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	850	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	851	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	851	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	851	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	851	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	851	10	3.8	1	1	0	1	1	0	0	0	1
+9000	851	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	852	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	852	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	852	10	3.4	2	2	0	2	2	0	0	0	1
+9000	852	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	852	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	852	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	853	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	853	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	853	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	853	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	853	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	853	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	854	10	3	10	13	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	854	10	3.2	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	854	10	3.4	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	854	10	3.6	2	2	0	2	2	0	0	0	1
+9000	854	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	854	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	855	10	3	11	12	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	855	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	855	10	3.4	2	2	0	2	2	0	0	0	1
+9000	855	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	855	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	855	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	856	10	3	12	12	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+9000	856	10	3.2	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	856	10	3.4	2	2	0	2	2	0	0	0	1
+9000	856	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	856	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	856	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	857	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	857	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	857	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	857	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	857	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	857	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	858	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	858	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	858	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	858	10	3.6	1	1	0	1	1	0	0	0	1
+9000	858	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	858	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	859	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	859	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	859	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	859	10	3.6	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	859	10	3.8	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	859	10	4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	860	10	3	11	13	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	860	10	3.2	6	9	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	860	10	3.4	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	860	10	3.6	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	860	10	3.8	1	1	0	1	1	0	0	0	1
+9000	860	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	861	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	861	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	861	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	861	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	861	10	3.8	1	1	0	1	1	0	0	0	1
+9000	861	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	862	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	862	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	862	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	862	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	862	10	3.8	1	1	0	1	1	0	0	0	1
+9000	862	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	863	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	863	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	863	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	863	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	863	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	863	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	864	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	864	10	3.2	1	1	0	1	1	0	0	0	1
+9000	864	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	864	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	864	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	864	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	865	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	865	10	3.2	1	1	0	1	1	0	0	0	1
+9000	865	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	865	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	865	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	865	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	866	10	3	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	866	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	866	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	866	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	866	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	866	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	867	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	867	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	867	10	3.4	1	1	0	1	1	0	0	0	1
+9000	867	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	867	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	867	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	868	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	868	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	868	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	868	10	3.6	1	1	0	1	1	0	0	0	1
+9000	868	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	868	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	869	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	869	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	869	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	869	10	3.6	1	1	0	1	1	0	0	0	1
+9000	869	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	869	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	870	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	870	10	3.2	3	3	0	3	3	0	0	0	1
+9000	870	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	870	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	870	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	870	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	871	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	871	10	3.2	4	4	0	4	4	0	0	0	1
+9000	871	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	871	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	871	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	871	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	872	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	872	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	872	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	872	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	872	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	872	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	873	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	873	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	873	10	3.4	1	1	0	1	1	0	0	0	1
+9000	873	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	873	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	873	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	874	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	874	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	874	10	3.4	1	1	0	1	1	0	0	0	1
+9000	874	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	874	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	874	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	875	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	875	10	3.2	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	875	10	3.4	3	5	0	2	2	0	0	0	1
+9000	875	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	875	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	875	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	876	10	3	16	17	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+9000	876	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	876	10	3.4	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	876	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	876	10	3.8	2	2	0	2	2	0	0	0	1
+9000	876	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	877	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	877	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	877	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	877	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	877	10	3.8	1	1	0	1	1	0	0	0	1
+9000	877	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	878	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	878	10	3.2	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	878	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	878	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	878	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	878	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	879	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	879	10	3.2	1	1	0	1	1	0	0	0	1
+9000	879	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	879	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	879	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	879	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	880	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	880	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	880	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	880	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	880	10	3.8	1	1	0	1	1	0	0	0	1
+9000	880	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	881	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	881	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	881	10	3.4	1	1	0	1	1	0	0	0	1
+9000	881	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	881	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	881	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	882	10	3	9	10	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	882	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	882	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	882	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	882	10	3.8	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	882	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	883	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	883	10	3.2	4	4	0	4	4	0	0	0	1
+9000	883	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	883	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	883	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	883	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	884	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	884	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	884	10	3.4	1	1	0	1	1	0	0	0	1
+9000	884	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	884	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	884	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	885	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	885	10	3.2	4	4	0	4	4	0	0	0	1
+9000	885	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	885	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	885	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	885	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	886	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	886	10	3.2	1	1	0	1	1	0	0	0	1
+9000	886	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	886	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	886	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	886	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	887	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	887	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	887	10	3.4	2	3	0	1	1	0	0	0	1
+9000	887	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	887	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	887	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	888	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	888	10	3.2	1	1	0	1	1	0	0	0	1
+9000	888	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	888	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	888	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	888	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	889	10	3	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	889	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	889	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	889	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	889	10	3.8	1	1	0	1	1	0	0	0	1
+9000	889	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	890	10	3	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	890	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	890	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	890	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	890	10	3.8	1	1	0	1	1	0	0	0	1
+9000	890	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	891	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	891	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	891	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	891	10	3.6	1	1	0	1	1	0	0	0	1
+9000	891	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	891	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	892	10	3	7	11	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	892	10	3.2	4	8	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	892	10	3.4	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	892	10	3.6	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	892	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	892	10	4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	893	10	3	5	5	0	5	5	0	0	0	1
+9000	893	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	893	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	893	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	893	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	893	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	894	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	894	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	894	10	3.4	1	1	0	1	1	0	0	0	1
+9000	894	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	894	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	894	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	895	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	895	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	895	10	3.4	1	1	0	1	1	0	0	0	1
+9000	895	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	895	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	895	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	896	10	3	5	5	0	5	5	0	0	0	1
+9000	896	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	896	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	896	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	896	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	896	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	897	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	897	10	3.2	5	7	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	897	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	897	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	897	10	3.8	1	1	0	1	1	0	0	0	1
+9000	897	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	898	10	3	11	13	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	898	10	3.2	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	898	10	3.4	3	6	1	1.5	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	898	10	3.6	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	898	10	3.8	1	1	0	1	1	0	0	0	1
+9000	898	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	899	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	899	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	899	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	899	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	899	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	899	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	900	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	900	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	900	10	3.4	2	2	0	2	2	0	0	0	1
+9000	900	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	900	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	900	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	901	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	901	10	3.2	2	2	0	2	2	0	0	0	1
+9000	901	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	901	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	901	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	901	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	902	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	902	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	902	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	902	10	3.6	1	1	0	1	1	0	0	0	1
+9000	902	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	902	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	903	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	903	10	3.2	1	1	0	1	1	0	0	0	1
+9000	903	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	903	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	903	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	903	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	904	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	904	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	904	10	3.4	1	1	0	1	1	0	0	0	1
+9000	904	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	904	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	904	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	905	10	3	6	6	0	6	6	0	0	0	1
+9000	905	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	905	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	905	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	905	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	905	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	906	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	906	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	906	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	906	10	3.6	1	1	0	1	1	0	0	0	1
+9000	906	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	906	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	907	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	907	10	3.2	6	6	0	6	6	0	0	0	1
+9000	907	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	907	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	907	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	907	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	908	10	3	6	9	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	908	10	3.2	6	11	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	908	10	3.4	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	908	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	908	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	908	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	909	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	909	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	909	10	3.4	1	1	0	1	1	0	0	0	1
+9000	909	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	909	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	909	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	910	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	910	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	910	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	910	10	3.6	1	1	0	1	1	0	0	0	1
+9000	910	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	910	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	911	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	911	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	911	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	911	10	3.6	1	1	0	1	1	0	0	0	1
+9000	911	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	911	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	912	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	912	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	912	10	3.4	1	1	0	1	1	0	0	0	1
+9000	912	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	912	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	912	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	913	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	913	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	913	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	913	10	3.6	1	1	0	1	1	0	0	0	1
+9000	913	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	913	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	914	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	914	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	914	10	3.4	2	2	0	2	2	0	0	0	1
+9000	914	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	914	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	914	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	915	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	915	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	915	10	3.4	1	1	0	1	1	0	0	0	1
+9000	915	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	915	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	915	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	916	10	3	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	916	10	3.2	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	916	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	916	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	916	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	916	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	917	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	917	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	917	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	917	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	917	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	917	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	918	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	918	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	918	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	918	10	3.6	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	918	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	918	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	919	10	3	9	12	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	919	10	3.2	7	10	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	919	10	3.4	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	919	10	3.6	1	1	0	1	1	0	0	0	1
+9000	919	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	919	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	920	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	920	10	3.2	4	4	0	4	4	0	0	0	1
+9000	920	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	920	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	920	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	920	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	921	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	921	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	921	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	921	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	921	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	921	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	922	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	922	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	922	10	3.4	1	1	0	1	1	0	0	0	1
+9000	922	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	922	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	922	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	923	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	923	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	923	10	3.4	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	923	10	3.6	1	1	0	1	1	0	0	0	1
+9000	923	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	923	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	924	10	3	15	15	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+9000	924	10	3.2	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	924	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	924	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	924	10	3.8	1	1	0	1	1	0	0	0	1
+9000	924	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	925	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	925	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	925	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	925	10	3.6	1	1	0	1	1	0	0	0	1
+9000	925	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	925	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	926	10	3	13	14	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+9000	926	10	3.2	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	926	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	926	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	926	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	926	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	927	10	3	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	927	10	3.2	4	7	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	927	10	3.4	4	7	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	927	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	927	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	927	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	928	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	928	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	928	10	3.4	1	1	0	1	1	0	0	0	1
+9000	928	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	928	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	928	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	929	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	929	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	929	10	3.4	1	1	0	1	1	0	0	0	1
+9000	929	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	929	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	929	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	930	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	930	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	930	10	3.4	1	1	0	1	1	0	0	0	1
+9000	930	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	930	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	930	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	931	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	931	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	931	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	931	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	931	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	931	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	932	10	3	9	12	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	932	10	3.2	5	7	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	932	10	3.4	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	932	10	3.6	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	932	10	3.8	1	1	0	1	1	0	0	0	1
+9000	932	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	933	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	933	10	3.2	5	5	0	5	5	0	0	0	1
+9000	933	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	933	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	933	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	933	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	934	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	934	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	934	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	934	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	934	10	3.8	1	1	0	1	1	0	0	0	1
+9000	934	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	935	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	935	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	935	10	3.4	1	1	0	1	1	0	0	0	1
+9000	935	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	935	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	935	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	936	10	3	8	10	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	936	10	3.2	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	936	10	3.4	1	1	0	1	1	0	0	0	1
+9000	936	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	936	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	936	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	937	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	937	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	937	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	937	10	3.6	1	1	0	1	1	0	0	0	1
+9000	937	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	937	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	938	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	938	10	3.2	2	2	0	2	2	0	0	0	1
+9000	938	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	938	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	938	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	938	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	939	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	939	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	939	10	3.4	1	1	0	1	1	0	0	0	1
+9000	939	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	939	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	939	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	940	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	940	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	940	10	3.4	1	1	0	1	1	0	0	0	1
+9000	940	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	940	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	940	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	941	10	3	15	15	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+9000	941	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	941	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	941	10	3.6	2	2	0	2	2	0	0	0	1
+9000	941	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	941	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	942	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	942	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	942	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	942	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	942	10	3.8	1	1	0	1	1	0	0	0	1
+9000	942	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	943	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	943	10	3.2	2	2	0	2	2	0	0	0	1
+9000	943	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	943	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	943	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	943	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	944	10	3	14	14	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+9000	944	10	3.2	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	944	10	3.4	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	944	10	3.6	1	1	0	1	1	0	0	0	1
+9000	944	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	944	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	945	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	945	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	945	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	945	10	3.6	1	1	0	1	1	0	0	0	1
+9000	945	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	945	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	946	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	946	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	946	10	3.4	1	1	0	1	1	0	0	0	1
+9000	946	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	946	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	946	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	947	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	947	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	947	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	947	10	3.6	1	1	0	1	1	0	0	0	1
+9000	947	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	947	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	948	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	948	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	948	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	948	10	3.6	1	1	0	1	1	0	0	0	1
+9000	948	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	948	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	949	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	949	10	3.2	1	1	0	1	1	0	0	0	1
+9000	949	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	949	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	949	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	949	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	950	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	950	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	950	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	950	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	950	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	950	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	951	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	951	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	951	10	3.4	2	2	0	2	2	0	0	0	1
+9000	951	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	951	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	951	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	952	10	3	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	952	10	3.2	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	952	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	952	10	3.6	1	1	0	1	1	0	0	0	1
+9000	952	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	952	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	953	10	3	7	8	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	953	10	3.2	4	5	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	953	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	953	10	3.6	1	1	0	1	1	0	0	0	1
+9000	953	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	953	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	954	10	3	5	5	0	5	5	0	0	0	1
+9000	954	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	954	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	954	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	954	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	954	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	955	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	955	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	955	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	955	10	3.6	1	1	0	1	1	0	0	0	1
+9000	955	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	955	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	956	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	956	10	3.2	1	1	0	1	1	0	0	0	1
+9000	956	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	956	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	956	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	956	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	957	10	3	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	957	10	3.2	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	957	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	957	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	957	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	957	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	958	10	3	12	17	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	958	10	3.2	7	13	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	958	10	3.4	6	12	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	958	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	958	10	3.8	1	1	0	1	1	0	0	0	1
+9000	958	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	959	10	3	6	6	0	6	6	0	0	0	1
+9000	959	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	959	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	959	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	959	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	959	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	960	10	3	11	14	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	960	10	3.2	6	10	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	960	10	3.4	3	5	0	2	2	0	0	0	1
+9000	960	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	960	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	960	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	961	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	961	10	3.2	1	1	0	1	1	0	0	0	1
+9000	961	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	961	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	961	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	961	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	962	10	3	13	13	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+9000	962	10	3.2	3	3	0	3	3	0	0	0	1
+9000	962	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	962	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	962	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	962	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	963	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	963	10	3.2	1	1	0	1	1	0	0	0	1
+9000	963	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	963	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	963	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	963	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	964	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	964	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	964	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	964	10	3.6	1	1	0	1	1	0	0	0	1
+9000	964	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	964	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	965	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	965	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	965	10	3.4	1	1	0	1	1	0	0	0	1
+9000	965	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	965	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	965	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	966	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	966	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	966	10	3.4	2	2	0	2	2	0	0	0	1
+9000	966	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	966	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	966	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	967	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	967	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	967	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	967	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	967	10	3.8	1	1	0	1	1	0	0	0	1
+9000	967	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	968	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	968	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	968	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	968	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	968	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	968	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	969	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	969	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	969	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	969	10	3.6	1	1	0	1	1	0	0	0	1
+9000	969	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	969	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	970	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	970	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	970	10	3.4	1	1	0	1	1	0	0	0	1
+9000	970	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	970	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	970	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	971	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	971	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	971	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	971	10	3.6	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	971	10	3.8	1	1	0	1	1	0	0	0	1
+9000	971	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	972	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	972	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	972	10	3.4	1	1	0	1	1	0	0	0	1
+9000	972	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	972	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	972	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	973	10	3	8	10	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	973	10	3.2	5	8	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	973	10	3.4	4	4	0	4	4	0	0	0	1
+9000	973	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	973	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	973	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	974	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	974	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	974	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	974	10	3.6	1	1	0	1	1	0	0	0	1
+9000	974	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	974	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	975	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	975	10	3.2	1	1	0	1	1	0	0	0	1
+9000	975	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	975	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	975	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	975	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	976	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	976	10	3.2	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	976	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	976	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	976	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	976	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	977	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	977	10	3.2	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	977	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	977	10	3.6	1	1	0	1	1	0	0	0	1
+9000	977	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	977	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	978	10	3	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	978	10	3.2	1	1	0	1	1	0	0	0	1
+9000	978	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	978	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	978	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	978	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	979	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	979	10	3.2	3	3	0	3	3	0	0	0	1
+9000	979	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	979	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	979	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	979	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	980	10	3	6	6	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+9000	980	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	980	10	3.4	1	1	0	1	1	0	0	0	1
+9000	980	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	980	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	980	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	981	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	981	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	981	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	981	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	981	10	3.8	1	1	0	1	1	0	0	0	1
+9000	981	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	982	10	3	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	982	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	982	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	982	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	982	10	3.8	2	3	0	1	1	0	0	0	1
+9000	982	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	983	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	983	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	983	10	3.4	2	2	0	2	2	0	0	0	1
+9000	983	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	983	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	983	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	984	10	3	9	9	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+9000	984	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	984	10	3.4	2	2	0	2	2	0	0	0	1
+9000	984	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	984	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	984	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	985	10	3	10	10	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	985	10	3.2	3	3	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	985	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	985	10	3.6	1	1	0	1	1	0	0	0	1
+9000	985	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	985	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	986	10	3	5	5	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	986	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	986	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	986	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	986	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	986	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	987	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	987	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	987	10	3.4	1	1	0	1	1	0	0	0	1
+9000	987	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	987	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	987	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	988	10	3	11	11	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+9000	988	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	988	10	3.4	1	1	0	1	1	0	0	0	1
+9000	988	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	988	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	988	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	989	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	989	10	3.2	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	989	10	3.4	1	1	0	1	1	0	0	0	1
+9000	989	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	989	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	989	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	990	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	990	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	990	10	3.4	1	1	0	1	1	0	0	0	1
+9000	990	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	990	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	990	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	991	10	3	13	13	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+9000	991	10	3.2	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	991	10	3.4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	991	10	3.6	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	991	10	3.8	1	1	0	1	1	0	0	0	1
+9000	991	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	992	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	992	10	3.2	2	2	0	2	2	0	0	0	1
+9000	992	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	992	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	992	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	992	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	993	10	3	4	4	0	4	4	0	0	0	1
+9000	993	10	3.2	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	993	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	993	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	993	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	993	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	994	10	3	8	10	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	994	10	3.2	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	994	10	3.4	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	994	10	3.6	3	5	0	2	2	0	0	0	1
+9000	994	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	994	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	995	10	3	8	9	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	995	10	3.2	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	995	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	995	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	995	10	3.8	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	995	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	996	10	3	11	12	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+9000	996	10	3.2	4	6	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+9000	996	10	3.4	3	3	0	3	3	0	0	0	1
+9000	996	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	996	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	996	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	997	10	3	7	7	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+9000	997	10	3.2	4	4	0	4	4	0	0	0	1
+9000	997	10	3.4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	997	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	997	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	997	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	998	10	3	3	4	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	998	10	3.2	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	998	10	3.4	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	998	10	3.6	2	3	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	998	10	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	998	10	4	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+9000	999	10	3	6	7	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+9000	999	10	3.2	5	6	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	999	10	3.4	2	2	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+9000	999	10	3.6	1	1	0	1	1	0	0	0	1
+9000	999	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	999	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+9000	1000	10	3	8	8	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+9000	1000	10	3.2	4	4	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+9000	1000	10	3.4	2	2	0	2	2	0	0	0	1
+9000	1000	10	3.6	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	1000	10	3.8	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+9000	1000	10	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0

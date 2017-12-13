@@ -6,7 +6,7 @@ CC       = gcc
 CPP      = g++
 CARGS    = -m64 -g
 CLIB     = -L$(GUROBI_HOME)/lib/ #-lgurobi70
-CPPLIB   = -L$(GUROBI_HOME)/lib/ -lgurobi_c++ -lgurobi70 #-lgurobi75 #gandalf75
+CPPLIB   = -L$(GUROBI_HOME)/lib/ -lgurobi_c++ -lgurobi75 #gandalf75
 
 scheduler: main.cpp
 	$(CPP) $(CARGS) -std=c++11 main.cpp -o main.exe -I$(INC) $(CPPLIB) -lm

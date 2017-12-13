@@ -1,0 +1,3848 @@
+11000	301	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	301	60	3.2	89	8791	0	51	51	0.34	0	0.05	1
+Academic license - for non-commercial use only
+11000	301	60	3.4	44	7759	0	20	20	0.15	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	301	60	3.6	19	3310	0	5	5	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	301	60	3.8	11	311	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	301	60	4	6	27	0	3	3	0	0	0	1
+11000	302	60	3	219	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	302	60	3.2	70	757	0	49	49	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	302	60	3.4	25	489	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+11000	302	60	3.6	14	207	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	302	60	3.8	7	49	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	302	60	4	4	15	0	1	1	0	0	0	1
+11000	303	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	303	60	3.2	72	539	0	55	55	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	303	60	3.4	22	322	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+11000	303	60	3.6	10	219	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	303	60	3.8	6	49	1	1.5	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	303	60	4	3	7	0	1	1	0	0	0	1
+11000	304	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	304	60	3.2	80	1923	0	52	52	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	304	60	3.4	38	1595	0	18	18	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	304	60	3.6	18	801	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	304	60	3.8	11	118	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	304	60	4	5	31	0	1	1	0	0	0	1
+11000	305	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	305	60	3.2	71	1207	0	45	45	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	305	60	3.4	29	833	1	14	14	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	305	60	3.6	12	325	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	305	60	3.8	7	47	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	305	60	4	4	11	0	2	2	0	0	0	1
+11000	306	60	3	219	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	306	60	3.2	94	2408	0	62	62	0.07	0	0.01	1
+Academic license - for non-commercial use only
+11000	306	60	3.4	41	2039	1	15.4688	16	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	306	60	3.6	14	198	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	306	60	3.8	6	33	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	306	60	4	3	6	1	1.5	2	0	0	0	1
+11000	307	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	307	60	3.2	73	2010	0	45	45	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	307	60	3.4	33	1960	0	15	15	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	307	60	3.6	17	1176	0	5	5	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	307	60	3.8	11	767	0	3	3	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	307	60	4	7	44	0	3	3	0	0	0	1
+11000	308	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	308	60	3.2	69	1634	1	44.3333	45	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	308	60	3.4	33	1687	0	16	16	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	308	60	3.6	16	881	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	308	60	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	308	60	4	6	47	0	2	2	0	0	0	1
+11000	309	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	309	60	3.2	82	4275	0	56	56	0.08	0.01	0	1
+Academic license - for non-commercial use only
+11000	309	60	3.4	30	5971	0	12	12	0.06	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	309	60	3.6	21	3291	0	6	6	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	309	60	3.8	13	730	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	309	60	4	7	55	0	2	2	0	0	0	1
+11000	310	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	310	60	3.2	70	1257	0	49	49	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	310	60	3.4	29	1134	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+11000	310	60	3.6	17	441	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	310	60	3.8	6	33	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	310	60	4	2	3	0	1	1	0	0	0	1
+11000	311	60	3	205	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	311	60	3.2	84	1391	0	59	59	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	311	60	3.4	32	1177	1	13.8333	14	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	311	60	3.6	14	502	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	311	60	3.8	8	135	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	311	60	4	4	11	0	2	2	0	0	0	1
+11000	312	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	312	60	3.2	82	7639	0	52	52	0.23	0.01	0	1
+Academic license - for non-commercial use only
+11000	312	60	3.4	46	8911	0	23	23	0.14	0.01	0	1
+Academic license - for non-commercial use only
+11000	312	60	3.6	22	4118	0	8	8	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	312	60	3.8	15	943	0	7	7	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	312	60	4	7	60	0	2	2	0	0	0	1
+11000	313	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	313	60	3.2	81	2098	1	50.5	51	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	313	60	3.4	36	1074	1	19.5	20	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	313	60	3.6	14	325	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	313	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	313	60	4	2	3	0	1	1	0	0	0	1
+11000	314	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	314	60	3.2	77	7710	1	42.5	43	0.21	0.01	0.07	1
+Academic license - for non-commercial use only
+11000	314	60	3.4	35	5660	1	11.5	12	0.07	0	0.05	1
+Academic license - for non-commercial use only
+11000	314	60	3.6	23	3283	0	6	6	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	314	60	3.8	11	263	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	314	60	4	1	1	0	1	1	0	0	0	1
+11000	315	60	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	315	60	3.2	64	9745	0	31	31	0.3	0.01	0	1
+Academic license - for non-commercial use only
+11000	315	60	3.4	34	9006	0	11	11	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	315	60	3.6	19	2142	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	315	60	3.8	13	639	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	315	60	4	6	35	0	2	2	0	0	0	1
+11000	316	60	3	184	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	316	60	3.2	83	1799	0	56	56	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	316	60	3.4	32	1256	1	15	15	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	316	60	3.6	14	167	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	316	60	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	316	60	4	3	7	0	1	1	0	0	0	1
+11000	317	60	3	269	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	317	60	3.2	95	1403	0	73	73	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	317	60	3.4	35	1480	0	16	16	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	317	60	3.6	17	1019	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	317	60	3.8	12	392	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	317	60	4	8	143	0	2	2	0	0	0	1
+11000	318	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	318	60	3.2	71	1582	0	44	44	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	318	60	3.4	29	1074	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	318	60	3.6	14	347	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	318	60	3.8	9	99	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	318	60	4	4	15	0	1	1	0	0	0	1
+11000	319	60	3	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	319	60	3.2	69	1400	0	42	42	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	319	60	3.4	29	843	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	319	60	3.6	12	160	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	319	60	3.8	6	23	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	319	60	4	1	1	0	1	1	0	0	0	1
+11000	320	60	3	210	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	320	60	3.2	74	1520	0	45	45	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	320	60	3.4	36	1264	0	19	19	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	320	60	3.6	15	503	1	5.5	6	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	320	60	3.8	7	126	1	1.16667	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	320	60	4	4	15	0	1	1	0	0	0	1
+11000	321	60	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	321	60	3.2	81	5311	0	54	54	0.28	0.01	0	1
+Academic license - for non-commercial use only
+11000	321	60	3.4	41	5571	0	21	21	0.14	0	0.03	1
+Academic license - for non-commercial use only
+11000	321	60	3.6	19	3435	0	5	5	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	321	60	3.8	11	320	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	321	60	4	2	3	0	1	1	0	0	0	1
+11000	322	60	3	207	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	322	60	3.2	94	3036	1	57.5	58	0.08	0	0.02	1
+Academic license - for non-commercial use only
+11000	322	60	3.4	34	2489	0	14	14	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	322	60	3.6	18	1088	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	322	60	3.8	9	191	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	322	60	4	5	23	0	2	2	0	0	0	1
+11000	323	60	3	249	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	323	60	3.2	86	3960	0	57	57	0.12	0	0	1
+Academic license - for non-commercial use only
+11000	323	60	3.4	40	2775	0	18	18	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	323	60	3.6	21	704	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	323	60	3.8	11	319	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	323	60	4	8	111	0	3	3	0	0	0	1
+11000	324	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	324	60	3.2	79	3859	0	56	56	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	324	60	3.4	29	4527	0	12	12	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	324	60	3.6	18	4787	0	4	4	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	324	60	3.8	14	1515	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	324	60	4	8	127	0	3	3	0	0	0	1
+11000	325	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	325	60	3.2	76	2098	1	46.64	47	0.09	0.01	0.11	1
+Academic license - for non-commercial use only
+11000	325	60	3.4	30	1285	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	325	60	3.6	15	514	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	325	60	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	325	60	4	2	3	0	1	1	0	0	0	1
+11000	326	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	326	60	3.2	76	3823	0	46	46	0.16	0.01	0	1
+Academic license - for non-commercial use only
+11000	326	60	3.4	34	3769	0	15	15	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	326	60	3.6	16	2152	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	326	60	3.8	11	584	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	326	60	4	5	31	0	1	1	0	0	0	1
+11000	327	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	327	60	3.2	85	4865	0	53	53	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	327	60	3.4	37	5583	0	15	15	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	327	60	3.6	20	1827	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	327	60	3.8	7	71	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	327	60	4	5	31	0	1	1	0	0	0	1
+11000	328	60	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	328	60	3.2	77	3247	0	48	48	0.09	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	328	60	3.4	31	2842	0	12	12	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	328	60	3.6	15	931	0	4	4	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	328	60	3.8	10	370	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	328	60	4	6	63	0	1	1	0	0	0	1
+11000	329	60	3	216	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	329	60	3.2	97	2370	0	66	66	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	329	60	3.4	41	2060	0	23	23	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	329	60	3.6	18	698	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	329	60	3.8	12	111	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	329	60	4	7	39	0	4	4	0	0	0	1
+11000	330	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	330	60	3.2	82	8153	0	47	47	0.21	0	0.05	1
+Academic license - for non-commercial use only
+11000	330	60	3.4	37	3959	0	15	15	0.05	0	0.03	1
+Academic license - for non-commercial use only
+11000	330	60	3.6	15	789	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	330	60	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	330	60	4	2	3	0	1	1	0	0	0	1
+11000	331	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	331	60	3.2	75	4881	0	47	47	0.2	0.01	0	1
+Academic license - for non-commercial use only
+11000	331	60	3.4	36	6486	0	15	15	0.08	0	0.05	1
+Academic license - for non-commercial use only
+11000	331	60	3.6	18	1996	1	4.16667	5	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	331	60	3.8	14	840	0	4	4	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	331	60	4	9	319	0	2	2	0	0	0	1
+11000	332	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	332	60	3.2	79	2294	1	45.1429	46	0.05	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	332	60	3.4	32	1459	0	12	12	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	332	60	3.6	15	515	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	332	60	3.8	7	71	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	332	60	4	4	11	0	2	2	0	0	0	1
+11000	333	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	333	60	3.2	75	2467	0	43	43	0.05	0.01	0	1
+Academic license - for non-commercial use only
+11000	333	60	3.4	37	1357	0	18	18	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	333	60	3.6	18	563	1	7.5	8	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	333	60	3.8	9	111	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	333	60	4	4	15	0	1	1	0	0	0	1
+11000	334	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	334	60	3.2	72	1311	0	44	44	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	334	60	3.4	28	785	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+11000	334	60	3.6	11	183	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	334	60	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	334	60	4	1	1	0	1	1	0	0	0	1
+11000	335	60	3	190	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	335	60	3.2	82	3260	0	48	48	0.09	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	335	60	3.4	37	2544	1	13.2	14	0.04	0	0.04	1
+Academic license - for non-commercial use only
+11000	335	60	3.6	15	471	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	335	60	3.8	9	103	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	335	60	4	6	47	0	2	2	0	0	0	1
+11000	336	60	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	336	60	3.2	67	4203	0	39	39	0.13	0.01	0	1
+Academic license - for non-commercial use only
+11000	336	60	3.4	34	3584	0	12	12	0.09	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	336	60	3.6	17	1674	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	336	60	3.8	7	127	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	336	60	4	5	31	0	1	1	0	0	0	1
+11000	337	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	337	60	3.2	73	2090	0	45	45	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	337	60	3.4	34	1600	1	13.6667	14	0.01	0	0.02	1
+Academic license - for non-commercial use only
+11000	337	60	3.6	14	157	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	337	60	3.8	6	38	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	337	60	4	3	7	0	1	1	0	0	0	1
+11000	338	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	338	60	3.2	82	4286	0	57	57	0.16	0	0	1
+Academic license - for non-commercial use only
+11000	338	60	3.4	34	3187	0	16	16	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	338	60	3.6	16	1019	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	338	60	3.8	9	191	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	338	60	4	6	47	0	2	2	0	0	0	1
+11000	339	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	339	60	3.2	82	1874	0	50	50	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	339	60	3.4	35	1394	0	19	19	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	339	60	3.6	18	553	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	339	60	3.8	8	55	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	339	60	4	3	7	0	1	1	0	0	0	1
+11000	340	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	340	60	3.2	72	2948	0	45	45	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	340	60	3.4	37	3020	0	18	18	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	340	60	3.6	18	1156	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	340	60	3.8	12	323	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	340	60	4	4	15	0	1	1	0	0	0	1
+11000	341	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	341	60	3.2	92	3372	0	59	59	0.1	0	0.13	1
+Academic license - for non-commercial use only
+11000	341	60	3.4	37	3303	0	13	13	0.07	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	341	60	3.6	17	1249	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	341	60	3.8	8	119	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	341	60	4	4	15	0	1	1	0	0	0	1
+11000	342	60	3	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	342	60	3.2	80	5469	0	45	45	0.17	0.01	0	1
+Academic license - for non-commercial use only
+11000	342	60	3.4	33	3618	0	12	12	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	342	60	3.6	16	1206	0	6	6	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	342	60	3.8	8	175	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	342	60	4	5	23	0	2	2	0	0	0	1
+11000	343	60	3	244	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	343	60	3.2	91	2561	0	67	67	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	343	60	3.4	43	2333	0	23	23	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	343	60	3.6	21	1021	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	343	60	3.8	12	373	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	343	60	4	5	19	0	2	2	0	0	0	1
+11000	344	60	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	344	60	3.2	85	3052	0	55	55	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	344	60	3.4	31	1787	0	12	12	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	344	60	3.6	14	422	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	344	60	3.8	9	161	1	2.5	3	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	344	60	4	4	15	0	1	1	0	0	0	1
+11000	345	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	345	60	3.2	68	1636	0	44	44	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	345	60	3.4	31	1350	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	345	60	3.6	16	920	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	345	60	3.8	12	582	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	345	60	4	8	83	0	3	3	0	0	0	1
+11000	346	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	346	60	3.2	85	3158	0	52	52	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	346	60	3.4	39	2434	1	14.2857	15	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	346	60	3.6	16	385	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	346	60	3.8	9	107	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	346	60	4	5	23	0	2	2	0	0	0	1
+11000	347	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	347	60	3.2	61	1329	0	37	37	0.05	0.01	0	1
+Academic license - for non-commercial use only
+11000	347	60	3.4	27	970	1	9.41176	10	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	347	60	3.6	11	163	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	347	60	3.8	5	27	1	1.5	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	347	60	4	4	15	0	1	1	0	0	0	1
+11000	348	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	348	60	3.2	92	4071	0	55	55	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	348	60	3.4	44	2499	0	21	21	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	348	60	3.6	20	482	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	348	60	3.8	10	99	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	348	60	4	6	23	0	3	3	0	0	0	1
+11000	349	60	3	217	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	349	60	3.2	100	3055	1	71.5	72	0.12	0	0.03	1
+Academic license - for non-commercial use only
+11000	349	60	3.4	37	2071	1	18.5	19	0.02	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	349	60	3.6	17	1419	0	4	4	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	349	60	3.8	11	359	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	349	60	4	7	71	0	2	2	0	0	0	1
+11000	350	60	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	350	60	3.2	78	2063	0	51	51	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	350	60	3.4	33	1865	0	15	15	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	350	60	3.6	16	532	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	350	60	3.8	9	113	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	350	60	4	4	11	0	2	2	0	0	0	1
+11000	351	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	351	60	3.2	74	6454	1	37.4	38	0.15	0.01	0.11	1
+Academic license - for non-commercial use only
+11000	351	60	3.4	41	5897	0	15	15	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	351	60	3.6	19	1366	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	351	60	3.8	9	191	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	351	60	4	3	5	0	2	2	0	0	0	1
+11000	352	60	3	213	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	352	60	3.2	91	1312	0	62	62	0.05	0	0.01	1
+Academic license - for non-commercial use only
+11000	352	60	3.4	43	547	0	26	26	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	352	60	3.6	15	120	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	352	60	3.8	6	27	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	352	60	4	4	9	0	2	2	0	0	0	1
+11000	353	60	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	353	60	3.2	85	4752	0	48	48	0.12	0	0.03	1
+Academic license - for non-commercial use only
+11000	353	60	3.4	36	3807	0	15	15	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	353	60	3.6	13	220	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	353	60	3.8	6	27	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	353	60	4	2	2	0	2	2	0	0	0	1
+11000	354	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	354	60	3.2	79	1727	0	48	48	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	354	60	3.4	28	1330	0	11	11	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	354	60	3.6	18	755	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	354	60	3.8	11	150	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	354	60	4	5	23	0	2	2	0	0	0	1
+11000	355	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	355	60	3.2	95	12570	1	49	49	0.45	0.01	0.09	1
+Academic license - for non-commercial use only
+11000	355	60	3.4	42	13651	0	16	16	0.22	0.02	0.1	1
+Academic license - for non-commercial use only
+11000	355	60	3.6	22	7499	0	6	6	0.05	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	355	60	3.8	14	897	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	355	60	4	8	175	0	2	2	0	0	0	1
+11000	356	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	356	60	3.2	74	2670	0	46	46	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	356	60	3.4	35	2410	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	356	60	3.6	15	1016	0	4	4	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	356	60	3.8	10	417	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	356	60	4	5	23	0	2	2	0	0	0	1
+11000	357	60	3	231	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	357	60	3.2	96	2523	1	59.5	60	0.07	0	0.02	1
+Academic license - for non-commercial use only
+11000	357	60	3.4	40	1806	0	19	19	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	357	60	3.6	19	1118	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	357	60	3.8	12	265	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	357	60	4	6	47	0	2	2	0	0	0	1
+11000	358	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	358	60	3.2	94	12017	0	59	59	0.42	0.01	0.07	1
+Academic license - for non-commercial use only
+11000	358	60	3.4	49	12405	0	21	21	0.24	0.02	0	1
+Academic license - for non-commercial use only
+11000	358	60	3.6	23	6988	0	6	6	0.05	0.01	0	1
+Academic license - for non-commercial use only
+11000	358	60	3.8	13	858	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	358	60	4	6	63	0	1	1	0	0	0	1
+11000	359	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	359	60	3.2	78	11646	0	44	44	0.25	0.01	0	1
+Academic license - for non-commercial use only
+11000	359	60	3.4	35	12458	0	15	15	0.12	0.01	0	1
+Academic license - for non-commercial use only
+11000	359	60	3.6	21	9208	0	6	6	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	359	60	3.8	14	4479	0	3	3	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	359	60	4	9	383	0	2	2	0	0	0	1
+11000	360	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	360	60	3.2	85	1840	0	66	66	0.06	0	0.01	1
+Academic license - for non-commercial use only
+11000	360	60	3.4	38	1437	0	24	24	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	360	60	3.6	16	574	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	360	60	3.8	11	208	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	360	60	4	6	47	0	2	2	0	0	0	1
+11000	361	60	3	208	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	361	60	3.2	80	2143	0	53	53	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	361	60	3.4	37	2201	0	17	17	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	361	60	3.6	18	484	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	361	60	3.8	8	57	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	361	60	4	4	7	0	3	3	0	0	0	1
+11000	362	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	362	60	3.2	76	2433	1	40.25	41	0.04	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	362	60	3.4	31	1241	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	362	60	3.6	13	439	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	362	60	3.8	7	62	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	362	60	4	3	7	0	1	1	0	0	0	1
+11000	363	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	363	60	3.2	85	2504	0	57	57	0.05	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	363	60	3.4	35	2005	0	16	16	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	363	60	3.6	18	1095	0	6	6	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	363	60	3.8	8	162	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	363	60	4	6	63	0	1	1	0	0	0	1
+11000	364	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	364	60	3.2	94	3563	1	57.25	58	0.13	0	0.03	1
+Academic license - for non-commercial use only
+11000	364	60	3.4	44	2280	0	19	19	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	364	60	3.6	17	489	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	364	60	3.8	12	134	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	364	60	4	7	29	0	4	4	0	0	0	1
+11000	365	60	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	365	60	3.2	72	2431	0	41	41	0.06	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	365	60	3.4	28	1395	1	9	9	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	365	60	3.6	12	143	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	365	60	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	365	60	4	2	3	0	1	1	0	0	0	1
+11000	366	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	366	60	3.2	69	1455	0	48	48	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	366	60	3.4	29	1281	0	15	15	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	366	60	3.6	14	270	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	366	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	366	60	4	3	7	0	1	1	0	0	0	1
+11000	367	60	3	179	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	367	60	3.2	74	981	0	50	50	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	367	60	3.4	24	781	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+11000	367	60	3.6	15	480	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	367	60	3.8	6	26	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	367	60	4	2	3	0	1	1	0	0	0	1
+11000	368	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	368	60	3.2	86	2742	0	56	56	0.11	0	0	1
+Academic license - for non-commercial use only
+11000	368	60	3.4	40	2671	0	19	19	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	368	60	3.6	19	1316	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	368	60	3.8	9	85	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	368	60	4	1	1	0	1	1	0	0	0	1
+11000	369	60	3	228	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	369	60	3.2	98	4278	0	52	52	0.15	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	369	60	3.4	45	2341	0	20	20	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	369	60	3.6	15	667	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	369	60	3.8	9	287	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	369	60	4	8	159	0	2	2	0	0	0	1
+11000	370	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	370	60	3.2	79	3569	1	47.5	48	0.06	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	370	60	3.4	33	3577	0	11	11	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	370	60	3.6	17	1540	1	3.33333	4	0	0	0.02	1
+Academic license - for non-commercial use only
+11000	370	60	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	370	60	4	4	15	0	1	1	0	0	0	1
+11000	371	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	371	60	3.2	80	618	0	60	60	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	371	60	3.4	23	222	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+11000	371	60	3.6	9	57	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	371	60	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	371	60	4	3	7	0	1	1	0	0	0	1
+11000	372	60	3	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	372	60	3.2	75	7051	0	39	39	0.16	0.01	0	1
+Academic license - for non-commercial use only
+11000	372	60	3.4	40	6016	0	17	17	0.09	0	0.04	1
+Academic license - for non-commercial use only
+11000	372	60	3.6	18	948	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	372	60	3.8	8	107	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	372	60	4	6	47	0	2	2	0	0	0	1
+11000	373	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	373	60	3.2	76	3645	0	51	51	0.07	0	0.03	1
+Academic license - for non-commercial use only
+11000	373	60	3.4	37	3245	1	18.5	19	0.03	0	0.03	1
+Academic license - for non-commercial use only
+11000	373	60	3.6	19	1445	0	7	7	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	373	60	3.8	7	55	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	373	60	4	6	47	0	2	2	0	0	0	1
+11000	374	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	374	60	3.2	82	8345	0	42	42	0.23	0	0	1
+Academic license - for non-commercial use only
+11000	374	60	3.4	48	9134	1	16.6111	17	0.12	0.01	0.17	1
+Academic license - for non-commercial use only
+11000	374	60	3.6	21	2791	0	7	7	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	374	60	3.8	12	325	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	374	60	4	6	47	0	2	2	0	0	0	1
+11000	375	60	3	208	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	375	60	3.2	103	5435	1	68.5	69	0.15	0	0.04	1
+Academic license - for non-commercial use only
+11000	375	60	3.4	43	6096	0	19	19	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	375	60	3.6	20	2226	0	6	6	0.01	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	375	60	3.8	13	846	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	375	60	4	7	95	0	2	2	0	0	0	1
+11000	376	60	3	210	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	376	60	3.2	88	5811	0	47	47	0.27	0	0.04	1
+Academic license - for non-commercial use only
+11000	376	60	3.4	46	5019	0	18	18	0.16	0	0	1
+Academic license - for non-commercial use only
+11000	376	60	3.6	24	2609	0	7	7	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	376	60	3.8	10	159	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	376	60	4	6	47	0	2	2	0	0	0	1
+11000	377	60	3	231	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	377	60	3.2	98	8029	0	65	65	0.4	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	377	60	3.4	47	9217	0	23	23	0.21	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	377	60	3.6	25	5165	0	8	8	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	377	60	3.8	14	511	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	377	60	4	10	169	0	3	3	0	0	0	1
+11000	378	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	378	60	3.2	62	526	1	42	42	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	378	60	3.4	22	341	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	378	60	3.6	9	131	1	2.66667	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	378	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	378	60	4	2	3	0	1	1	0	0	0	1
+11000	379	60	3	223	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	379	60	3.2	97	4394	0	62	62	0.17	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	379	60	3.4	45	4079	0	21	21	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	379	60	3.6	19	1262	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	379	60	3.8	10	255	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	379	60	4	5	31	0	1	1	0	0	0	1
+11000	380	60	3	179	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	380	60	3.2	74	3360	0	42	42	0.07	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	380	60	3.4	33	1982	0	15	15	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	380	60	3.6	13	418	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	380	60	3.8	7	71	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	380	60	4	5	19	0	2	2	0	0	0	1
+11000	381	60	3	201	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	381	60	3.2	71	3004	0	42	42	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	381	60	3.4	39	3799	1	14.25	15	0.06	0	0.04	1
+Academic license - for non-commercial use only
+11000	381	60	3.6	20	2044	0	7	7	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	381	60	3.8	11	428	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	381	60	4	5	19	0	2	2	0	0	0	1
+11000	382	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	382	60	3.2	77	2234	1	46.6667	47	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	382	60	3.4	31	2627	0	11	11	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	382	60	3.6	17	455	1	5.5	6	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	382	60	3.8	7	65	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	382	60	4	4	15	0	1	1	0	0	0	1
+11000	383	60	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	383	60	3.2	78	12759	0	36	36	0.32	0.01	0	1
+Academic license - for non-commercial use only
+11000	383	60	3.4	43	11306	1	14.5	15	0.16	0.01	0.1	1
+Academic license - for non-commercial use only
+11000	383	60	3.6	20	3498	0	6	6	0.02	0	0.02	1
+Academic license - for non-commercial use only
+11000	383	60	3.8	10	287	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	383	60	4	7	47	0	3	3	0	0	0	1
+11000	384	60	3	231	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	384	60	3.2	95	4718	0	60	60	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	384	60	3.4	44	5133	0	17	17	0.05	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	384	60	3.6	23	1371	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	384	60	3.8	10	231	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	384	60	4	5	31	0	1	1	0	0	0	1
+11000	385	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	385	60	3.2	78	2135	1	49.6667	50	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	385	60	3.4	36	1894	0	16	16	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	385	60	3.6	17	776	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	385	60	3.8	12	342	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	385	60	4	5	23	0	2	2	0	0	0	1
+11000	386	60	3	213	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	386	60	3.2	102	7052	0	67	67	0.24	0	0	1
+Academic license - for non-commercial use only
+11000	386	60	3.4	45	8392	0	22	22	0.12	0.01	0	1
+Academic license - for non-commercial use only
+11000	386	60	3.6	23	3101	0	9	9	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	386	60	3.8	10	129	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	386	60	4	5	23	0	2	2	0	0	0	1
+11000	387	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	387	60	3.2	80	11758	0	43	43	0.35	0	0.08	1
+Academic license - for non-commercial use only
+11000	387	60	3.4	42	11003	1	15	15	0.16	0.01	0.07	1
+Academic license - for non-commercial use only
+11000	387	60	3.6	21	3343	0	5	5	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	387	60	3.8	11	315	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	387	60	4	5	23	0	2	2	0	0	0	1
+11000	388	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	388	60	3.2	83	3714	1	45.4	46	0.08	0	0.04	1
+Academic license - for non-commercial use only
+11000	388	60	3.4	33	1956	0	13	13	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	388	60	3.6	15	343	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	388	60	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	388	60	4	4	15	0	1	1	0	0	0	1
+11000	389	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	389	60	3.2	80	9766	0	46	46	0.32	0.02	0	1
+Academic license - for non-commercial use only
+11000	389	60	3.4	39	11526	0	17	17	0.19	0.01	0	1
+Academic license - for non-commercial use only
+11000	389	60	3.6	23	3950	0	8	8	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	389	60	3.8	8	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	389	60	4	6	26	0	3	3	0	0	0	1
+11000	390	60	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	390	60	3.2	71	11981	0	34	34	0.23	0.01	0	1
+Academic license - for non-commercial use only
+11000	390	60	3.4	38	10672	0	15	15	0.16	0.01	0	1
+Academic license - for non-commercial use only
+11000	390	60	3.6	17	7442	0	3	3	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	390	60	3.8	15	3129	0	4	4	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	390	60	4	11	959	0	2	2	0	0	0	1
+11000	391	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	391	60	3.2	92	1819	0	54	54	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	391	60	3.4	39	1090	0	21	21	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	391	60	3.6	20	385	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	391	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	391	60	4	3	7	0	1	1	0	0	0	1
+11000	392	60	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	392	60	3.2	83	5045	0	43	43	0.13	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	392	60	3.4	38	4791	0	16	16	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	392	60	3.6	20	1704	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	392	60	3.8	8	119	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	392	60	4	6	63	0	1	1	0	0	0	1
+11000	393	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	393	60	3.2	80	2209	1	45.3333	46	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	393	60	3.4	34	1492	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	393	60	3.6	15	589	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	393	60	3.8	8	143	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	393	60	4	5	31	0	1	1	0	0	0	1
+11000	394	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	394	60	3.2	92	2793	0	67	67	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	394	60	3.4	35	3089	1	14.3333	15	0.02	0	0.03	1
+Academic license - for non-commercial use only
+11000	394	60	3.6	19	1046	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	394	60	3.8	11	315	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	394	60	4	4	15	0	1	1	0	0	0	1
+11000	395	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	395	60	3.2	80	1447	0	53	53	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	395	60	3.4	35	1034	0	18	18	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	395	60	3.6	11	161	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	395	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	395	60	4	5	23	0	2	2	0	0	0	1
+11000	396	60	3	222	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	396	60	3.2	95	2028	0	67	67	0.08	0	0.02	1
+Academic license - for non-commercial use only
+11000	396	60	3.4	41	1389	0	25	25	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	396	60	3.6	15	364	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	396	60	3.8	10	126	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	396	60	4	4	15	0	1	1	0	0	0	1
+11000	397	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	397	60	3.2	59	1605	1	37.5	38	0.03	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	397	60	3.4	22	1242	1	6.5	7	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	397	60	3.6	14	452	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	397	60	3.8	7	50	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	397	60	4	5	23	0	2	2	0	0	0	1
+11000	398	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	398	60	3.2	74	2624	0	42	42	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	398	60	3.4	30	1244	0	12	12	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	398	60	3.6	12	618	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	398	60	3.8	9	383	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	398	60	4	4	11	0	2	2	0	0	0	1
+11000	399	60	3	190	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	399	60	3.2	89	3756	0	60	60	0.11	0.01	0	1
+Academic license - for non-commercial use only
+11000	399	60	3.4	32	4763	0	14	14	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	399	60	3.6	19	2124	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	399	60	3.8	10	361	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	399	60	4	5	31	0	1	1	0	0	0	1
+11000	400	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	400	60	3.2	88	4898	0	54	54	0.13	0	0.03	1
+Academic license - for non-commercial use only
+11000	400	60	3.4	47	2887	0	27	27	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	400	60	3.6	19	563	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	400	60	3.8	9	60	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	400	60	4	4	11	0	2	2	0	0	0	1
+11000	401	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	401	60	3.2	84	1371	0	58	58	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	401	60	3.4	31	1090	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	401	60	3.6	16	552	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	401	60	3.8	11	284	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	401	60	4	6	29	0	2	2	0	0	0	1
+11000	402	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	402	60	3.2	77	967	0	55	55	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	402	60	3.4	31	839	0	17	17	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	402	60	3.6	16	277	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	402	60	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	402	60	4	4	11	0	2	2	0	0	0	1
+11000	403	60	3	179	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	403	60	3.2	78	6311	0	45	45	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	403	60	3.4	34	5160	0	17	17	0.07	0	0.04	1
+Academic license - for non-commercial use only
+11000	403	60	3.6	20	1063	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	403	60	3.8	9	107	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	403	60	4	4	7	0	3	3	0	0	0	1
+11000	404	60	3	229	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	404	60	3.2	103	6819	0	71	71	0.18	0	0	1
+Academic license - for non-commercial use only
+11000	404	60	3.4	48	8837	0	24	24	0.17	0.01	0	1
+Academic license - for non-commercial use only
+11000	404	60	3.6	30	6860	0	12	12	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	404	60	3.8	16	2297	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	404	60	4	8	101	0	2	2	0	0	0	1
+11000	405	60	3	212	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	405	60	3.2	87	1313	0	60	60	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	405	60	3.4	36	1379	1	20	20	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	405	60	3.6	16	678	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	405	60	3.8	11	299	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	405	60	4	9	95	0	3	3	0	0	0	1
+11000	406	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	406	60	3.2	81	659	0	57	57	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	406	60	3.4	35	404	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+11000	406	60	3.6	15	154	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	406	60	3.8	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	406	60	4	2	3	0	1	1	0	0	0	1
+11000	407	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	407	60	3.2	71	2545	0	44	44	0.12	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	407	60	3.4	32	3389	0	16	16	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	407	60	3.6	17	1023	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	407	60	3.8	9	97	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	407	60	4	1	1	0	1	1	0	0	0	1
+11000	408	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	408	60	3.2	87	3367	0	67	67	0.11	0	0	1
+Academic license - for non-commercial use only
+11000	408	60	3.4	37	3489	0	20	20	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	408	60	3.6	18	1794	0	6	6	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	408	60	3.8	12	157	1	4.5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	408	60	4	3	7	0	1	1	0	0	0	1
+11000	409	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	409	60	3.2	66	1862	1	38.5	39	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	409	60	3.4	34	2020	0	14	14	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	409	60	3.6	17	656	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	409	60	3.8	7	44	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	409	60	4	4	15	0	1	1	0	0	0	1
+11000	410	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	410	60	3.2	79	1794	0	51	51	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	410	60	3.4	33	1750	0	15	15	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	410	60	3.6	16	867	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	410	60	3.8	11	323	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	410	60	4	3	7	0	1	1	0	0	0	1
+11000	411	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	411	60	3.2	100	9725	1	56	56	0.36	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	411	60	3.4	54	7088	0	24	24	0.13	0	0	1
+Academic license - for non-commercial use only
+11000	411	60	3.6	25	1960	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	411	60	3.8	10	145	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	411	60	4	6	35	0	2	2	0	0	0	1
+11000	412	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	412	60	3.2	79	1835	0	49	49	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	412	60	3.4	32	1549	0	16	16	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	412	60	3.6	15	453	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	412	60	3.8	5	16	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	412	60	4	3	7	0	1	1	0	0	0	1
+11000	413	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	413	60	3.2	90	3583	0	60	60	0.12	0	0.02	1
+Academic license - for non-commercial use only
+11000	413	60	3.4	41	2693	0	24	24	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	413	60	3.6	17	691	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	413	60	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	413	60	4	1	1	0	1	1	0	0	0	1
+11000	414	60	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	414	60	3.2	87	6263	0	44	44	0.19	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	414	60	3.4	43	3998	0	19	19	0.08	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	414	60	3.6	16	968	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	414	60	3.8	9	60	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	414	60	4	5	15	0	3	3	0	0	0	1
+11000	415	60	3	178	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	415	60	3.2	80	3513	1	45	45	0.39	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	415	60	3.4	33	1780	0	12	12	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	415	60	3.6	14	284	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	415	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	415	60	4	4	11	0	2	2	0	0	0	1
+11000	416	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	416	60	3.2	83	1774	0	52	52	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	416	60	3.4	36	1257	0	16	16	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	416	60	3.6	17	457	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	416	60	3.8	9	116	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	416	60	4	4	9	0	2	2	0	0	0	1
+11000	417	60	3	208	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	417	60	3.2	80	2194	0	47	47	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	417	60	3.4	41	1966	1	17.4	18	0.06	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	417	60	3.6	24	996	0	10	10	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	417	60	3.8	10	118	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	417	60	4	5	23	0	2	2	0	0	0	1
+11000	418	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	418	60	3.2	63	1848	0	35	35	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	418	60	3.4	32	1398	0	12	12	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	418	60	3.6	16	176	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	418	60	3.8	7	27	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	418	60	4	4	11	0	2	2	0	0	0	1
+11000	419	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	419	60	3.2	65	7760	0	32	32	0.16	0	0	1
+Academic license - for non-commercial use only
+11000	419	60	3.4	38	9430	0	12	12	0.1	0.01	0.07	1
+Academic license - for non-commercial use only
+11000	419	60	3.6	22	4136	0	7	7	0.01	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	419	60	3.8	15	1631	0	4	4	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	419	60	4	10	255	0	3	3	0	0	0	1
+11000	420	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	420	60	3.2	85	5968	0	48	48	0.15	0.01	0.04	1
+Academic license - for non-commercial use only
+11000	420	60	3.4	37	4941	0	14	14	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	420	60	3.6	20	2404	0	8	8	0.04	0	0.07	1
+Academic license - for non-commercial use only
+11000	420	60	3.8	14	1201	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	420	60	4	6	47	0	2	2	0	0	0	1
+11000	421	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	421	60	3.2	73	3012	0	45	45	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	421	60	3.4	31	3447	0	10	10	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	421	60	3.6	19	840	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	421	60	3.8	8	143	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	421	60	4	5	31	0	1	1	0	0	0	1
+11000	422	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	422	60	3.2	84	4793	1	48.5	49	0.16	0	0.13	1
+Academic license - for non-commercial use only
+11000	422	60	3.4	34	2938	0	12	12	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	422	60	3.6	18	710	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	422	60	3.8	9	83	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	422	60	4	4	15	0	1	1	0	0	0	1
+11000	423	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	423	60	3.2	69	2900	0	36	36	0.05	0.01	0	1
+Academic license - for non-commercial use only
+11000	423	60	3.4	34	1644	0	13	13	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	423	60	3.6	13	321	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	423	60	3.8	7	127	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	423	60	4	4	15	0	1	1	0	0	0	1
+11000	424	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	424	60	3.2	89	8042	0	53	53	0.31	0	0	1
+Academic license - for non-commercial use only
+11000	424	60	3.4	40	5404	0	15	15	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	424	60	3.6	16	2160	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	424	60	3.8	13	1727	0	4	4	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	424	60	4	9	287	0	2	2	0	0	0	1
+11000	425	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	425	60	3.2	81	4873	0	47	47	0.13	0.01	0	1
+Academic license - for non-commercial use only
+11000	425	60	3.4	35	3659	0	12	12	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	425	60	3.6	19	1207	0	7	7	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	425	60	3.8	10	191	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	425	60	4	6	23	0	3	3	0	0	0	1
+11000	426	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	426	60	3.2	87	3796	0	50	50	0.14	0	0	1
+Academic license - for non-commercial use only
+11000	426	60	3.4	38	3351	0	16	16	0.05	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	426	60	3.6	18	1447	0	6	6	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	426	60	3.8	8	59	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	426	60	4	2	3	0	1	1	0	0	0	1
+11000	427	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	427	60	3.2	74	2760	0	44	44	0.07	0	0.01	1
+Academic license - for non-commercial use only
+11000	427	60	3.4	36	1418	0	15	15	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	427	60	3.6	11	171	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	427	60	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	427	60	4	4	15	0	1	1	0	0	0	1
+11000	428	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	428	60	3.2	86	5881	0	49	49	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	428	60	3.4	38	6305	0	15	15	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	428	60	3.6	21	1218	0	8	8	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	428	60	3.8	11	116	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	428	60	4	9	55	0	6	6	0	0	0	1
+11000	429	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	429	60	3.2	71	946	0	51	51	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	429	60	3.4	29	764	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+11000	429	60	3.6	14	316	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	429	60	3.8	9	255	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	429	60	4	6	63	0	1	1	0	0	0	1
+11000	430	60	3	205	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	430	60	3.2	74	1777	1	43.5	44	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	430	60	3.4	39	1121	0	17	17	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	430	60	3.6	16	614	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	430	60	3.8	7	53	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	430	60	4	5	31	0	1	1	0	0	0	1
+11000	431	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	431	60	3.2	87	9854	0	48	48	0.32	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	431	60	3.4	47	9272	0	18	18	0.15	0.01	0	1
+Academic license - for non-commercial use only
+11000	431	60	3.6	24	2707	0	7	7	0.02	0	0.02	1
+Academic license - for non-commercial use only
+11000	431	60	3.8	12	195	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	431	60	4	6	47	0	2	2	0	0	0	1
+11000	432	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	432	60	3.2	84	5338	0	56	56	0.16	0	0	1
+Academic license - for non-commercial use only
+11000	432	60	3.4	39	4242	0	20	20	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	432	60	3.6	15	725	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	432	60	3.8	6	63	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	432	60	4	6	63	0	1	1	0	0	0	1
+11000	433	60	3	238	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	433	60	3.2	118	3278	0	86	86	0.13	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	433	60	3.4	64	2056	0	43	43	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	433	60	3.6	29	534	0	20	20	0	0	0	1
+Academic license - for non-commercial use only
+11000	433	60	3.8	18	305	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+11000	433	60	4	12	38	0	9	9	0	0	0	1
+11000	434	60	3	214	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	434	60	3.2	95	2981	0	57	57	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	434	60	3.4	42	2063	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	434	60	3.6	18	704	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	434	60	3.8	9	119	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	434	60	4	4	15	0	1	1	0	0	0	1
+11000	435	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	435	60	3.2	74	1642	0	46	46	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	435	60	3.4	37	627	0	19	19	0	0	0	1
+Academic license - for non-commercial use only
+11000	435	60	3.6	16	308	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	435	60	3.8	10	148	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	435	60	4	7	47	0	3	3	0	0	0	1
+11000	436	60	3	223	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	436	60	3.2	79	997	0	57	57	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	436	60	3.4	28	726	0	12	12	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	436	60	3.6	14	247	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	436	60	3.8	6	63	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	436	60	4	5	31	0	1	1	0	0	0	1
+11000	437	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	437	60	3.2	74	3563	0	42	42	0.08	0.01	0	1
+Academic license - for non-commercial use only
+11000	437	60	3.4	39	2610	0	16	16	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	437	60	3.6	16	554	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	437	60	3.8	10	224	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	437	60	4	6	63	0	1	1	0	0	0	1
+11000	438	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	438	60	3.2	100	2853	0	70	70	0.11	0	0	1
+Academic license - for non-commercial use only
+11000	438	60	3.4	51	1929	0	32	32	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	438	60	3.6	21	734	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	438	60	3.8	10	69	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	438	60	4	5	15	0	3	3	0	0	0	1
+11000	439	60	3	218	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	439	60	3.2	94	2461	0	63	63	0.08	0.01	0	1
+Academic license - for non-commercial use only
+11000	439	60	3.4	42	2035	0	21	21	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	439	60	3.6	20	226	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	439	60	3.8	6	31	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	439	60	4	1	1	0	1	1	0	0	0	1
+11000	440	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	440	60	3.2	66	4501	1	39.5	40	0.08	0	0.03	1
+Academic license - for non-commercial use only
+11000	440	60	3.4	32	4462	0	13	13	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	440	60	3.6	18	3318	0	5	5	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	440	60	3.8	12	905	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	440	60	4	7	63	0	3	3	0	0	0	1
+11000	441	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	441	60	3.2	84	3615	0	50	50	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	441	60	3.4	43	3380	0	17	17	0.06	0	0.03	1
+Academic license - for non-commercial use only
+11000	441	60	3.6	19	922	0	7	7	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	441	60	3.8	8	255	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	441	60	4	7	95	0	2	2	0	0	0	1
+11000	442	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	442	60	3.2	73	2454	1	46.5	47	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	442	60	3.4	35	2130	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	442	60	3.6	14	581	1	4.11111	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	442	60	3.8	7	79	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	442	60	4	3	7	0	1	1	0	0	0	1
+11000	443	60	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	443	60	3.2	70	1005	0	45	45	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	443	60	3.4	29	561	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+11000	443	60	3.6	10	99	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	443	60	3.8	1	1	0	1	1	0	0	0	1
+11000	443	60	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+11000	444	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	444	60	3.2	80	3132	0	54	54	0.1	0	0.02	1
+Academic license - for non-commercial use only
+11000	444	60	3.4	31	4317	0	13	13	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	444	60	3.6	19	2094	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	444	60	3.8	10	319	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	444	60	4	7	63	0	3	3	0	0	0	1
+11000	445	60	3	212	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	445	60	3.2	87	2458	0	52	52	0.06	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	445	60	3.4	36	2089	0	16	16	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	445	60	3.6	18	782	1	5.5	6	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	445	60	3.8	7	79	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	445	60	4	4	15	0	1	1	0	0	0	1
+11000	446	60	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	446	60	3.2	73	2394	1	48	48	0.06	0	0.01	1
+Academic license - for non-commercial use only
+11000	446	60	3.4	29	2300	0	10	10	0.02	0	0.02	1
+Academic license - for non-commercial use only
+11000	446	60	3.6	16	871	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	446	60	3.8	7	71	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	446	60	4	3	7	0	1	1	0	0	0	1
+11000	447	60	3	214	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	447	60	3.2	79	2850	0	46	46	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	447	60	3.4	36	2287	0	15	15	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	447	60	3.6	18	659	1	5.5	6	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	447	60	3.8	8	143	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	447	60	4	5	31	0	1	1	0	0	0	1
+11000	448	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	448	60	3.2	87	3694	1	47.8889	48	0.13	0	0.04	1
+Academic license - for non-commercial use only
+11000	448	60	3.4	34	2570	1	12.5	13	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	448	60	3.6	15	521	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	448	60	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	448	60	4	2	3	0	1	1	0	0	0	1
+11000	449	60	3	233	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	449	60	3.2	89	841	0	64	64	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	449	60	3.4	33	666	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+11000	449	60	3.6	17	256	1	7.5	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	449	60	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	449	60	4	4	13	1	1.5	2	0	0	0	1
+11000	450	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	450	60	3.2	83	2091	0	59	59	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	450	60	3.4	36	1651	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	450	60	3.6	19	583	0	8	8	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	450	60	3.8	9	79	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	450	60	4	5	11	0	3	3	0	0	0	1
+11000	451	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	451	60	3.2	84	1322	0	61	61	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	451	60	3.4	32	1315	0	15	15	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	451	60	3.6	16	565	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	451	60	3.8	9	255	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	451	60	4	6	31	0	3	3	0	0	0	1
+11000	452	60	3	202	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	452	60	3.2	90	2287	0	52	52	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	452	60	3.4	33	1601	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	452	60	3.6	15	698	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	452	60	3.8	10	247	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	452	60	4	5	31	0	1	1	0	0	0	1
+11000	453	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	453	60	3.2	66	1815	0	44	44	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	453	60	3.4	31	1499	1	13.1	14	0.01	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	453	60	3.6	16	229	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	453	60	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	453	60	4	2	3	0	1	1	0	0	0	1
+11000	454	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	454	60	3.2	88	4916	0	60	60	0.17	0	0.02	1
+Academic license - for non-commercial use only
+11000	454	60	3.4	41	5380	0	21	21	0.07	0	0.04	1
+Academic license - for non-commercial use only
+11000	454	60	3.6	25	1588	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	454	60	3.8	9	61	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	454	60	4	4	15	0	1	1	0	0	0	1
+11000	455	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	455	60	3.2	71	1345	1	42.5	43	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	455	60	3.4	28	583	1	10.75	11	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	455	60	3.6	11	120	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	455	60	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	455	60	4	1	1	0	1	1	0	0	0	1
+11000	456	60	3	233	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	456	60	3.2	80	1426	0	59	59	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	456	60	3.4	37	1093	0	19	19	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	456	60	3.6	20	374	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	456	60	3.8	8	99	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	456	60	4	6	47	0	2	2	0	0	0	1
+11000	457	60	3	212	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	457	60	3.2	99	5061	0	59	59	0.16	0	0.04	1
+Academic license - for non-commercial use only
+11000	457	60	3.4	49	5812	0	25	25	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	457	60	3.6	21	2331	0	7	7	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	457	60	3.8	8	87	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	457	60	4	1	1	0	1	1	0	0	0	1
+11000	458	60	3	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	458	60	3.2	74	4924	0	40	40	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	458	60	3.4	36	3423	0	14	14	0.03	0	0.03	1
+Academic license - for non-commercial use only
+11000	458	60	3.6	15	944	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	458	60	3.8	9	215	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	458	60	4	5	31	0	1	1	0	0	0	1
+11000	459	60	3	201	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	459	60	3.2	86	2350	0	57	57	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	459	60	3.4	36	2205	0	15	15	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	459	60	3.6	15	1141	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	459	60	3.8	11	378	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	459	60	4	8	143	0	2	2	0	0	0	1
+11000	460	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	460	60	3.2	78	3050	0	46	46	0.1	0	0.02	1
+Academic license - for non-commercial use only
+11000	460	60	3.4	36	3123	0	15	15	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	460	60	3.6	18	619	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	460	60	3.8	9	97	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	460	60	4	5	17	0	2	2	0	0	0	1
+11000	461	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	461	60	3.2	63	604	0	45	45	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	461	60	3.4	20	390	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	461	60	3.6	9	45	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	461	60	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	461	60	4	3	7	0	1	1	0	0	0	1
+11000	462	60	3	224	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	462	60	3.2	85	2517	0	55	55	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	462	60	3.4	41	2284	0	20	20	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	462	60	3.6	20	1182	0	8	8	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	462	60	3.8	8	89	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	462	60	4	5	13	0	3	3	0	0	0	1
+11000	463	60	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	463	60	3.2	70	4756	1	39.1429	40	0.09	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	463	60	3.4	31	4933	0	10	10	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	463	60	3.6	21	1243	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	463	60	3.8	12	348	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	463	60	4	4	13	1	1.5	2	0	0	0	1
+11000	464	60	3	230	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	464	60	3.2	81	1968	0	55	55	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	464	60	3.4	41	2211	0	20	20	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	464	60	3.6	21	784	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	464	60	3.8	10	370	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	464	60	4	6	47	0	2	2	0	0	0	1
+11000	465	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	465	60	3.2	67	1064	1	44.5	45	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	465	60	3.4	29	869	0	13	13	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	465	60	3.6	11	319	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	465	60	3.8	8	49	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	465	60	4	4	15	0	1	1	0	0	0	1
+11000	466	60	3	190	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	466	60	3.2	89	8760	0	57	57	0.21	0	0	1
+Academic license - for non-commercial use only
+11000	466	60	3.4	44	7661	0	22	22	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	466	60	3.6	24	1979	0	9	9	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	466	60	3.8	10	90	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	466	60	4	4	15	0	1	1	0	0	0	1
+11000	467	60	3	219	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	467	60	3.2	91	2752	0	64	64	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	467	60	3.4	46	2231	0	27	27	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	467	60	3.6	18	399	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	467	60	3.8	8	41	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	467	60	4	5	9	0	4	4	0	0	0	1
+11000	468	60	3	233	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	468	60	3.2	97	3219	0	67	67	0.08	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	468	60	3.4	39	2578	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	468	60	3.6	19	1112	0	5	5	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	468	60	3.8	11	333	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	468	60	4	3	7	0	1	1	0	0	0	1
+11000	469	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	469	60	3.2	76	2537	0	51	51	0.07	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	469	60	3.4	34	1785	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	469	60	3.6	19	700	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	469	60	3.8	10	221	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	469	60	4	6	47	0	2	2	0	0	0	1
+11000	470	60	3	202	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	470	60	3.2	75	1725	0	51	51	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	470	60	3.4	36	1513	0	18	18	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	470	60	3.6	14	654	0	4	4	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	470	60	3.8	10	377	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	470	60	4	4	11	0	2	2	0	0	0	1
+11000	471	60	3	224	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	471	60	3.2	87	1129	0	58	58	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	471	60	3.4	36	627	0	18	18	0	0	0	1
+Academic license - for non-commercial use only
+11000	471	60	3.6	19	357	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	471	60	3.8	12	285	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	471	60	4	9	70	0	3	3	0	0	0	1
+11000	472	60	3	216	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	472	60	3.2	79	1487	1	47.5	48	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	472	60	3.4	37	833	0	18	18	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	472	60	3.6	12	154	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	472	60	3.8	6	27	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	472	60	4	4	15	0	1	1	0	0	0	1
+11000	473	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	473	60	3.2	86	3106	0	54	54	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	473	60	3.4	35	2314	0	15	15	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	473	60	3.6	13	399	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	473	60	3.8	10	143	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	473	60	4	5	23	0	2	2	0	0	0	1
+11000	474	60	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	474	60	3.2	65	953	0	47	47	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	474	60	3.4	27	887	0	12	12	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	474	60	3.6	11	125	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	474	60	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	474	60	4	2	3	0	1	1	0	0	0	1
+11000	475	60	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	475	60	3.2	74	3032	0	44	44	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	475	60	3.4	36	2535	0	14	14	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	475	60	3.6	20	1040	0	7	7	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	475	60	3.8	7	49	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	475	60	4	3	7	0	1	1	0	0	0	1
+11000	476	60	3	184	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	476	60	3.2	72	4876	0	42	42	0.11	0	0.04	1
+Academic license - for non-commercial use only
+11000	476	60	3.4	34	4551	1	10.75	11	0.07	0	0.04	1
+Academic license - for non-commercial use only
+11000	476	60	3.6	19	1537	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	476	60	3.8	10	143	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	476	60	4	5	23	0	2	2	0	0	0	1
+11000	477	60	3	220	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	477	60	3.2	89	3242	0	57	57	0.12	0	0	1
+Academic license - for non-commercial use only
+11000	477	60	3.4	36	3119	0	15	15	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	477	60	3.6	18	1389	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	477	60	3.8	14	462	0	4	4	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	477	60	4	7	59	0	2	2	0	0	0	1
+11000	478	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	478	60	3.2	70	7723	0	36	36	0.17	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	478	60	3.4	37	4762	0	15	15	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	478	60	3.6	17	1048	0	5	5	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	478	60	3.8	10	340	1	2.5	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	478	60	4	6	29	0	2	2	0	0	0	1
+11000	479	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	479	60	3.2	85	2412	0	59	59	0.06	0	0.01	1
+Academic license - for non-commercial use only
+11000	479	60	3.4	37	3041	0	18	18	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	479	60	3.6	17	1039	0	5	5	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	479	60	3.8	7	79	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	479	60	4	5	31	0	1	1	0	0	0	1
+11000	480	60	3	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	480	60	3.2	81	4160	0	47	47	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	480	60	3.4	35	3567	0	14	14	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	480	60	3.6	17	1183	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	480	60	3.8	11	252	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	480	60	4	5	23	0	2	2	0	0	0	1
+11000	481	60	3	202	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	481	60	3.2	74	767	0	52	52	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	481	60	3.4	27	428	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+11000	481	60	3.6	12	128	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	481	60	3.8	7	39	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	481	60	4	3	7	0	1	1	0	0	0	1
+11000	482	60	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	482	60	3.2	82	2055	0	49	49	0.05	0	0.01	1
+Academic license - for non-commercial use only
+11000	482	60	3.4	34	1231	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	482	60	3.6	14	235	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	482	60	3.8	8	53	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	482	60	4	3	4	0	2	2	0	0	0	1
+11000	483	60	3	178	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	483	60	3.2	72	2684	0	47	47	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	483	60	3.4	30	1901	0	13	13	0.01	0	0.02	1
+Academic license - for non-commercial use only
+11000	483	60	3.6	14	442	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	483	60	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	483	60	4	3	7	0	1	1	0	0	0	1
+11000	484	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	484	60	3.2	67	1593	0	43	43	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	484	60	3.4	32	1294	0	16	16	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	484	60	3.6	14	464	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	484	60	3.8	8	40	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	484	60	4	3	7	0	1	1	0	0	0	1
+11000	485	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	485	60	3.2	86	2833	0	54	54	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	485	60	3.4	35	1464	1	14.5	15	0.02	0	0.02	1
+Academic license - for non-commercial use only
+11000	485	60	3.6	16	401	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	485	60	3.8	7	35	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	485	60	4	4	7	0	3	3	0	0	0	1
+11000	486	60	3	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	486	60	3.2	70	821	0	49	49	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	486	60	3.4	28	783	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	486	60	3.6	14	490	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	486	60	3.8	10	81	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	486	60	4	3	7	0	1	1	0	0	0	1
+11000	487	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	487	60	3.2	71	1713	0	44	44	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	487	60	3.4	33	1276	0	14	14	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	487	60	3.6	11	100	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	487	60	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	487	60	4	3	7	0	1	1	0	0	0	1
+11000	488	60	3	205	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	488	60	3.2	91	4094	1	53.8333	54	0.08	0	0.15	1
+Academic license - for non-commercial use only
+11000	488	60	3.4	35	2814	1	12.5	13	0.02	0	0.11	1
+Academic license - for non-commercial use only
+11000	488	60	3.6	14	880	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	488	60	3.8	9	383	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	488	60	4	7	127	0	1	1	0	0	0	1
+11000	489	60	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	489	60	3.2	63	3537	0	38	38	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	489	60	3.4	28	3023	0	12	12	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	489	60	3.6	16	1356	0	4	4	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	489	60	3.8	11	767	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	489	60	4	8	127	0	3	3	0	0	0	1
+11000	490	60	3	224	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	490	60	3.2	89	1607	1	61.5	62	0.04	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	490	60	3.4	43	1096	0	23	23	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	490	60	3.6	18	465	1	6.5	7	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	490	60	3.8	8	74	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	490	60	4	4	11	0	2	2	0	0	0	1
+11000	491	60	3	221	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	491	60	3.2	99	3177	0	59	59	0.11	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	491	60	3.4	40	2161	0	16	16	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	491	60	3.6	15	454	1	4.5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	491	60	3.8	10	251	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	491	60	4	6	39	0	2	2	0	0	0	1
+11000	492	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	492	60	3.2	74	1504	1	46.6667	47	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	492	60	3.4	30	1052	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+11000	492	60	3.6	13	359	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	492	60	3.8	7	47	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	492	60	4	4	15	0	1	1	0	0	0	1
+11000	493	60	3	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	493	60	3.2	61	1364	0	34	34	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	493	60	3.4	30	1170	0	12	12	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	493	60	3.6	12	278	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	493	60	3.8	6	42	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	493	60	4	4	15	0	1	1	0	0	0	1
+11000	494	60	3	178	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	494	60	3.2	73	4373	1	41.5	42	0.1	0.01	0.04	1
+Academic license - for non-commercial use only
+11000	494	60	3.4	35	2914	0	13	13	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	494	60	3.6	13	450	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	494	60	3.8	7	79	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	494	60	4	4	15	0	1	1	0	0	0	1
+11000	495	60	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	495	60	3.2	80	2194	0	49	49	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	495	60	3.4	36	1784	0	18	18	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	495	60	3.6	15	656	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	495	60	3.8	9	161	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	495	60	4	6	58	1	1.33333	2	0	0	0	1
+11000	496	60	3	223	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	496	60	3.2	83	1667	0	55	55	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	496	60	3.4	33	1514	0	15	15	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	496	60	3.6	16	466	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	496	60	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	496	60	4	3	7	0	1	1	0	0	0	1
+11000	497	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	497	60	3.2	69	722	0	49	49	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	497	60	3.4	26	416	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+11000	497	60	3.6	15	228	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	497	60	3.8	9	68	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	497	60	4	5	23	0	2	2	0	0	0	1
+11000	498	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	498	60	3.2	85	2985	0	54	54	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	498	60	3.4	39	2182	1	16.5	17	0.02	0.01	0.02	1
+Academic license - for non-commercial use only
+11000	498	60	3.6	19	1180	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	498	60	3.8	14	243	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	498	60	4	6	31	0	3	3	0	0	0	1
+11000	499	60	3	229	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	499	60	3.2	79	1379	0	51	51	0.05	0	0.01	1
+Academic license - for non-commercial use only
+11000	499	60	3.4	36	794	0	21	21	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	499	60	3.6	14	467	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	499	60	3.8	8	125	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	499	60	4	4	11	0	2	2	0	0	0	1
+11000	500	60	3	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	500	60	3.2	76	2091	0	49	49	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	500	60	3.4	32	1330	0	14	14	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	500	60	3.6	16	434	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	500	60	3.8	11	226	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	500	60	4	6	47	0	2	2	0	0	0	1
+11000	501	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	501	60	3.2	79	1984	0	57	57	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	501	60	3.4	30	1771	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	501	60	3.6	17	343	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	501	60	3.8	9	113	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	501	60	4	7	71	0	2	2	0	0	0	1
+11000	502	60	3	229	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	502	60	3.2	89	3854	0	58	58	0.12	0	0	1
+Academic license - for non-commercial use only
+11000	502	60	3.4	42	6134	0	19	19	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	502	60	3.6	24	3942	0	7	7	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	502	60	3.8	15	1576	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	502	60	4	9	255	0	3	3	0	0	0	1
+11000	503	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	503	60	3.2	85	1455	0	60	60	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	503	60	3.4	38	1354	0	19	19	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	503	60	3.6	15	446	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	503	60	3.8	11	197	1	3.5	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	503	60	4	5	31	0	1	1	0	0	0	1
+11000	504	60	3	213	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	504	60	3.2	89	1792	0	66	66	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	504	60	3.4	37	1641	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	504	60	3.6	19	604	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	504	60	3.8	9	67	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	504	60	4	5	23	0	2	2	0	0	0	1
+11000	505	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	505	60	3.2	78	2564	0	49	49	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	505	60	3.4	36	1815	0	17	17	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	505	60	3.6	17	666	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	505	60	3.8	8	143	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	505	60	4	4	15	0	1	1	0	0	0	1
+11000	506	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	506	60	3.2	68	7580	1	36.6667	37	0.14	0	0.08	1
+Academic license - for non-commercial use only
+11000	506	60	3.4	33	8125	0	10	10	0.08	0	0.06	1
+Academic license - for non-commercial use only
+11000	506	60	3.6	21	4058	0	5	5	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	506	60	3.8	10	431	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	506	60	4	7	127	0	1	1	0	0	0	1
+11000	507	60	3	180	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	507	60	3.2	77	2256	0	53	53	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	507	60	3.4	32	2699	0	14	14	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	507	60	3.6	14	374	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	507	60	3.8	11	191	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	507	60	4	8	127	0	3	3	0	0	0	1
+11000	508	60	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	508	60	3.2	85	2305	0	59	59	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	508	60	3.4	41	1435	0	22	22	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	508	60	3.6	14	359	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	508	60	3.8	10	239	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	508	60	4	3	5	0	2	2	0	0	0	1
+11000	509	60	3	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	509	60	3.2	82	3131	0	50	50	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	509	60	3.4	33	2270	0	16	16	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	509	60	3.6	15	1258	0	4	4	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	509	60	3.8	12	767	0	3	3	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	509	60	4	8	127	0	2	2	0	0	0	1
+11000	510	60	3	205	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	510	60	3.2	85	2220	0	57	57	0.05	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	510	60	3.4	36	1511	0	23	23	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	510	60	3.6	16	230	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	510	60	3.8	8	187	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	510	60	4	5	19	0	2	2	0	0	0	1
+11000	511	60	3	218	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	511	60	3.2	99	1805	0	67	67	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	511	60	3.4	43	1368	1	20.3333	21	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	511	60	3.6	14	533	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	511	60	3.8	9	145	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	511	60	4	4	15	0	1	1	0	0	0	1
+11000	512	60	3	208	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	512	60	3.2	100	17083	0	52	52	0.55	0.01	0	1
+Academic license - for non-commercial use only
+11000	512	60	3.4	50	13094	0	23	23	0.27	0	0	1
+Academic license - for non-commercial use only
+11000	512	60	3.6	25	7316	0	8	8	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	512	60	3.8	18	1535	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	512	60	4	12	251	0	4	4	0	0	0	1
+11000	513	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	513	60	3.2	80	2064	0	56	56	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	513	60	3.4	35	1306	0	19	19	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	513	60	3.6	17	459	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	513	60	3.8	9	139	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	513	60	4	2	3	0	1	1	0	0	0	1
+11000	514	60	3	231	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	514	60	3.2	86	2437	0	53	53	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	514	60	3.4	44	2260	0	20	20	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	514	60	3.6	18	820	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	514	60	3.8	8	107	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	514	60	4	3	7	0	1	1	0	0	0	1
+11000	515	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	515	60	3.2	93	4794	0	56	56	0.17	0.01	0	1
+Academic license - for non-commercial use only
+11000	515	60	3.4	39	3982	0	18	18	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	515	60	3.6	20	1037	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	515	60	3.8	9	132	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	515	60	4	4	7	0	3	3	0	0	0	1
+11000	516	60	3	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	516	60	3.2	74	6145	0	36	36	0.18	0.01	0	1
+Academic license - for non-commercial use only
+11000	516	60	3.4	35	6087	0	13	13	0.07	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	516	60	3.6	16	1506	0	4	4	0	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	516	60	3.8	7	83	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	516	60	4	4	15	0	1	1	0	0	0	1
+11000	517	60	3	221	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	517	60	3.2	92	2720	1	59.3333	60	0.07	0	0.02	1
+Academic license - for non-commercial use only
+11000	517	60	3.4	44	2516	1	22.5	23	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	517	60	3.6	19	536	1	6.4	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	517	60	3.8	9	97	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	517	60	4	6	63	0	1	1	0	0	0	1
+11000	518	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	518	60	3.2	79	703	0	56	56	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	518	60	3.4	29	248	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+11000	518	60	3.6	7	9	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	518	60	3.8	1	1	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	518	60	4	1	1	0	1	1	0	0	0	1
+11000	519	60	3	240	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	519	60	3.2	96	1194	0	68	68	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	519	60	3.4	42	931	0	22	22	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	519	60	3.6	16	166	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	519	60	3.8	8	34	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	519	60	4	3	5	0	2	2	0	0	0	1
+11000	520	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	520	60	3.2	75	2985	1	48.5	49	0.09	0	0.02	1
+Academic license - for non-commercial use only
+11000	520	60	3.4	32	3100	1	12.25	13	0.04	0	0.2	1
+Academic license - for non-commercial use only
+11000	520	60	3.6	18	1139	0	6	6	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	520	60	3.8	9	205	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	520	60	4	8	143	0	2	2	0	0	0	1
+11000	521	60	3	226	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	521	60	3.2	114	15260	0	69	69	0.65	0.01	0.09	1
+Academic license - for non-commercial use only
+11000	521	60	3.4	55	19003	0	23	23	0.37	0.02	0	1
+Academic license - for non-commercial use only
+11000	521	60	3.6	30	7874	0	14	14	0.11	0	0	1
+Academic license - for non-commercial use only
+11000	521	60	3.8	14	1380	0	4	4	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	521	60	4	10	219	0	4	4	0	0	0	1
+11000	522	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	522	60	3.2	81	2898	0	48	48	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	522	60	3.4	35	1967	1	13.6667	14	0.02	0	0.08	1
+Academic license - for non-commercial use only
+11000	522	60	3.6	15	758	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	522	60	3.8	9	95	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	522	60	4	5	23	0	2	2	0	0	0	1
+11000	523	60	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	523	60	3.2	75	2752	0	48	48	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	523	60	3.4	35	2196	0	16	16	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	523	60	3.6	14	711	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	523	60	3.8	8	143	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	523	60	4	6	63	0	1	1	0	0	0	1
+11000	524	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	524	60	3.2	83	3948	0	47	47	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	524	60	3.4	44	3759	0	20	20	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	524	60	3.6	18	1520	1	5.5	6	0	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	524	60	3.8	10	287	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	524	60	4	5	31	0	1	1	0	0	0	1
+11000	525	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	525	60	3.2	86	3256	0	57	57	0.12	0	0.02	1
+Academic license - for non-commercial use only
+11000	525	60	3.4	43	3895	0	22	22	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	525	60	3.6	23	1835	0	11	11	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	525	60	3.8	11	106	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	525	60	4	7	63	0	3	3	0	0	0	1
+11000	526	60	3	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	526	60	3.2	74	943	1	52.5	53	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	526	60	3.4	25	532	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+11000	526	60	3.6	10	222	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	526	60	3.8	7	79	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	526	60	4	3	6	1	1.5	2	0	0	0	1
+11000	527	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	527	60	3.2	74	2038	1	44.6667	45	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	527	60	3.4	30	1564	1	9.875	10	0.01	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	527	60	3.6	14	1128	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	527	60	3.8	12	230	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	527	60	4	6	47	0	2	2	0	0	0	1
+11000	528	60	3	215	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	528	60	3.2	86	1927	0	57	57	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	528	60	3.4	34	1244	0	18	18	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	528	60	3.6	16	506	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	528	60	3.8	7	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	528	60	4	3	7	0	1	1	0	0	0	1
+11000	529	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	529	60	3.2	69	2660	0	46	46	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	529	60	3.4	32	2167	0	14	14	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	529	60	3.6	17	546	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	529	60	3.8	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	529	60	4	2	3	0	1	1	0	0	0	1
+11000	530	60	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	530	60	3.2	67	2344	0	40	40	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	530	60	3.4	39	1214	0	20	20	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	530	60	3.6	15	410	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	530	60	3.8	10	103	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	530	60	4	7	63	0	3	3	0	0	0	1
+11000	531	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	531	60	3.2	96	5438	0	58	58	0.14	0.01	0	1
+Academic license - for non-commercial use only
+11000	531	60	3.4	45	4402	0	23	23	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	531	60	3.6	22	2514	0	8	8	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	531	60	3.8	17	1727	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	531	60	4	9	79	0	4	4	0	0	0	1
+11000	532	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	532	60	3.2	83	1240	0	67	67	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	532	60	3.4	36	1184	0	25	25	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	532	60	3.6	21	424	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+11000	532	60	3.8	9	79	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	532	60	4	4	9	0	2	2	0	0	0	1
+11000	533	60	3	218	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	533	60	3.2	92	2614	0	57	57	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	533	60	3.4	43	2050	0	22	22	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	533	60	3.6	14	410	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	533	60	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	533	60	4	2	3	0	1	1	0	0	0	1
+11000	534	60	3	207	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	534	60	3.2	93	6748	0	59	59	0.21	0	0.05	1
+Academic license - for non-commercial use only
+11000	534	60	3.4	44	9821	1	19	19	0.19	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	534	60	3.6	23	2359	0	11	11	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	534	60	3.8	15	898	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	534	60	4	7	63	0	3	3	0	0	0	1
+11000	535	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	535	60	3.2	85	3488	0	50	50	0.14	0	0	1
+Academic license - for non-commercial use only
+11000	535	60	3.4	26	1278	0	11	11	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	535	60	3.6	13	380	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	535	60	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	535	60	4	2	3	0	1	1	0	0	0	1
+11000	536	60	3	207	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	536	60	3.2	80	3737	0	57	57	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	536	60	3.4	37	4085	0	21	21	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	536	60	3.6	22	3290	0	9	9	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	536	60	3.8	10	120	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	536	60	4	5	31	0	1	1	0	0	0	1
+11000	537	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	537	60	3.2	80	3031	0	54	54	0.1	0	0	1
+Academic license - for non-commercial use only
+11000	537	60	3.4	35	3065	0	15	15	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	537	60	3.6	19	772	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	537	60	3.8	10	198	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	537	60	4	7	95	0	2	2	0	0	0	1
+11000	538	60	3	226	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	538	60	3.2	87	2763	0	57	57	0.07	0	0.03	1
+Academic license - for non-commercial use only
+11000	538	60	3.4	40	1979	0	18	18	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	538	60	3.6	14	198	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	538	60	3.8	7	24	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	538	60	4	1	1	0	1	1	0	0	0	1
+11000	539	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	539	60	3.2	81	1105	0	55	55	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	539	60	3.4	33	650	0	16	16	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	539	60	3.6	16	129	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	539	60	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	539	60	4	5	23	0	2	2	0	0	0	1
+11000	540	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	540	60	3.2	87	2372	0	58	58	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	540	60	3.4	32	829	0	15	15	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	540	60	3.6	14	285	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	540	60	3.8	8	65	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	540	60	4	3	7	0	1	1	0	0	0	1
+11000	541	60	3	212	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	541	60	3.2	97	1161	1	62.5	63	0.05	0	0.01	1
+Academic license - for non-commercial use only
+11000	541	60	3.4	33	505	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+11000	541	60	3.6	11	181	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	541	60	3.8	7	39	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	541	60	4	6	29	0	2	2	0	0	0	1
+11000	542	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	542	60	3.2	82	6489	0	49	49	0.22	0	0.05	1
+Academic license - for non-commercial use only
+11000	542	60	3.4	38	7514	0	14	14	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	542	60	3.6	20	3995	0	6	6	0.03	0	0.03	1
+Academic license - for non-commercial use only
+11000	542	60	3.8	14	647	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	542	60	4	8	159	0	2	2	0	0	0	1
+11000	543	60	3	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	543	60	3.2	78	920	0	50	50	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	543	60	3.4	29	523	0	15	15	0	0	0	1
+Academic license - for non-commercial use only
+11000	543	60	3.6	12	262	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	543	60	3.8	7	75	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	543	60	4	4	15	0	1	1	0	0	0	1
+11000	544	60	3	234	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	544	60	3.2	91	1792	1	61.5	62	0.04	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	544	60	3.4	36	1481	1	18.25	19	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	544	60	3.6	19	559	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	544	60	3.8	8	59	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	544	60	4	7	35	0	4	4	0	0	0	1
+11000	545	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	545	60	3.2	66	1167	0	46	46	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	545	60	3.4	32	958	0	19	19	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	545	60	3.6	16	486	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	545	60	3.8	10	199	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	545	60	4	7	63	0	3	3	0	0	0	1
+11000	546	60	3	205	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	546	60	3.2	83	2028	0	50	50	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	546	60	3.4	34	1547	0	15	15	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	546	60	3.6	17	625	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	546	60	3.8	8	37	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	546	60	4	4	11	0	2	2	0	0	0	1
+11000	547	60	3	214	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	547	60	3.2	86	2037	1	49.5	50	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	547	60	3.4	35	1354	0	16	16	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	547	60	3.6	15	298	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	547	60	3.8	6	19	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	547	60	4	3	5	0	2	2	0	0	0	1
+11000	548	60	3	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	548	60	3.2	73	3273	1	41.8	42	0.09	0	0.14	1
+Academic license - for non-commercial use only
+11000	548	60	3.4	33	2553	0	13	13	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	548	60	3.6	18	656	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	548	60	3.8	8	69	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	548	60	4	4	15	0	1	1	0	0	0	1
+11000	549	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	549	60	3.2	87	2115	1	53.5	54	0.07	0	0.02	1
+Academic license - for non-commercial use only
+11000	549	60	3.4	28	1337	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	549	60	3.6	14	613	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	549	60	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	549	60	4	6	63	0	1	1	0	0	0	1
+11000	550	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	550	60	3.2	72	524	1	48.75	49	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	550	60	3.4	31	322	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+11000	550	60	3.6	10	118	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	550	60	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	550	60	4	5	19	0	2	2	0	0	0	1
+11000	551	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	551	60	3.2	86	1569	0	62	62	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	551	60	3.4	30	1591	0	15	15	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	551	60	3.6	17	298	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	551	60	3.8	7	39	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	551	60	4	4	11	0	2	2	0	0	0	1
+11000	552	60	3	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	552	60	3.2	77	4334	0	41	41	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	552	60	3.4	38	3070	0	19	19	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	552	60	3.6	19	634	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	552	60	3.8	8	47	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	552	60	4	2	3	0	1	1	0	0	0	1
+11000	553	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	553	60	3.2	76	1131	0	44	44	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	553	60	3.4	30	428	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+11000	553	60	3.6	13	159	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	553	60	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	553	60	4	2	3	0	1	1	0	0	0	1
+11000	554	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	554	60	3.2	79	3969	0	51	51	0.2	0	0	1
+Academic license - for non-commercial use only
+11000	554	60	3.4	38	2651	0	19	19	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	554	60	3.6	15	662	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	554	60	3.8	11	286	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	554	60	4	4	15	0	1	1	0	0	0	1
+11000	555	60	3	208	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	555	60	3.2	80	2760	0	48	48	0.08	0	0.01	1
+Academic license - for non-commercial use only
+11000	555	60	3.4	30	2162	0	12	12	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	555	60	3.6	17	574	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	555	60	3.8	8	36	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	555	60	4	2	3	0	1	1	0	0	0	1
+11000	556	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	556	60	3.2	75	1867	0	50	50	0.11	0.01	0	1
+Academic license - for non-commercial use only
+11000	556	60	3.4	35	1645	0	17	17	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	556	60	3.6	17	576	0	6	6	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	556	60	3.8	7	68	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	556	60	4	1	1	0	1	1	0	0	0	1
+11000	557	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	557	60	3.2	86	5478	1	51.4167	52	0.2	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	557	60	3.4	36	6718	0	17	17	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	557	60	3.6	18	1987	0	5	5	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	557	60	3.8	12	712	0	3	3	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	557	60	4	6	63	0	1	1	0	0	0	1
+11000	558	60	3	178	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	558	60	3.2	71	3958	0	42	42	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	558	60	3.4	36	4449	0	15	15	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	558	60	3.6	20	2155	0	6	6	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	558	60	3.8	10	170	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	558	60	4	4	15	0	1	1	0	0	0	1
+11000	559	60	3	235	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	559	60	3.2	100	3759	0	62	62	0.09	0	0.02	1
+Academic license - for non-commercial use only
+11000	559	60	3.4	47	4024	0	21	21	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	559	60	3.6	20	2490	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	559	60	3.8	14	579	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	559	60	4	8	143	0	2	2	0	0	0	1
+11000	560	60	3	207	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	560	60	3.2	72	628	1	48.3333	49	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	560	60	3.4	27	473	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+11000	560	60	3.6	12	264	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	560	60	3.8	7	48	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	560	60	4	5	31	0	1	1	0	0	0	1
+11000	561	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	561	60	3.2	78	2891	0	47	47	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	561	60	3.4	30	1325	0	11	11	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	561	60	3.6	14	372	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	561	60	3.8	7	63	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	561	60	4	2	3	0	1	1	0	0	0	1
+11000	562	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	562	60	3.2	74	1030	0	52	52	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	562	60	3.4	28	967	0	14	14	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	562	60	3.6	14	698	0	4	4	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	562	60	3.8	9	167	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	562	60	4	7	79	0	2	2	0	0	0	1
+11000	563	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	563	60	3.2	75	3756	1	41.3333	42	0.1	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	563	60	3.4	35	4503	0	13	13	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	563	60	3.6	20	2834	0	6	6	0.04	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	563	60	3.8	11	279	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	563	60	4	6	31	0	3	3	0	0	0	1
+11000	564	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	564	60	3.2	89	6978	1	46	46	0.26	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	564	60	3.4	38	7482	0	14	14	0.11	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	564	60	3.6	20	3334	0	6	6	0.05	0	0.04	1
+Academic license - for non-commercial use only
+11000	564	60	3.8	10	299	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	564	60	4	6	47	0	2	2	0	0	0	1
+11000	565	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	565	60	3.2	81	6711	0	52	52	0.18	0.01	0	1
+Academic license - for non-commercial use only
+11000	565	60	3.4	42	5286	0	21	21	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	565	60	3.6	22	2327	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	565	60	3.8	14	767	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	565	60	4	9	111	0	3	3	0	0	0	1
+11000	566	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	566	60	3.2	81	2439	0	49	49	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	566	60	3.4	33	1727	0	13	13	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	566	60	3.6	13	298	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	566	60	3.8	4	9	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	566	60	4	2	3	0	1	1	0	0	0	1
+11000	567	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	567	60	3.2	78	5365	1	41	41	0.15	0	0.05	1
+Academic license - for non-commercial use only
+11000	567	60	3.4	31	3609	0	10	10	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	567	60	3.6	18	1790	0	5	5	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	567	60	3.8	12	319	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	567	60	4	6	35	0	2	2	0	0	0	1
+11000	568	60	3	214	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	568	60	3.2	90	4248	0	57	57	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	568	60	3.4	42	4109	0	21	21	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	568	60	3.6	19	1581	0	6	6	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	568	60	3.8	9	149	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	568	60	4	5	19	0	2	2	0	0	0	1
+11000	569	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	569	60	3.2	73	3421	0	43	43	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	569	60	3.4	34	3034	0	16	16	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	569	60	3.6	19	1416	0	6	6	0	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	569	60	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	569	60	4	5	31	0	1	1	0	0	0	1
+11000	570	60	3	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	570	60	3.2	60	4265	0	29	29	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	570	60	3.4	27	2980	0	8	8	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	570	60	3.6	15	926	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	570	60	3.8	8	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	570	60	4	6	47	0	2	2	0	0	0	1
+11000	571	60	3	186	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	571	60	3.2	76	5559	0	45	45	0.15	0.01	0.04	1
+Academic license - for non-commercial use only
+11000	571	60	3.4	39	4020	0	14	14	0.07	0	0.03	1
+Academic license - for non-commercial use only
+11000	571	60	3.6	19	964	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	571	60	3.8	7	29	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	571	60	4	3	7	0	1	1	0	0	0	1
+11000	572	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	572	60	3.2	72	3811	0	41	41	0.09	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	572	60	3.4	35	3658	0	16	16	0.05	0.01	0	1
+Academic license - for non-commercial use only
+11000	572	60	3.6	18	1294	0	7	7	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	572	60	3.8	10	238	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	572	60	4	4	11	0	2	2	0	0	0	1
+11000	573	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	573	60	3.2	71	1156	0	47	47	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	573	60	3.4	28	690	0	14	14	0	0	0	1
+Academic license - for non-commercial use only
+11000	573	60	3.6	10	113	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	573	60	3.8	7	57	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	573	60	4	3	5	0	2	2	0	0	0	1
+11000	574	60	3	221	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	574	60	3.2	89	2234	0	63	63	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	574	60	3.4	38	1804	0	22	22	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	574	60	3.6	20	573	0	12	12	0	0	0	1
+Academic license - for non-commercial use only
+11000	574	60	3.8	7	39	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	574	60	4	3	5	0	2	2	0	0	0	1
+11000	575	60	3	178	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	575	60	3.2	78	3748	0	43	43	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	575	60	3.4	35	2634	0	13	13	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	575	60	3.6	16	856	0	5	5	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	575	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	575	60	4	4	15	0	1	1	0	0	0	1
+11000	576	60	3	207	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	576	60	3.2	82	3502	1	46.5	47	0.1	0	0.03	1
+Academic license - for non-commercial use only
+11000	576	60	3.4	39	3035	0	16	16	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	576	60	3.6	19	694	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	576	60	3.8	8	79	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	576	60	4	6	31	0	3	3	0	0	0	1
+11000	577	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	577	60	3.2	81	3677	0	53	53	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	577	60	3.4	34	4202	0	14	14	0.04	0	0.03	1
+Academic license - for non-commercial use only
+11000	577	60	3.6	18	1630	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	577	60	3.8	9	255	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	577	60	4	7	63	0	3	3	0	0	0	1
+11000	578	60	3	190	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	578	60	3.2	85	6247	0	47	47	0.17	0.01	0	1
+Academic license - for non-commercial use only
+11000	578	60	3.4	47	4801	1	19	19	0.08	0	0.03	1
+Academic license - for non-commercial use only
+11000	578	60	3.6	21	2026	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	578	60	3.8	12	171	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	578	60	4	6	29	0	2	2	0	0	0	1
+11000	579	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	579	60	3.2	84	5679	0	50	50	0.18	0.01	0	1
+Academic license - for non-commercial use only
+11000	579	60	3.4	36	6920	0	14	14	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	579	60	3.6	23	3989	0	6	6	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	579	60	3.8	13	1696	0	3	3	0	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	579	60	4	7	127	0	1	1	0	0	0	1
+11000	580	60	3	201	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	580	60	3.2	88	2151	0	63	63	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	580	60	3.4	32	2182	0	14	14	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	580	60	3.6	18	511	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	580	60	3.8	8	113	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	580	60	4	5	25	1	1.5	2	0	0	0	1
+11000	581	60	3	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	581	60	3.2	71	5188	0	40	40	0.21	0	0.04	1
+Academic license - for non-commercial use only
+11000	581	60	3.4	35	7534	0	11	11	0.11	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	581	60	3.6	20	2803	0	5	5	0.05	0	0.09	1
+Academic license - for non-commercial use only
+11000	581	60	3.8	10	455	0	2	2	0	0	0.03	1
+Academic license - for non-commercial use only
+11000	581	60	4	8	191	0	2	2	0	0	0	1
+11000	582	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	582	60	3.2	95	2729	0	61	61	0.07	0.01	0	1
+Academic license - for non-commercial use only
+11000	582	60	3.4	41	1963	0	19	19	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	582	60	3.6	18	415	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	582	60	3.8	7	49	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	582	60	4	5	23	0	2	2	0	0	0	1
+11000	583	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	583	60	3.2	74	1499	0	50	50	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	583	60	3.4	28	756	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	583	60	3.6	11	75	1	4.5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	583	60	3.8	5	11	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	583	60	4	2	3	0	1	1	0	0	0	1
+11000	584	60	3	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	584	60	3.2	62	1864	1	32.5	33	0.04	0	0.02	1
+Academic license - for non-commercial use only
+11000	584	60	3.4	23	605	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	584	60	3.6	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	584	60	3.8	3	5	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	584	60	4	1	1	0	1	1	0	0	0	1
+11000	585	60	3	212	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	585	60	3.2	94	2709	0	59	59	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	585	60	3.4	38	1242	0	21	21	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	585	60	3.6	13	209	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	585	60	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	585	60	4	4	11	0	2	2	0	0	0	1
+11000	586	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	586	60	3.2	84	7418	0	45	45	0.16	0.02	0	1
+Academic license - for non-commercial use only
+11000	586	60	3.4	42	6264	1	15.875	16	0.07	0.01	0.07	1
+Academic license - for non-commercial use only
+11000	586	60	3.6	19	2983	0	5	5	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	586	60	3.8	10	287	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	586	60	4	6	63	0	1	1	0	0	0	1
+11000	587	60	3	196	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	587	60	3.2	78	4177	0	49	49	0.17	0	0	1
+Academic license - for non-commercial use only
+11000	587	60	3.4	39	3816	0	17	17	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	587	60	3.6	21	2256	0	8	8	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	587	60	3.8	11	208	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	587	60	4	7	71	0	2	2	0	0	0	1
+11000	588	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	588	60	3.2	72	1813	0	50	50	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	588	60	3.4	32	1647	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	588	60	3.6	17	289	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	588	60	3.8	7	30	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	588	60	4	3	5	0	2	2	0	0	0	1
+11000	589	60	3	201	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	589	60	3.2	75	1631	0	49	49	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	589	60	3.4	34	1114	0	20	20	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	589	60	3.6	13	292	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	589	60	3.8	8	95	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	589	60	4	4	11	0	2	2	0	0	0	1
+11000	590	60	3	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	590	60	3.2	78	4618	0	44	44	0.13	0.01	0.04	1
+Academic license - for non-commercial use only
+11000	590	60	3.4	40	4384	1	16.2857	17	0.04	0	0.06	1
+Academic license - for non-commercial use only
+11000	590	60	3.6	19	1274	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	590	60	3.8	8	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	590	60	4	6	63	0	1	1	0	0	0	1
+11000	591	60	3	191	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	591	60	3.2	68	3801	1	34.6667	35	0.09	0	0.16	1
+Academic license - for non-commercial use only
+11000	591	60	3.4	37	2647	1	14.5	15	0.03	0	0.17	1
+Academic license - for non-commercial use only
+11000	591	60	3.6	16	543	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	591	60	3.8	7	41	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	591	60	4	2	3	0	1	1	0	0	0	1
+11000	592	60	3	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	592	60	3.2	61	2165	0	34	34	0.05	0	0.02	1
+Academic license - for non-commercial use only
+11000	592	60	3.4	32	1849	1	10.5	11	0.01	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	592	60	3.6	15	987	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	592	60	3.8	10	225	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	592	60	4	8	127	0	3	3	0	0	0	1
+11000	593	60	3	202	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	593	60	3.2	89	13058	0	53	53	0.51	0.02	0	1
+Academic license - for non-commercial use only
+11000	593	60	3.4	41	18832	0	15	15	0.33	0.03	0.15	1
+Academic license - for non-commercial use only
+11000	593	60	3.6	27	8572	0	9	9	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	593	60	3.8	11	361	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	593	60	4	7	63	0	2	2	0	0	0	1
+11000	594	60	3	220	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	594	60	3.2	99	4773	0	61	61	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	594	60	3.4	41	3824	1	14.5	15	0.05	0	0.04	1
+Academic license - for non-commercial use only
+11000	594	60	3.6	19	896	1	7	7	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	594	60	3.8	8	159	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	594	60	4	7	95	0	2	2	0	0	0	1
+11000	595	60	3	215	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	595	60	3.2	88	2201	0	61	61	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	595	60	3.4	40	1739	0	19	19	0.02	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	595	60	3.6	23	945	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+11000	595	60	3.8	10	203	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	595	60	4	4	8	0	2	2	0	0	0	1
+11000	596	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	596	60	3.2	95	2297	0	55	55	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	596	60	3.4	48	1745	0	22	22	0.02	0.01	0	1
+Academic license - for non-commercial use only
+11000	596	60	3.6	19	347	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	596	60	3.8	10	127	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	596	60	4	7	55	0	3	3	0	0	0	1
+11000	597	60	3	218	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	597	60	3.2	89	2385	0	56	56	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	597	60	3.4	40	1421	0	17	17	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	597	60	3.6	14	342	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	597	60	3.8	5	17	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	597	60	4	3	7	0	1	1	0	0	0	1
+11000	598	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	598	60	3.2	88	7680	0	46	46	0.2	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	598	60	3.4	41	5525	0	16	16	0.11	0.01	0	1
+Academic license - for non-commercial use only
+11000	598	60	3.6	18	1506	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	598	60	3.8	9	132	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	598	60	4	4	15	0	1	1	0	0	0	1
+11000	599	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	599	60	3.2	87	2218	1	62.3333	63	0.07	0	0.02	1
+Academic license - for non-commercial use only
+11000	599	60	3.4	40	1895	0	22	22	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	599	60	3.6	17	615	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	599	60	3.8	6	21	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	599	60	4	3	5	0	2	2	0	0	0	1
+11000	600	60	3	218	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	600	60	3.2	77	4145	0	51	51	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	600	60	3.4	42	4391	0	20	20	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	600	60	3.6	24	1616	0	9	9	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	600	60	3.8	10	151	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	600	60	4	4	15	0	1	1	0	0	0	1
+11000	601	60	3	217	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	601	60	3.2	90	4450	1	52.25	53	0.17	0	0.05	1
+Academic license - for non-commercial use only
+11000	601	60	3.4	48	3356	0	22	22	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	601	60	3.6	20	894	0	7	7	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	601	60	3.8	10	179	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	601	60	4	6	29	0	2	2	0	0	0	1
+11000	602	60	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	602	60	3.2	68	667	0	46	46	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	602	60	3.4	27	531	0	13	13	0	0	0	1
+Academic license - for non-commercial use only
+11000	602	60	3.6	13	142	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	602	60	3.8	2	3	0	1	1	0	0	0	1
+11000	602	60	4	0	0	0	0.0	0.0	0.0	0.0	0.0	0
+11000	603	60	3	204	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	603	60	3.2	79	1499	0	52	52	0.04	0.01	0	1
+Academic license - for non-commercial use only
+11000	603	60	3.4	35	1124	0	15	15	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	603	60	3.6	14	195	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	603	60	3.8	7	44	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	603	60	4	4	15	0	1	1	0	0	0	1
+11000	604	60	3	189	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	604	60	3.2	79	1407	0	49	49	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	604	60	3.4	29	608	0	16	16	0	0	0	1
+Academic license - for non-commercial use only
+11000	604	60	3.6	10	174	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	604	60	3.8	5	31	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	604	60	4	3	7	0	1	1	0	0	0	1
+11000	605	60	3	215	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	605	60	3.2	86	4701	0	52	52	0.18	0.01	0	1
+Academic license - for non-commercial use only
+11000	605	60	3.4	38	2912	0	15	15	0.05	0.01	0	1
+Academic license - for non-commercial use only
+11000	605	60	3.6	19	970	0	6	6	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	605	60	3.8	8	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	605	60	4	7	95	0	2	2	0	0	0	1
+11000	606	60	3	202	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	606	60	3.2	90	6854	1	54.6667	55	0.11	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	606	60	3.4	50	7429	0	23	23	0.06	0	0.05	1
+Academic license - for non-commercial use only
+11000	606	60	3.6	24	3401	0	7	7	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	606	60	3.8	13	770	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	606	60	4	7	95	0	2	2	0	0	0	1
+11000	607	60	3	245	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	607	60	3.2	94	746	0	71	71	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	607	60	3.4	45	593	0	30	30	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	607	60	3.6	17	196	0	11	11	0	0	0	1
+Academic license - for non-commercial use only
+11000	607	60	3.8	10	179	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	607	60	4	9	141	0	4	4	0	0	0	1
+11000	608	60	3	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	608	60	3.2	69	1389	1	40.5	41	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	608	60	3.4	30	867	1	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	608	60	3.6	12	139	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	608	60	3.8	4	15	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	608	60	4	3	7	0	1	1	0	0	0	1
+11000	609	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	609	60	3.2	88	2091	1	53.3333	54	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	609	60	3.4	35	2020	0	15	15	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	609	60	3.6	17	851	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	609	60	3.8	7	79	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	609	60	4	5	27	1	1.5	2	0	0	0	1
+11000	610	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	610	60	3.2	80	1771	0	59	59	0.04	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	610	60	3.4	33	1701	0	15	15	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	610	60	3.6	19	495	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	610	60	3.8	11	163	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	610	60	4	4	11	0	2	2	0	0	0	1
+11000	611	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	611	60	3.2	86	19574	0	45	45	0.46	0.02	0	1
+Academic license - for non-commercial use only
+11000	611	60	3.4	45	14063	0	21	21	0.19	0.01	0	1
+Academic license - for non-commercial use only
+11000	611	60	3.6	22	2461	0	9	9	0.01	0.01	0	1
+Academic license - for non-commercial use only
+11000	611	60	3.8	13	431	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	611	60	4	11	287	0	5	5	0	0	0	1
+11000	612	60	3	226	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	612	60	3.2	96	1174	0	68	68	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	612	60	3.4	33	670	1	16.5	17	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	612	60	3.6	16	97	0	10	10	0	0	0	1
+Academic license - for non-commercial use only
+11000	612	60	3.8	6	35	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	612	60	4	4	15	0	1	1	0	0	0	1
+11000	613	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	613	60	3.2	93	4027	0	70	70	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	613	60	3.4	51	2051	0	37	37	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	613	60	3.6	20	975	0	12	12	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	613	60	3.8	14	619	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	613	60	4	7	63	0	3	3	0	0	0	1
+11000	614	60	3	212	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	614	60	3.2	77	2502	0	46	46	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	614	60	3.4	39	1628	0	19	19	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	614	60	3.6	16	198	0	9	9	0	0	0	1
+Academic license - for non-commercial use only
+11000	614	60	3.8	7	71	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	614	60	4	4	15	0	1	1	0	0	0	1
+11000	615	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	615	60	3.2	85	1850	0	61	61	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	615	60	3.4	39	904	0	23	23	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	615	60	3.6	12	127	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	615	60	3.8	6	31	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	615	60	4	5	23	0	2	2	0	0	0	1
+11000	616	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	616	60	3.2	89	3724	1	55.6667	56	0.11	0	0.03	1
+Academic license - for non-commercial use only
+11000	616	60	3.4	32	3416	0	11	11	0.07	0	0.03	1
+Academic license - for non-commercial use only
+11000	616	60	3.6	16	662	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	616	60	3.8	7	59	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	616	60	4	4	15	0	1	1	0	0	0	1
+11000	617	60	3	192	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	617	60	3.2	80	1843	0	47	47	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	617	60	3.4	33	925	1	13.8636	14	0	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	617	60	3.6	10	150	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	617	60	3.8	5	27	1	1.5	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	617	60	4	3	7	0	1	1	0	0	0	1
+11000	618	60	3	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	618	60	3.2	80	5062	1	40.6667	41	0.18	0.01	0.05	1
+Academic license - for non-commercial use only
+11000	618	60	3.4	38	3952	0	14	14	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	618	60	3.6	17	1026	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	618	60	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	618	60	4	5	23	0	2	2	0	0	0	1
+11000	619	60	3	218	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	619	60	3.2	88	1981	0	53	53	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	619	60	3.4	31	1640	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	619	60	3.6	17	725	0	6	6	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	619	60	3.8	9	239	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	619	60	4	6	55	1	1.5	2	0	0	0	1
+11000	620	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	620	60	3.2	82	2242	0	53	53	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	620	60	3.4	31	1787	0	13	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	620	60	3.6	14	375	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	620	60	3.8	3	7	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	620	60	4	2	3	0	1	1	0	0	0	1
+11000	621	60	3	205	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	621	60	3.2	74	2422	0	48	48	0.06	0	0.01	1
+Academic license - for non-commercial use only
+11000	621	60	3.4	33	2580	0	13	13	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	621	60	3.6	19	1342	1	6	6	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	621	60	3.8	6	30	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	621	60	4	1	1	0	1	1	0	0	0	1
+11000	622	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	622	60	3.2	78	5663	0	40	40	0.13	0	0.05	1
+Academic license - for non-commercial use only
+11000	622	60	3.4	46	4135	0	20	20	0.06	0	0	1
+Academic license - for non-commercial use only
+11000	622	60	3.6	18	438	0	8	8	0	0	0	1
+Academic license - for non-commercial use only
+11000	622	60	3.8	4	11	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	622	60	4	2	3	0	1	1	0	0	0	1
+11000	623	60	3	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	623	60	3.2	80	3698	1	49.5	50	0.12	0	0.03	1
+Academic license - for non-commercial use only
+11000	623	60	3.4	29	4786	0	10	10	0.04	0	0.03	1
+Academic license - for non-commercial use only
+11000	623	60	3.6	19	3366	0	5	5	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	623	60	3.8	14	681	0	4	4	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	623	60	4	6	31	0	3	3	0	0	0	1
+11000	624	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	624	60	3.2	85	4628	1	51.5	52	0.14	0	0.03	1
+Academic license - for non-commercial use only
+11000	624	60	3.4	36	4401	0	15	15	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	624	60	3.6	19	766	0	6	6	0.01	0	0.01	1
+Academic license - for non-commercial use only
+11000	624	60	3.8	8	56	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	624	60	4	4	15	0	1	1	0	0	0	1
+11000	625	60	3	197	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	625	60	3.2	71	1562	0	46	46	0.05	0	0.01	1
+Academic license - for non-commercial use only
+11000	625	60	3.4	31	1504	0	15	15	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	625	60	3.6	15	923	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	625	60	3.8	10	107	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	625	60	4	4	15	0	1	1	0	0	0	1
+11000	626	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	626	60	3.2	84	1067	1	53.5	54	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	626	60	3.4	32	439	0	17	17	0	0	0	1
+Academic license - for non-commercial use only
+11000	626	60	3.6	12	108	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	626	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	626	60	4	4	15	0	1	1	0	0	0	1
+11000	627	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	627	60	3.2	83	3135	1	53.5	54	0.06	0	0.02	1
+Academic license - for non-commercial use only
+11000	627	60	3.4	39	3275	1	15.3333	16	0.03	0	0.03	1
+Academic license - for non-commercial use only
+11000	627	60	3.6	20	768	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	627	60	3.8	12	324	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	627	60	4	7	43	0	3	3	0	0	0	1
+11000	628	60	3	179	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	628	60	3.2	74	2254	0	44	44	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	628	60	3.4	35	2064	0	15	15	0.01	0.01	0.01	1
+Academic license - for non-commercial use only
+11000	628	60	3.6	17	543	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	628	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	628	60	4	3	7	0	1	1	0	0	0	1
+11000	629	60	3	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	629	60	3.2	71	1157	0	42	42	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	629	60	3.4	30	708	0	13	13	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	629	60	3.6	12	370	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	629	60	3.8	7	95	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	629	60	4	5	31	0	1	1	0	0	0	1
+11000	630	60	3	220	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	630	60	3.2	76	502	0	58	58	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	630	60	3.4	26	345	1	12.5	13	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	630	60	3.6	13	165	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	630	60	3.8	6	47	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	630	60	4	1	1	0	1	1	0	0	0	1
+11000	631	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	631	60	3.2	73	3069	0	40	40	0.11	0.01	0	1
+Academic license - for non-commercial use only
+11000	631	60	3.4	37	2505	0	15	15	0.06	0	0.03	1
+Academic license - for non-commercial use only
+11000	631	60	3.6	18	404	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	631	60	3.8	8	59	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	631	60	4	4	11	0	2	2	0	0	0	1
+11000	632	60	3	185	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	632	60	3.2	81	2350	1	47.3636	48	0.06	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	632	60	3.4	39	2029	0	16	16	0.03	0	0	1
+Academic license - for non-commercial use only
+11000	632	60	3.6	16	1029	0	4	4	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	632	60	3.8	9	119	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	632	60	4	5	31	0	1	1	0	0	0	1
+11000	633	60	3	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	633	60	3.2	72	11612	0	37	37	0.29	0.01	0	1
+Academic license - for non-commercial use only
+11000	633	60	3.4	36	11101	0	12	12	0.15	0.01	0.11	1
+Academic license - for non-commercial use only
+11000	633	60	3.6	22	3573	0	7	7	0.02	0	0.03	1
+Academic license - for non-commercial use only
+11000	633	60	3.8	10	431	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	633	60	4	7	71	0	2	2	0	0	0	1
+11000	634	60	3	198	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	634	60	3.2	100	4275	0	65	65	0.16	0	0.03	1
+Academic license - for non-commercial use only
+11000	634	60	3.4	49	4267	0	22	22	0.08	0	0	1
+Academic license - for non-commercial use only
+11000	634	60	3.6	26	1785	0	11	11	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	634	60	3.8	9	79	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	634	60	4	5	23	0	2	2	0	0	0	1
+11000	635	60	3	223	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	635	60	3.2	86	743	0	69	69	0.02	0	0	1
+Academic license - for non-commercial use only
+11000	635	60	3.4	36	439	0	24	24	0	0	0	1
+Academic license - for non-commercial use only
+11000	635	60	3.6	11	80	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	635	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	635	60	4	5	23	0	2	2	0	0	0	1
+11000	636	60	3	184	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	636	60	3.2	75	4675	0	45	45	0.09	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	636	60	3.4	42	3838	1	19.5	20	0.03	0.01	0.04	1
+Academic license - for non-commercial use only
+11000	636	60	3.6	16	875	0	5	5	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	636	60	3.8	7	127	0	1	1	0	0	0	1
+Academic license - for non-commercial use only
+11000	636	60	4	5	23	0	2	2	0	0	0	1
+11000	637	60	3	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	637	60	3.2	80	3807	0	50	50	0.11	0	0	1
+Academic license - for non-commercial use only
+11000	637	60	3.4	36	2659	0	14	14	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	637	60	3.6	17	452	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	637	60	3.8	6	25	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	637	60	4	1	1	0	1	1	0	0	0	1
+11000	638	60	3	231	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	638	60	3.2	89	1627	1	59.5	60	0.03	0	0.04	1
+Academic license - for non-commercial use only
+11000	638	60	3.4	33	1689	0	14	14	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	638	60	3.6	17	821	0	5	5	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	638	60	3.8	14	461	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	638	60	4	8	143	0	2	2	0	0	0	1
+11000	639	60	3	195	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	639	60	3.2	74	1030	1	48.5	49	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	639	60	3.4	27	662	1	12.75	13	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	639	60	3.6	10	78	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	639	60	3.8	5	23	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	639	60	4	4	9	0	2	2	0	0	0	1
+11000	640	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	640	60	3.2	82	3226	0	52	52	0.09	0	0	1
+Academic license - for non-commercial use only
+11000	640	60	3.4	33	2769	1	12	12	0.04	0	0.01	1
+Academic license - for non-commercial use only
+11000	640	60	3.6	18	544	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	640	60	3.8	10	121	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	640	60	4	7	79	0	2	2	0	0	0	1
+11000	641	60	3	211	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	641	60	3.2	96	3106	0	63	63	0.1	0.01	0	1
+Academic license - for non-commercial use only
+11000	641	60	3.4	37	2212	0	18	18	0.02	0	0.01	1
+Academic license - for non-commercial use only
+11000	641	60	3.6	17	557	0	7	7	0	0	0	1
+Academic license - for non-commercial use only
+11000	641	60	3.8	10	115	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	641	60	4	4	11	0	2	2	0	0	0	1
+11000	642	60	3	209	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	642	60	3.2	93	4946	0	62	62	0.15	0	0.02	1
+Academic license - for non-commercial use only
+11000	642	60	3.4	40	4552	0	21	21	0.07	0	0	1
+Academic license - for non-commercial use only
+11000	642	60	3.6	23	2249	0	8	8	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	642	60	3.8	15	384	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	642	60	4	7	47	0	3	3	0	0	0	1
+11000	643	60	3	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	643	60	3.2	68	4981	0	38	38	0.09	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	643	60	3.4	31	4164	0	12	12	0.04	0.01	0.03	1
+Academic license - for non-commercial use only
+11000	643	60	3.6	16	2371	0	4	4	0.01	0	0.02	1
+Academic license - for non-commercial use only
+11000	643	60	3.8	12	1147	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	643	60	4	8	143	0	2	2	0	0	0	1
+11000	644	60	3	188	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	644	60	3.2	77	1802	0	52	52	0.04	0	0	1
+Academic license - for non-commercial use only
+11000	644	60	3.4	34	1132	0	17	17	0.01	0	0	1
+Academic license - for non-commercial use only
+11000	644	60	3.6	13	257	0	5	5	0	0	0	1
+Academic license - for non-commercial use only
+11000	644	60	3.8	6	30	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	644	60	4	2	3	0	1	1	0	0	0	1
+11000	645	60	3	194	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	645	60	3.2	83	3748	1	52.5	53	0.13	0	0.04	1
+Academic license - for non-commercial use only
+11000	645	60	3.4	32	2914	0	13	13	0.03	0.01	0	1
+Academic license - for non-commercial use only
+11000	645	60	3.6	14	600	0	4	4	0	0	0	1
+Academic license - for non-commercial use only
+11000	645	60	3.8	7	44	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	645	60	4	3	7	0	1	1	0	0	0	1
+11000	646	60	3	200	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	646	60	3.2	70	1135	0	44	44	0.03	0	0.01	1
+Academic license - for non-commercial use only
+11000	646	60	3.4	25	627	0	11	11	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	646	60	3.6	13	269	0	6	6	0	0	0	1
+Academic license - for non-commercial use only
+11000	646	60	3.8	8	127	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	646	60	4	4	7	0	3	3	0	0	0	1
+11000	647	60	3	187	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	647	60	3.2	76	2138	1	44.5	45	0.08	0	0.02	1
+Academic license - for non-commercial use only
+11000	647	60	3.4	37	2102	1	13.7368	14	0.03	0	0.02	1
+Academic license - for non-commercial use only
+11000	647	60	3.6	20	850	1	6.25	7	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	647	60	3.8	6	39	0	2	2	0	0	0	1
+Academic license - for non-commercial use only
+11000	647	60	4	3	7	0	1	1	0	0	0	1
+11000	648	60	3	206	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	648	60	3.2	85	6403	0	51	51	0.15	0	0	1
+Academic license - for non-commercial use only
+11000	648	60	3.4	42	6899	0	19	19	0.06	0.01	0	1
+Academic license - for non-commercial use only
+11000	648	60	3.6	19	4539	0	5	5	0.05	0	0	1
+Academic license - for non-commercial use only
+11000	648	60	3.8	13	935	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	648	60	4	5	31	0	1	1	0	0	0	1
+11000	649	60	3	199	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	649	60	3.2	91	6941	1	41.6667	42	0.2	0.01	0.07	1
+Academic license - for non-commercial use only
+11000	649	60	3.4	49	5115	1	18.25	19	0.09	0.01	0.04	1
+Academic license - for non-commercial use only
+11000	649	60	3.6	21	1287	0	6	6	0	0.01	0	1
+Academic license - for non-commercial use only
+11000	649	60	3.8	10	171	0	3	3	0	0	0	1
+Academic license - for non-commercial use only
+11000	649	60	4	5	15	0	3	3	0	0	0	1
+11000	650	60	3	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+11000	650	60	3.2	73	8676	0	45	45	0.11	0.01	0.06	1
+Academic license - for non-commercial use only
+11000	650	60	3.4	33	11512	0	11	11	0.07	0.01	0.09	1
+Academic license - for non-commercial use only
+11000	650	60	3.6	25	10721	0	7	7	0.06	0.01	0.1	1
+Academic license - for non-commercial use only
+11000	650	60	3.8	16	974	0	5	5	0	0	0.01	1
+Academic license - for non-commercial use only
+11000	650	60	4	8	95	0	3	3	0	0	0	1

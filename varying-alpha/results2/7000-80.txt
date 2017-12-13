@@ -1,0 +1,3159 @@
+7000	651	80	3	798	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	651	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	651	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	651	80	3.6	72	85832	0	28	28	3.31	0.36	0	1
+Academic license - for non-commercial use only
+7000	651	80	3.8	37	51401	0	12	12	1.09	0.14	3.89	1
+Academic license - for non-commercial use only
+7000	651	80	4	19	6186	1	4.5	5	0.09	0	0.19	1
+7000	652	80	3	718	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	652	80	3.2	320	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	652	80	3.4	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	652	80	3.6	70	133881	0	24	24	5.09	0.49	4.85	1
+Academic license - for non-commercial use only
+7000	652	80	3.8	34	65966	1	9.5	10	0.99	0.1	4.3	1
+Academic license - for non-commercial use only
+7000	652	80	4	20	10172	0	4	4	0.09	0.01	0	1
+7000	653	80	3	767	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	653	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	653	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	653	80	3.6	77	131528	0	32	32	4.75	0.31	0	1
+Academic license - for non-commercial use only
+7000	653	80	3.8	40	78388	0	12	12	1.41	0.1	0.6	1
+Academic license - for non-commercial use only
+7000	653	80	4	25	17160	0	7	7	0.16	0.01	0.09	1
+7000	654	80	3	820	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	654	80	3.2	349	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	654	80	3.4	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	654	80	3.6	77	36951	1	35.5	36	1.08	0.06	0.37	1
+Academic license - for non-commercial use only
+7000	654	80	3.8	32	17512	0	11	11	0.25	0.02	0	1
+Academic license - for non-commercial use only
+7000	654	80	4	16	5289	0	4	4	0.02	0	0.03	1
+7000	655	80	3	805	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	655	80	3.2	343	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	655	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	655	80	3.6	68	192937	0	25	25	3.21	0.32	1.73	1
+Academic license - for non-commercial use only
+7000	655	80	3.8	39	50400	1	10.5	11	0.54	0.09	14.84	1
+Academic license - for non-commercial use only
+7000	655	80	4	23	18693	0	6	6	0.08	0.02	0.11	1
+7000	656	80	3	849	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	656	80	3.2	366	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	656	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	656	80	3.6	92	73496	0	44	44	2.68	0.13	0.75	1
+Academic license - for non-commercial use only
+7000	656	80	3.8	48	60101	1	17	17	1.17	0.1	0.4	1
+Academic license - for non-commercial use only
+7000	656	80	4	27	13056	0	8	8	0.12	0.03	0	1
+7000	657	80	3	786	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	657	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	657	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	657	80	3.6	73	166668	0	26	26	5.69	0.27	4.77	1
+Academic license - for non-commercial use only
+7000	657	80	3.8	35	92434	0	11	11	1.56	0.1	3.51	1
+Academic license - for non-commercial use only
+7000	657	80	4	20	31523	0	4	4	0.29	0.04	0.94	1
+7000	658	80	3	740	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	658	80	3.2	313	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	658	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	658	80	3.6	73	43563	0	26	26	1.2	0.09	0.3	1
+Academic license - for non-commercial use only
+7000	658	80	3.8	31	6634	0	9	9	0.05	0.01	0.16	1
+Academic license - for non-commercial use only
+7000	658	80	4	12	767	0	3	3	0	0	0	1
+7000	659	80	3	705	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	659	80	3.2	282	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	659	80	3.4	129	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	659	80	3.6	67	51896	1	21.875	22	1.77	0.13	1.02	1
+Academic license - for non-commercial use only
+7000	659	80	3.8	30	19501	0	9	9	0.23	0.02	0	1
+Academic license - for non-commercial use only
+7000	659	80	4	18	3432	0	6	6	0.02	0.01	0	1
+7000	660	80	3	698	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	660	80	3.2	306	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	660	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	660	80	3.6	87	333214	0	32	32	14.35	0.71	3.52	1
+Academic license - for non-commercial use only
+7000	660	80	3.8	42	149718	0	13	13	3.27	0.26	4.47	1
+Academic license - for non-commercial use only
+7000	660	80	4	22	31883	0	4	4	0.29	0.04	0.23	1
+7000	661	80	3	736	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	661	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	661	80	3.4	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	661	80	3.6	77	437264	0	34	34	13.91	1.35	6.16	1
+Academic license - for non-commercial use only
+7000	661	80	3.8	41	228606	1	12	12	3.73	0.72	3.31	1
+Academic license - for non-commercial use only
+7000	661	80	4	25	100311	0	6	6	0.66	0.12	3.48	1
+7000	662	80	3	841	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	662	80	3.2	344	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	662	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	662	80	3.6	71	51626	0	32	32	2.09	0.12	0.38	1
+Academic license - for non-commercial use only
+7000	662	80	3.8	36	11911	0	13	13	0.19	0.02	0	1
+Academic license - for non-commercial use only
+7000	662	80	4	24	4615	0	8	8	0.07	0	0	1
+7000	663	80	3	756	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	663	80	3.2	339	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	663	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	663	80	3.6	78	128707	0	34	34	6.14	0.29	2.67	1
+Academic license - for non-commercial use only
+7000	663	80	3.8	40	79508	0	16	16	2.16	0.09	0.49	1
+Academic license - for non-commercial use only
+7000	663	80	4	25	14273	0	10	10	0.28	0.01	0	1
+7000	664	80	3	800	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	664	80	3.2	361	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	664	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	664	80	3.6	84	97453	1	29.6667	30	3.32	0.42	2.68	1
+Academic license - for non-commercial use only
+7000	664	80	3.8	45	26800	0	16	16	0.62	0.05	0.17	1
+Academic license - for non-commercial use only
+7000	664	80	4	24	4085	0	9	9	0.03	0	0	1
+7000	665	80	3	755	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	665	80	3.2	304	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	665	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	665	80	3.6	71	101054	1	26	26	5.82	0.17	2.19	1
+Academic license - for non-commercial use only
+7000	665	80	3.8	39	69282	0	13	13	1.65	0.1	0.66	1
+Academic license - for non-commercial use only
+7000	665	80	4	22	9287	0	6	6	0.08	0.01	0	1
+7000	666	80	3	751	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	666	80	3.2	318	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	666	80	3.4	125	80351	1	60.3333	61	4.61	0.21	1.28	1
+Academic license - for non-commercial use only
+7000	666	80	3.6	72	117900	0	23	23	3.61	0.37	0	1
+Academic license - for non-commercial use only
+7000	666	80	3.8	36	26659	0	11	11	0.5	0.04	0	1
+Academic license - for non-commercial use only
+7000	666	80	4	17	12991	0	4	4	0.06	0.01	0	1
+7000	667	80	3	759	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	667	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	667	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	667	80	3.6	74	149108	1	26	26	5.29	0.3	3.55	1
+Academic license - for non-commercial use only
+7000	667	80	3.8	37	91269	0	9	9	1.98	0.2	0.91	1
+Academic license - for non-commercial use only
+7000	667	80	4	23	13151	0	6	6	0.12	0.02	0.07	1
+7000	668	80	3	783	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	668	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	668	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	668	80	3.6	77	127353	0	33	33	3.61	0.25	0	1
+Academic license - for non-commercial use only
+7000	668	80	3.8	43	57631	0	14	14	1.08	0.09	0	1
+Academic license - for non-commercial use only
+7000	668	80	4	21	10211	0	6	6	0.12	0.01	0	1
+7000	669	80	3	875	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	669	80	3.2	379	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	669	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	669	80	3.6	73	15246	1	30	30	0.5	0.04	0.1	1
+Academic license - for non-commercial use only
+7000	669	80	3.8	37	6321	0	13	13	0.13	0	0	1
+Academic license - for non-commercial use only
+7000	669	80	4	17	545	0	7	7	0	0	0	1
+7000	670	80	3	754	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	670	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	670	80	3.4	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	670	80	3.6	86	308330	0	43	43	15.23	0.62	1.29	1
+Academic license - for non-commercial use only
+7000	670	80	3.8	41	194880	1	14	14	4.44	0.43	1.84	1
+Academic license - for non-commercial use only
+7000	670	80	4	23	21133	0	8	8	0.31	0.02	0	1
+7000	671	80	3	841	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	671	80	3.2	343	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	671	80	3.4	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	671	80	3.6	82	103276	0	38	38	4.36	0.21	0	1
+Academic license - for non-commercial use only
+7000	671	80	3.8	42	74380	1	17	17	1.49	0.11	0.73	1
+Academic license - for non-commercial use only
+7000	671	80	4	28	26668	0	10	10	0.43	0.02	0	1
+7000	672	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	672	80	3.2	342	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	672	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	672	80	3.6	71	284821	1	24	24	7.66	0.62	4.12	1
+Academic license - for non-commercial use only
+7000	672	80	3.8	45	169286	0	10	10	3.55	0.44	2.4	1
+Academic license - for non-commercial use only
+7000	672	80	4	24	38721	0	5	5	0.29	0.06	2.23	1
+7000	673	80	3	696	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	673	80	3.2	288	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	673	80	3.4	122	64648	0	62	62	4.82	0.21	0	1
+Academic license - for non-commercial use only
+7000	673	80	3.6	62	81510	0	19	19	2.79	0.18	0.67	1
+Academic license - for non-commercial use only
+7000	673	80	3.8	34	43287	0	9	9	0.47	0.04	0	1
+Academic license - for non-commercial use only
+7000	673	80	4	19	10139	0	4	4	0.07	0.01	0	1
+7000	674	80	3	794	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	674	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	674	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	674	80	3.6	69	27941	1	32	32	0.74	0.04	0.15	1
+Academic license - for non-commercial use only
+7000	674	80	3.8	26	10258	0	9	9	0.13	0.01	0	1
+Academic license - for non-commercial use only
+7000	674	80	4	15	1934	0	4	4	0.01	0	0	1
+7000	675	80	3	666	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	675	80	3.2	299	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	675	80	3.4	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	675	80	3.6	61	405018	1	19.5	20	7.48	1.91	5.17	1
+Academic license - for non-commercial use only
+7000	675	80	3.8	35	318843	0	6	6	3.65	1.19	25.11	1
+Academic license - for non-commercial use only
+7000	675	80	4	24	134722	0	4	4	1.12	0.14	6.73	1
+7000	676	80	3	779	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	676	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	676	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	676	80	3.6	83	196069	0	29	29	4.59	0.5	1.83	1
+Academic license - for non-commercial use only
+7000	676	80	3.8	44	131878	0	10	10	1.36	0.23	0	1
+Academic license - for non-commercial use only
+7000	676	80	4	27	24146	0	6	6	0.16	0.03	0.14	1
+7000	677	80	3	691	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	677	80	3.2	316	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	677	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	677	80	3.6	63	46240	0	23	23	1.12	0.08	0.36	1
+Academic license - for non-commercial use only
+7000	677	80	3.8	30	13603	0	10	10	0.08	0.01	0	1
+Academic license - for non-commercial use only
+7000	677	80	4	16	3360	0	4	4	0.01	0	0	1
+7000	678	80	3	805	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	678	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	678	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	678	80	3.6	67	24285	1	26.5	27	0.47	0.05	0.31	1
+Academic license - for non-commercial use only
+7000	678	80	3.8	39	11387	0	12	12	0.12	0.01	0.06	1
+Academic license - for non-commercial use only
+7000	678	80	4	16	1096	0	5	5	0	0	0	1
+7000	679	80	3	841	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	679	80	3.2	369	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	679	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	679	80	3.6	78	19502	0	36	36	0.62	0.04	0.15	1
+Academic license - for non-commercial use only
+7000	679	80	3.8	33	7390	0	11	11	0.13	0.01	0.05	1
+Academic license - for non-commercial use only
+7000	679	80	4	17	1347	0	4	4	0.01	0.01	0	1
+7000	680	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	680	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	680	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	680	80	3.6	72	256563	0	30	30	6.36	0.44	2.76	1
+Academic license - for non-commercial use only
+7000	680	80	3.8	41	157501	0	12	12	2.25	0.23	0	1
+Academic license - for non-commercial use only
+7000	680	80	4	22	17824	0	6	6	0.11	0.01	0.39	1
+7000	681	80	3	734	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	681	80	3.2	318	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	681	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	681	80	3.6	78	47230	1	39	39	1.38	0.08	1.09	1
+Academic license - for non-commercial use only
+7000	681	80	3.8	40	25772	1	18	18	0.46	0.03	0.39	1
+Academic license - for non-commercial use only
+7000	681	80	4	24	10401	0	9	9	0.07	0.01	0	1
+7000	682	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	682	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	682	80	3.4	130	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	682	80	3.6	65	39410	1	20.75	21	1.12	0.11	1	1
+Academic license - for non-commercial use only
+7000	682	80	3.8	37	24790	0	11	11	0.24	0.04	1.24	1
+Academic license - for non-commercial use only
+7000	682	80	4	21	5802	0	7	7	0.04	0.01	0.03	1
+7000	683	80	3	773	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	683	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	683	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	683	80	3.6	76	327828	1	28	28	8.64	0.7	3.71	1
+Academic license - for non-commercial use only
+7000	683	80	3.8	41	229765	0	11	11	4.17	0.65	1.52	1
+Academic license - for non-commercial use only
+7000	683	80	4	26	44879	0	5	5	0.34	0.06	0	1
+7000	684	80	3	856	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	684	80	3.2	375	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	684	80	3.4	178	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	684	80	3.6	96	159879	0	40	40	3.67	0.37	0.98	1
+Academic license - for non-commercial use only
+7000	684	80	3.8	46	88104	0	16	16	1.16	0.14	0.6	1
+Academic license - for non-commercial use only
+7000	684	80	4	23	11258	1	5.66667	6	0.11	0.02	0.1	1
+7000	685	80	3	901	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	685	80	3.2	387	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	685	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	685	80	3.6	78	41308	0	34	34	1.54	0.06	0.24	1
+Academic license - for non-commercial use only
+7000	685	80	3.8	36	33223	0	10	10	0.49	0.05	0	1
+Academic license - for non-commercial use only
+7000	685	80	4	21	13948	0	6	6	0.13	0.01	0.31	1
+7000	686	80	3	859	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	686	80	3.2	360	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	686	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	686	80	3.6	80	65836	0	38	38	2.29	0.09	0.41	1
+Academic license - for non-commercial use only
+7000	686	80	3.8	35	36665	0	10	10	0.48	0.06	0	1
+Academic license - for non-commercial use only
+7000	686	80	4	20	6129	0	6	6	0.03	0.01	0	1
+7000	687	80	3	818	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	687	80	3.2	351	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	687	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	687	80	3.6	76	70681	1	30.5	31	2.47	0.19	1.5	1
+Academic license - for non-commercial use only
+7000	687	80	3.8	31	39978	0	8	8	0.6	0.06	0	1
+Academic license - for non-commercial use only
+7000	687	80	4	19	9588	0	5	5	0.1	0.01	0	1
+7000	688	80	3	793	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	688	80	3.2	334	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	688	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	688	80	3.6	70	40106	0	29	29	0.82	0.07	0.49	1
+Academic license - for non-commercial use only
+7000	688	80	3.8	37	12992	1	16	16	0.13	0.01	0.09	1
+Academic license - for non-commercial use only
+7000	688	80	4	17	1152	0	7	7	0	0	0	1
+7000	689	80	3	857	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	689	80	3.2	347	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	689	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	689	80	3.6	64	47358	1	26.25	27	0.99	0.08	0.73	1
+Academic license - for non-commercial use only
+7000	689	80	3.8	34	41596	1	8.125	9	0.38	0.06	20.39	1
+Academic license - for non-commercial use only
+7000	689	80	4	22	19807	0	5	5	0.14	0.02	0.65	1
+7000	690	80	3	768	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	690	80	3.2	311	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	690	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	690	80	3.6	74	117311	0	32	32	3.03	0.15	1.71	1
+Academic license - for non-commercial use only
+7000	690	80	3.8	36	32811	1	7.57895	8	0.54	0.06	0.32	1
+Academic license - for non-commercial use only
+7000	690	80	4	18	3011	0	4	4	0.02	0	0.02	1
+7000	691	80	3	835	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	691	80	3.2	326	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	691	80	3.4	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	691	80	3.6	62	123702	1	21	21	2.22	0.18	0.77	1
+Academic license - for non-commercial use only
+7000	691	80	3.8	37	109866	0	11	11	1.17	0.11	0.79	1
+Academic license - for non-commercial use only
+7000	691	80	4	21	32462	0	4	4	0.23	0.03	0	1
+7000	692	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	692	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	692	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	692	80	3.6	72	22020	0	39	39	0.53	0.03	0	1
+Academic license - for non-commercial use only
+7000	692	80	3.8	30	7651	0	12	12	0.09	0	0.04	1
+Academic license - for non-commercial use only
+7000	692	80	4	14	2008	0	4	4	0.01	0	0	1
+7000	693	80	3	818	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	693	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	693	80	3.4	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	693	80	3.6	78	64253	0	38	38	1.41	0.11	0	1
+Academic license - for non-commercial use only
+7000	693	80	3.8	38	22899	0	14	14	0.2	0.02	0	1
+Academic license - for non-commercial use only
+7000	693	80	4	17	3158	0	5	5	0.01	0	0	1
+7000	694	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	694	80	3.2	337	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	694	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	694	80	3.6	74	120172	1	29	29	4.74	0.18	1.13	1
+Academic license - for non-commercial use only
+7000	694	80	3.8	40	49878	0	13	13	1.02	0.06	0	1
+Academic license - for non-commercial use only
+7000	694	80	4	20	5373	0	6	6	0.08	0.01	0.03	1
+7000	695	80	3	696	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	695	80	3.2	306	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	695	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	695	80	3.6	71	239421	0	24	24	7	0.64	0.86	1
+Academic license - for non-commercial use only
+7000	695	80	3.8	39	150414	0	9	9	2.19	0.27	9.24	1
+Academic license - for non-commercial use only
+7000	695	80	4	21	27455	0	4	4	0.2	0.03	0.25	1
+7000	696	80	3	772	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	696	80	3.2	334	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	696	80	3.4	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	696	80	3.6	72	267032	0	30	30	6.61	0.39	0	1
+Academic license - for non-commercial use only
+7000	696	80	3.8	42	184726	0	15	15	3.46	0.24	1.9	1
+Academic license - for non-commercial use only
+7000	696	80	4	25	18475	0	8	8	0.17	0.03	0	1
+7000	697	80	3	819	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	697	80	3.2	329	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	697	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	697	80	3.6	70	64730	0	26	26	2.12	0.13	1.95	1
+Academic license - for non-commercial use only
+7000	697	80	3.8	32	65322	0	9	9	0.75	0.12	0.47	1
+Academic license - for non-commercial use only
+7000	697	80	4	22	25304	1	4.5	5	0.19	0.03	3.15	1
+7000	698	80	3	733	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	698	80	3.2	294	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	698	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	698	80	3.6	75	175874	0	26	26	7.97	0.31	1.37	1
+Academic license - for non-commercial use only
+7000	698	80	3.8	41	104542	0	10	10	1.85	0.24	0	1
+Academic license - for non-commercial use only
+7000	698	80	4	25	18049	0	7	7	0.13	0.02	0	1
+7000	699	80	3	709	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	699	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	699	80	3.4	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	699	80	3.6	80	124359	0	38	38	5.36	0.2	0	1
+Academic license - for non-commercial use only
+7000	699	80	3.8	45	37782	0	19	19	0.7	0.04	0	1
+Academic license - for non-commercial use only
+7000	699	80	4	14	504	0	4	4	0	0	0	1
+7000	700	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	700	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	700	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	700	80	3.6	83	172475	1	31	31	7.67	0.33	4.41	1
+Academic license - for non-commercial use only
+7000	700	80	3.8	41	102333	1	11	11	1.79	0.17	0.74	1
+Academic license - for non-commercial use only
+7000	700	80	4	22	25809	0	5	5	0.27	0.02	0	1
+7000	701	80	3	789	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	701	80	3.2	329	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	701	80	3.4	128	22241	0	75	75	1.09	0.03	0	1
+Academic license - for non-commercial use only
+7000	701	80	3.6	62	23266	1	24.8359	25	0.67	0.07	0.35	1
+Academic license - for non-commercial use only
+7000	701	80	3.8	29	16295	0	8	8	0.3	0.02	0.1	1
+Academic license - for non-commercial use only
+7000	701	80	4	19	3227	0	6	6	0.02	0	0	1
+7000	702	80	3	755	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	702	80	3.2	299	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	702	80	3.4	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	702	80	3.6	59	23309	0	20	20	0.38	0.04	0.14	1
+Academic license - for non-commercial use only
+7000	702	80	3.8	33	8341	0	12	12	0.08	0.01	0.05	1
+Academic license - for non-commercial use only
+7000	702	80	4	13	751	0	3	3	0	0	0	1
+7000	703	80	3	745	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	703	80	3.2	327	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	703	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	703	80	3.6	77	167148	0	26	26	3.71	0.36	0	1
+Academic license - for non-commercial use only
+7000	703	80	3.8	45	98052	0	16	16	1.46	0.17	0.67	1
+Academic license - for non-commercial use only
+7000	703	80	4	24	22779	0	5	5	0.19	0.02	0.16	1
+7000	704	80	3	743	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	704	80	3.2	299	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	704	80	3.4	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	704	80	3.6	64	69485	0	21	21	1.67	0.23	5.13	1
+Academic license - for non-commercial use only
+7000	704	80	3.8	38	16788	0	12	12	0.35	0.03	0	1
+Academic license - for non-commercial use only
+7000	704	80	4	18	5822	0	6	6	0.03	0	0	1
+7000	705	80	3	720	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	705	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	705	80	3.4	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	705	80	3.6	77	167244	0	34	34	6.24	0.43	2.9	1
+Academic license - for non-commercial use only
+7000	705	80	3.8	48	89694	1	17	17	1.45	0.12	2	1
+Academic license - for non-commercial use only
+7000	705	80	4	27	19078	0	9	9	0.21	0.01	0	1
+7000	706	80	3	778	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	706	80	3.2	327	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	706	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	706	80	3.6	66	36728	1	29.5	30	1.03	0.06	0.33	1
+Academic license - for non-commercial use only
+7000	706	80	3.8	28	22230	1	6.88889	7	0.21	0.03	14.05	1
+Academic license - for non-commercial use only
+7000	706	80	4	17	6442	0	4	4	0.06	0	0.05	1
+7000	707	80	3	776	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	707	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	707	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	707	80	3.6	73	32955	0	24	24	0.91	0.09	0	1
+Academic license - for non-commercial use only
+7000	707	80	3.8	36	9752	1	11.4	12	0.12	0.02	0.08	1
+Academic license - for non-commercial use only
+7000	707	80	4	12	895	0	4	4	0	0	0	1
+7000	708	80	3	829	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	708	80	3.2	367	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	708	80	3.4	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	708	80	3.6	82	270359	1	26.4	27	6.13	0.81	3.12	1
+Academic license - for non-commercial use only
+7000	708	80	3.8	46	248042	1	10	10	4.14	0.41	2.57	1
+Academic license - for non-commercial use only
+7000	708	80	4	26	69906	0	4	4	0.77	0.09	3.92	1
+7000	709	80	3	937	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	709	80	3.2	381	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	709	80	3.4	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	709	80	3.6	70	21556	1	29.2	30	0.52	0.03	0.29	1
+Academic license - for non-commercial use only
+7000	709	80	3.8	30	9863	0	9	9	0.13	0.01	0	1
+Academic license - for non-commercial use only
+7000	709	80	4	18	2432	0	5	5	0.01	0.01	0	1
+7000	710	80	3	772	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	710	80	3.2	318	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	710	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	710	80	3.6	67	76861	0	24	24	1.07	0.14	0.47	1
+Academic license - for non-commercial use only
+7000	710	80	3.8	45	43668	0	16	16	0.54	0.04	0.32	1
+Academic license - for non-commercial use only
+7000	710	80	4	16	599	0	5	5	0	0	0	1
+7000	711	80	3	730	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	711	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	711	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	711	80	3.6	76	278339	1	24.5	25	12.79	0.66	2.28	1
+Academic license - for non-commercial use only
+7000	711	80	3.8	40	115354	0	10	10	3.23	0.27	0.85	1
+Academic license - for non-commercial use only
+7000	711	80	4	26	30562	0	6	6	0.34	0.04	0	1
+7000	712	80	3	845	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	712	80	3.2	358	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	712	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	712	80	3.6	79	309625	1	31	31	8.85	0.75	1.95	1
+Academic license - for non-commercial use only
+7000	712	80	3.8	47	386130	0	17	17	6.98	0.89	6.04	1
+Academic license - for non-commercial use only
+7000	712	80	4	30	164504	0	10	10	1.61	0.24	1.03	1
+7000	713	80	3	769	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	713	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	713	80	3.4	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	713	80	3.6	71	97964	1	29.6667	30	2.9	0.23	1.48	1
+Academic license - for non-commercial use only
+7000	713	80	3.8	35	44869	0	9	9	0.55	0.08	1.45	1
+Academic license - for non-commercial use only
+7000	713	80	4	20	3738	1	4.5	5	0.03	0	0.03	1
+7000	714	80	3	718	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	714	80	3.2	297	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	714	80	3.4	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	714	80	3.6	67	111374	0	25	25	3.08	0.18	2.25	1
+Academic license - for non-commercial use only
+7000	714	80	3.8	32	64353	1	7	7	1.4	0.17	2.67	1
+Academic license - for non-commercial use only
+7000	714	80	4	18	7876	0	4	4	0.07	0	0	1
+7000	715	80	3	761	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	715	80	3.2	324	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	715	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	715	80	3.6	79	197685	0	34	34	5.25	0.48	1.32	1
+Academic license - for non-commercial use only
+7000	715	80	3.8	45	104677	0	20	20	1.51	0.16	0.75	1
+Academic license - for non-commercial use only
+7000	715	80	4	29	23219	0	13	13	0.2	0.01	0	1
+7000	716	80	3	706	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	716	80	3.2	309	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	716	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	716	80	3.6	77	916832	1	27	27	30.18	3.08	13.12	1
+Academic license - for non-commercial use only
+7000	716	80	3.8	46	713482	1	13	13	9.17	1.71	7.97	1
+Academic license - for non-commercial use only
+7000	716	80	4	27	304444	1	5	5	2.5	0.32	11.5	1
+7000	717	80	3	752	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	717	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	717	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	717	80	3.6	75	151571	0	33	33	5.98	0.27	4.22	1
+Academic license - for non-commercial use only
+7000	717	80	3.8	39	114313	0	14	14	2.08	0.2	0	1
+Academic license - for non-commercial use only
+7000	717	80	4	29	64055	0	8	8	1.13	0.11	0	1
+7000	718	80	3	901	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	718	80	3.2	378	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	718	80	3.4	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	718	80	3.6	75	51492	0	32	32	1.24	0.09	0.83	1
+Academic license - for non-commercial use only
+7000	718	80	3.8	39	40537	0	10	10	0.38	0.08	0.24	1
+Academic license - for non-commercial use only
+7000	718	80	4	22	3572	0	7	7	0.02	0	0.02	1
+7000	719	80	3	699	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	719	80	3.2	301	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	719	80	3.4	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	719	80	3.6	66	54182	0	28	28	0.9	0.09	0.33	1
+Academic license - for non-commercial use only
+7000	719	80	3.8	35	15700	0	14	14	0.19	0.02	0	1
+Academic license - for non-commercial use only
+7000	719	80	4	17	2143	0	6	6	0.01	0	0	1
+7000	720	80	3	807	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	720	80	3.2	357	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	720	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	720	80	3.6	72	31545	0	31	31	1.03	0.04	0	1
+Academic license - for non-commercial use only
+7000	720	80	3.8	37	12779	0	11	11	0.16	0.02	0.06	1
+Academic license - for non-commercial use only
+7000	720	80	4	19	1342	0	6	6	0.01	0	0	1
+7000	721	80	3	785	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	721	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	721	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	721	80	3.6	73	107805	0	30	30	3	0.24	0	1
+Academic license - for non-commercial use only
+7000	721	80	3.8	38	32045	1	13	13	0.4	0.03	0.22	1
+Academic license - for non-commercial use only
+7000	721	80	4	26	6876	0	11	11	0.05	0.01	0	1
+7000	722	80	3	761	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	722	80	3.2	308	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	722	80	3.4	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	722	80	3.6	69	44358	0	33	33	1.38	0.08	0	1
+Academic license - for non-commercial use only
+7000	722	80	3.8	32	15903	0	11	11	0.22	0.02	0	1
+Academic license - for non-commercial use only
+7000	722	80	4	16	2920	0	4	4	0.01	0	0	1
+7000	723	80	3	861	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	723	80	3.2	380	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	723	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	723	80	3.6	75	240426	0	36	36	7.82	0.44	0	1
+Academic license - for non-commercial use only
+7000	723	80	3.8	44	229310	0	17	17	5.11	0.26	0.93	1
+Academic license - for non-commercial use only
+7000	723	80	4	28	110801	0	8	8	1.21	0.12	0	1
+7000	724	80	3	830	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	724	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	724	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	724	80	3.6	83	163778	0	32	32	3.13	0.27	1	1
+Academic license - for non-commercial use only
+7000	724	80	3.8	50	68450	0	16	16	0.7	0.11	0	1
+Academic license - for non-commercial use only
+7000	724	80	4	22	3957	0	6	6	0.02	0	0	1
+7000	725	80	3	837	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	725	80	3.2	334	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	725	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	725	80	3.6	75	71515	0	34	34	1.67	0.14	0.45	1
+Academic license - for non-commercial use only
+7000	725	80	3.8	42	21970	1	14.5	15	0.57	0.05	0.32	1
+Academic license - for non-commercial use only
+7000	725	80	4	22	2356	0	10	10	0.02	0.01	0	1
+7000	726	80	3	726	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	726	80	3.2	316	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	726	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	726	80	3.6	73	177681	0	27	27	5.46	0.27	1.5	1
+Academic license - for non-commercial use only
+7000	726	80	3.8	35	132878	0	9	9	2.4	0.19	0	1
+Academic license - for non-commercial use only
+7000	726	80	4	27	25358	0	7	7	0.2	0.02	0.46	1
+7000	727	80	3	721	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	727	80	3.2	305	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	727	80	3.4	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	727	80	3.6	80	158679	1	29	29	3.3	0.35	3.66	1
+Academic license - for non-commercial use only
+7000	727	80	3.8	43	95167	1	12	12	1.12	0.24	0.58	1
+Academic license - for non-commercial use only
+7000	727	80	4	24	9956	1	7	7	0.09	0	0.06	1
+7000	728	80	3	807	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	728	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	728	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	728	80	3.6	76	35157	1	29.5	30	1.24	0.06	0.66	1
+Academic license - for non-commercial use only
+7000	728	80	3.8	36	15198	0	13	13	0.21	0.02	0	1
+Academic license - for non-commercial use only
+7000	728	80	4	16	759	0	5	5	0	0	0	1
+7000	729	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	729	80	3.2	300	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	729	80	3.4	131	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	729	80	3.6	60	83112	1	19.5	20	1.54	0.17	1.55	1
+Academic license - for non-commercial use only
+7000	729	80	3.8	32	70738	1	6.5	7	0.63	0.12	22.66	1
+Academic license - for non-commercial use only
+7000	729	80	4	20	11430	0	4	4	0.05	0.01	0.06	1
+7000	730	80	3	831	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	730	80	3.2	334	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	730	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	730	80	3.6	82	434561	0	35	35	9.26	2.93	5.98	1
+Academic license - for non-commercial use only
+7000	730	80	3.8	43	427441	1	11	11	5.22	0.71	3.42	1
+Academic license - for non-commercial use only
+7000	730	80	4	28	63120	1	7	7	0.45	0.1	1.39	1
+7000	731	80	3	746	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	731	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	731	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	731	80	3.6	64	47748	1	26	26	0.93	0.07	0.28	1
+Academic license - for non-commercial use only
+7000	731	80	3.8	36	22701	0	10	10	0.22	0.04	0	1
+Academic license - for non-commercial use only
+7000	731	80	4	20	4622	0	6	6	0.02	0.01	0	1
+7000	732	80	3	797	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	732	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	732	80	3.4	139	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	732	80	3.6	72	184080	1	29	29	6.68	0.33	1.96	1
+Academic license - for non-commercial use only
+7000	732	80	3.8	39	180102	1	9.5	10	2.82	0.42	0.99	1
+Academic license - for non-commercial use only
+7000	732	80	4	25	27190	0	5	5	0.23	0.04	0	1
+7000	733	80	3	718	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	733	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	733	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	733	80	3.6	64	96708	0	20	20	2.15	0.19	1.77	1
+Academic license - for non-commercial use only
+7000	733	80	3.8	33	38014	1	8.5	9	0.46	0.06	1.7	1
+Academic license - for non-commercial use only
+7000	733	80	4	16	3061	0	4	4	0.01	0	0	1
+7000	734	80	3	767	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	734	80	3.2	306	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	734	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	734	80	3.6	78	137795	1	30	30	5.07	0.21	3.27	1
+Academic license - for non-commercial use only
+7000	734	80	3.8	34	87921	0	7	7	2.77	0.19	0	1
+Academic license - for non-commercial use only
+7000	734	80	4	21	24301	0	4	4	0.27	0.03	0	1
+7000	735	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	735	80	3.2	329	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	735	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	735	80	3.6	76	372254	0	24	24	14.28	0.92	6.83	1
+Academic license - for non-commercial use only
+7000	735	80	3.8	47	183504	0	16	16	3.81	0.32	1.99	1
+Academic license - for non-commercial use only
+7000	735	80	4	26	23833	0	8	8	0.25	0.01	0	1
+7000	736	80	3	809	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	736	80	3.2	357	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	736	80	3.4	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	736	80	3.6	90	405938	1	36	36	17.97	0.83	4.81	1
+Academic license - for non-commercial use only
+7000	736	80	3.8	57	237723	0	20	20	5.87	0.37	0.97	1
+Academic license - for non-commercial use only
+7000	736	80	4	35	143051	0	10	10	2.26	0.19	1.09	1
+7000	737	80	3	727	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	737	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	737	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	737	80	3.6	73	85248	0	28	28	2.34	0.18	0	1
+Academic license - for non-commercial use only
+7000	737	80	3.8	33	28531	0	11	11	0.34	0.03	0.19	1
+Academic license - for non-commercial use only
+7000	737	80	4	17	1688	0	5	5	0.01	0	0	1
+7000	738	80	3	762	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	738	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	738	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	738	80	3.6	67	40626	0	26	26	1.2	0.08	0	1
+Academic license - for non-commercial use only
+7000	738	80	3.8	35	11904	1	8.5	9	0.17	0.02	0.46	1
+Academic license - for non-commercial use only
+7000	738	80	4	16	2147	0	3	3	0.01	0	0.01	1
+7000	739	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	739	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	739	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	739	80	3.6	82	72214	0	38	38	3.3	0.1	0.67	1
+Academic license - for non-commercial use only
+7000	739	80	3.8	41	44498	0	12	12	0.68	0.08	1.01	1
+Academic license - for non-commercial use only
+7000	739	80	4	21	8303	0	5	5	0.09	0.01	0	1
+7000	740	80	3	753	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	740	80	3.2	321	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	740	80	3.4	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	740	80	3.6	71	36433	0	33	33	1	0.06	0	1
+Academic license - for non-commercial use only
+7000	740	80	3.8	31	13772	0	10	10	0.19	0.01	0	1
+Academic license - for non-commercial use only
+7000	740	80	4	15	3747	1	2.5	3	0.03	0	0.04	1
+7000	741	80	3	797	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	741	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	741	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	741	80	3.6	73	647262	0	28	28	12.79	1.11	7.13	1
+Academic license - for non-commercial use only
+7000	741	80	3.8	43	665407	1	10	10	8.05	1.3	27.79	1
+Academic license - for non-commercial use only
+7000	741	80	4	27	151240	0	4	4	1.34	0.23	40.47	1
+7000	742	80	3	775	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	742	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	742	80	3.4	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	742	80	3.6	70	77439	1	24.2222	25	1.85	0.15	2.25	1
+Academic license - for non-commercial use only
+7000	742	80	3.8	37	32810	0	13	13	0.36	0.05	0.2	1
+Academic license - for non-commercial use only
+7000	742	80	4	20	8490	0	5	5	0.05	0.01	0	1
+7000	743	80	3	760	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	743	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	743	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	743	80	3.6	69	78536	1	24.3333	25	2.66	0.2	2.56	1
+Academic license - for non-commercial use only
+7000	743	80	3.8	33	32645	0	9	9	0.41	0.03	0	1
+Academic license - for non-commercial use only
+7000	743	80	4	20	6059	0	6	6	0.05	0	0	1
+7000	744	80	3	699	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	744	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	744	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	744	80	3.6	67	81469	0	26	26	2.09	0.14	1.21	1
+Academic license - for non-commercial use only
+7000	744	80	3.8	34	25405	0	12	12	0.33	0.02	0	1
+Academic license - for non-commercial use only
+7000	744	80	4	17	3877	0	5	5	0.02	0	0	1
+7000	745	80	3	712	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	745	80	3.2	277	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	745	80	3.4	122	120502	1	56.1381	57	3.55	0.41	3.79	1
+Academic license - for non-commercial use only
+7000	745	80	3.6	65	142780	0	19	19	1.85	0.28	3.27	1
+Academic license - for non-commercial use only
+7000	745	80	3.8	37	92575	1	9	9	0.82	0.17	0.76	1
+Academic license - for non-commercial use only
+7000	745	80	4	20	23880	0	4	4	0.12	0.02	0	1
+7000	746	80	3	805	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	746	80	3.2	339	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	746	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	746	80	3.6	71	368122	1	21.6818	22	13.82	0.85	4.36	1
+Academic license - for non-commercial use only
+7000	746	80	3.8	41	410848	0	11	11	10.23	1.16	6.57	1
+Academic license - for non-commercial use only
+7000	746	80	4	29	211026	0	6	6	3.13	0.29	0.81	1
+7000	747	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	747	80	3.2	351	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	747	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	747	80	3.6	66	15665	0	31	31	0.41	0.02	0	1
+Academic license - for non-commercial use only
+7000	747	80	3.8	33	7238	0	12	12	0.08	0.01	0	1
+Academic license - for non-commercial use only
+7000	747	80	4	17	747	0	6	6	0	0	0	1
+7000	748	80	3	809	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	748	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	748	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	748	80	3.6	62	38854	0	23	23	0.65	0.06	0.96	1
+Academic license - for non-commercial use only
+7000	748	80	3.8	34	36615	0	8	8	0.48	0.04	2.92	1
+Academic license - for non-commercial use only
+7000	748	80	4	21	6122	0	6	6	0.03	0	0	1
+7000	749	80	3	832	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	749	80	3.2	363	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	749	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	749	80	3.6	79	16359	0	49	49	0.88	0.01	0	1
+Academic license - for non-commercial use only
+7000	749	80	3.8	37	9074	0	21	21	0.23	0	0	1
+Academic license - for non-commercial use only
+7000	749	80	4	21	2660	0	10	10	0.02	0.01	0	1
+7000	750	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	750	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	750	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	750	80	3.6	73	57573	1	27.5	28	2.02	0.1	0.61	1
+Academic license - for non-commercial use only
+7000	750	80	3.8	35	18756	0	11	11	0.28	0.03	0	1
+Academic license - for non-commercial use only
+7000	750	80	4	17	1634	0	6	6	0.01	0	0	1
+7000	751	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	751	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	751	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	751	80	3.6	67	28384	0	26	26	0.73	0.07	0.25	1
+Academic license - for non-commercial use only
+7000	751	80	3.8	29	17341	0	9	9	0.18	0.01	0	1
+Academic license - for non-commercial use only
+7000	751	80	4	19	2653	0	5	5	0.02	0	0	1
+7000	752	80	3	760	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	752	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	752	80	3.4	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	752	80	3.6	73	107026	1	31.3333	32	3.09	0.2	1.65	1
+Academic license - for non-commercial use only
+7000	752	80	3.8	45	72604	0	15	15	1.26	0.13	0	1
+Academic license - for non-commercial use only
+7000	752	80	4	27	7830	0	8	8	0.06	0.01	0.06	1
+7000	753	80	3	683	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	753	80	3.2	284	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	753	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	753	80	3.6	77	398346	1	23	23	14.64	1.22	1.78	1
+Academic license - for non-commercial use only
+7000	753	80	3.8	42	280873	0	10	10	3.95	0.62	1.61	1
+Academic license - for non-commercial use only
+7000	753	80	4	25	39987	1	4.5	5	0.38	0.05	1.53	1
+7000	754	80	3	883	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	754	80	3.2	383	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	754	80	3.4	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	754	80	3.6	86	60520	0	34	34	2.17	0.11	0	1
+Academic license - for non-commercial use only
+7000	754	80	3.8	45	26054	0	15	15	0.57	0.03	0	1
+Academic license - for non-commercial use only
+7000	754	80	4	26	5162	0	9	9	0.06	0	0	1
+7000	755	80	3	815	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	755	80	3.2	356	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	755	80	3.4	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	755	80	3.6	94	535863	1	32	32	16.53	3.77	9.41	1
+Academic license - for non-commercial use only
+7000	755	80	3.8	54	430029	0	20	20	9.13	0.81	4.83	1
+Academic license - for non-commercial use only
+7000	755	80	4	32	97700	0	10	10	1.42	0.08	0.64	1
+7000	756	80	3	698	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	756	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	756	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	756	80	3.6	70	91976	0	25	25	2.79	0.22	0.71	1
+Academic license - for non-commercial use only
+7000	756	80	3.8	30	33292	0	9	9	0.3	0.06	0.22	1
+Academic license - for non-commercial use only
+7000	756	80	4	17	6073	0	3	3	0.03	0	0	1
+7000	757	80	3	795	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	757	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	757	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	757	80	3.6	67	23457	0	32	32	0.6	0.03	0	1
+Academic license - for non-commercial use only
+7000	757	80	3.8	31	12456	0	9	9	0.12	0.01	0.06	1
+Academic license - for non-commercial use only
+7000	757	80	4	20	3542	0	5	5	0.01	0.01	0.01	1
+7000	758	80	3	863	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	758	80	3.2	358	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	758	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	758	80	3.6	72	89418	0	33	33	1.92	0.13	0.61	1
+Academic license - for non-commercial use only
+7000	758	80	3.8	39	74383	1	11.5	12	0.67	0.11	0.71	1
+Academic license - for non-commercial use only
+7000	758	80	4	26	54034	0	6	6	0.39	0.08	0.43	1
+7000	759	80	3	725	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	759	80	3.2	296	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	759	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	759	80	3.6	72	178225	1	32	32	5.75	0.31	1.7	1
+Academic license - for non-commercial use only
+7000	759	80	3.8	33	110142	0	11	11	1.61	0.13	0	1
+Academic license - for non-commercial use only
+7000	759	80	4	25	29131	0	8	8	0.34	0.04	0.23	1
+7000	760	80	3	814	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	760	80	3.2	345	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	760	80	3.4	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	760	80	3.6	75	254768	1	25.5	26	8.19	0.46	2.89	1
+Academic license - for non-commercial use only
+7000	760	80	3.8	41	164936	0	10	10	2.44	0.24	1.87	1
+Academic license - for non-commercial use only
+7000	760	80	4	24	74683	0	4	4	0.48	0.1	0.54	1
+7000	761	80	3	782	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	761	80	3.2	328	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	761	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	761	80	3.6	76	382944	0	33	33	8.76	0.78	1.86	1
+Academic license - for non-commercial use only
+7000	761	80	3.8	42	249133	0	11	11	2.88	0.36	0	1
+Academic license - for non-commercial use only
+7000	761	80	4	23	69140	0	4	4	0.61	0.07	2.81	1
+7000	762	80	3	825	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	762	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	762	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	762	80	3.6	72	47587	1	36	36	2.1	0.06	0.53	1
+Academic license - for non-commercial use only
+7000	762	80	3.8	36	21960	0	15	15	0.29	0.03	0	1
+Academic license - for non-commercial use only
+7000	762	80	4	19	8426	0	6	6	0.04	0.01	0	1
+7000	763	80	3	722	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	763	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	763	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	763	80	3.6	74	166597	0	27	27	4.03	0.3	1.38	1
+Academic license - for non-commercial use only
+7000	763	80	3.8	37	67577	1	11.6667	12	0.72	0.09	0.59	1
+Academic license - for non-commercial use only
+7000	763	80	4	20	17365	0	4	4	0.15	0.02	0.17	1
+7000	764	80	3	782	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	764	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	764	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	764	80	3.6	72	87091	0	27	27	1.64	0.2	0	1
+Academic license - for non-commercial use only
+7000	764	80	3.8	40	34103	0	13	13	0.44	0.05	0.27	1
+Academic license - for non-commercial use only
+7000	764	80	4	19	3081	0	7	7	0.05	0	0	1
+7000	765	80	3	767	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	765	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	765	80	3.4	139	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	765	80	3.6	62	78081	1	23	23	2.38	0.12	1.69	1
+Academic license - for non-commercial use only
+7000	765	80	3.8	29	35879	0	7	7	0.39	0.06	2.67	1
+Academic license - for non-commercial use only
+7000	765	80	4	16	5933	0	4	4	0.03	0	0	1
+7000	766	80	3	746	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	766	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	766	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	766	80	3.6	63	117523	0	26	26	3.09	0.24	1.18	1
+Academic license - for non-commercial use only
+7000	766	80	3.8	35	82530	0	12	12	1	0.1	0	1
+Academic license - for non-commercial use only
+7000	766	80	4	21	36388	0	4	4	0.3	0.05	0	1
+7000	767	80	3	743	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	767	80	3.2	306	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	767	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	767	80	3.6	63	232016	0	20	20	4.95	0.43	2.65	1
+Academic license - for non-commercial use only
+7000	767	80	3.8	35	96084	0	8	8	1.27	0.19	0.87	1
+Academic license - for non-commercial use only
+7000	767	80	4	21	31347	0	5	5	0.37	0.05	0	1
+7000	768	80	3	813	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	768	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	768	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	768	80	3.6	65	34901	0	26	26	0.82	0.07	0	1
+Academic license - for non-commercial use only
+7000	768	80	3.8	33	11124	0	10	10	0.13	0.02	0	1
+Academic license - for non-commercial use only
+7000	768	80	4	15	1883	0	5	5	0.01	0	0	1
+7000	769	80	3	788	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	769	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	769	80	3.4	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	769	80	3.6	81	127555	0	29	29	3.87	0.29	1.26	1
+Academic license - for non-commercial use only
+7000	769	80	3.8	41	72688	0	11	11	1.15	0.12	1.73	1
+Academic license - for non-commercial use only
+7000	769	80	4	23	25090	0	5	5	0.14	0.02	0	1
+7000	770	80	3	876	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	770	80	3.2	371	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	770	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	770	80	3.6	79	125490	0	30	30	3.6	0.28	0.96	1
+Academic license - for non-commercial use only
+7000	770	80	3.8	41	73504	1	11.3333	12	1.34	0.11	1.31	1
+Academic license - for non-commercial use only
+7000	770	80	4	25	30484	0	8	8	0.2	0.02	0	1
+7000	771	80	3	738	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	771	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	771	80	3.4	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	771	80	3.6	72	60172	0	30	30	2.16	0.12	0	1
+Academic license - for non-commercial use only
+7000	771	80	3.8	38	16386	0	12	12	0.28	0.02	0.11	1
+Academic license - for non-commercial use only
+7000	771	80	4	15	1311	0	3	3	0	0.01	0	1
+7000	772	80	3	805	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	772	80	3.2	349	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	772	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	772	80	3.6	71	81566	0	32	32	1.72	0.11	1.78	1
+Academic license - for non-commercial use only
+7000	772	80	3.8	36	75218	1	10	10	0.68	0.1	0.62	1
+Academic license - for non-commercial use only
+7000	772	80	4	20	12694	1	3.5	4	0.06	0.01	0.14	1
+7000	773	80	3	776	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	773	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	773	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	773	80	3.6	86	74045	1	32.3333	33	2.75	0.14	2.86	1
+Academic license - for non-commercial use only
+7000	773	80	3.8	36	26173	0	12	12	0.38	0.03	0	1
+Academic license - for non-commercial use only
+7000	773	80	4	20	6909	0	7	7	0.04	0	0	1
+7000	774	80	3	790	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	774	80	3.2	342	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	774	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	774	80	3.6	71	58500	0	37	37	1.45	0.06	0.72	1
+Academic license - for non-commercial use only
+7000	774	80	3.8	36	36551	0	14	14	0.36	0.04	0	1
+Academic license - for non-commercial use only
+7000	774	80	4	21	13544	0	6	6	0.06	0.01	0.11	1
+7000	775	80	3	653	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	775	80	3.2	266	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	775	80	3.4	126	238279	1	53.7544	54	9.51	0.87	2.76	1
+Academic license - for non-commercial use only
+7000	775	80	3.6	63	276243	1	18.6667	19	5.66	0.53	2.96	1
+Academic license - for non-commercial use only
+7000	775	80	3.8	33	163147	0	8	8	1.57	0.23	0.95	1
+Academic license - for non-commercial use only
+7000	775	80	4	21	45196	0	4	4	0.36	0.06	0	1
+7000	776	80	3	844	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	776	80	3.2	346	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	776	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	776	80	3.6	68	45076	0	26	26	1.29	0.1	0	1
+Academic license - for non-commercial use only
+7000	776	80	3.8	36	25619	0	12	12	0.32	0.03	0.19	1
+Academic license - for non-commercial use only
+7000	776	80	4	19	2225	0	8	8	0.02	0	0	1
+7000	777	80	3	784	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	777	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	777	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	777	80	3.6	72	122152	0	30	30	2.19	0.15	2.79	1
+Academic license - for non-commercial use only
+7000	777	80	3.8	37	90457	0	9	9	1	0.09	4.29	1
+Academic license - for non-commercial use only
+7000	777	80	4	20	23938	0	3	3	0.15	0.03	0	1
+7000	778	80	3	846	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	778	80	3.2	375	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	778	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	778	80	3.6	67	62828	0	26	26	1.63	0.11	0	1
+Academic license - for non-commercial use only
+7000	778	80	3.8	36	43958	0	14	14	0.58	0.07	0	1
+Academic license - for non-commercial use only
+7000	778	80	4	22	24610	0	6	6	0.13	0.03	0.18	1
+7000	779	80	3	800	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	779	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	779	80	3.4	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	779	80	3.6	54	9526	0	25	25	0.14	0.01	0	1
+Academic license - for non-commercial use only
+7000	779	80	3.8	25	2686	0	7	7	0.02	0	0	1
+Academic license - for non-commercial use only
+7000	779	80	4	13	431	0	5	5	0	0	0	1
+7000	780	80	3	757	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	780	80	3.2	312	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	780	80	3.4	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	780	80	3.6	62	41473	1	21.3125	22	0.89	0.09	0.56	1
+Academic license - for non-commercial use only
+7000	780	80	3.8	31	30891	1	7.5	8	0.3	0.03	0.25	1
+Academic license - for non-commercial use only
+7000	780	80	4	20	7542	0	4	4	0.04	0	0	1
+7000	781	80	3	734	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	781	80	3.2	321	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	781	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	781	80	3.6	68	94326	1	26.5	27	2.52	0.13	1.78	1
+Academic license - for non-commercial use only
+7000	781	80	3.8	32	61679	1	8	8	0.65	0.11	0.56	1
+Academic license - for non-commercial use only
+7000	781	80	4	21	19255	0	4	4	0.14	0.01	0.55	1
+7000	782	80	3	740	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	782	80	3.2	306	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	782	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	782	80	3.6	72	46195	0	28	28	1.3	0.07	0.34	1
+Academic license - for non-commercial use only
+7000	782	80	3.8	31	18156	0	11	11	0.13	0.02	0	1
+Academic license - for non-commercial use only
+7000	782	80	4	16	1251	0	6	6	0.01	0	0	1
+7000	783	80	3	768	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	783	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	783	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	783	80	3.6	60	174185	0	20	20	3.28	0.22	3.13	1
+Academic license - for non-commercial use only
+7000	783	80	3.8	37	154337	0	10	10	2.03	0.27	1.24	1
+Academic license - for non-commercial use only
+7000	783	80	4	24	35124	0	6	6	0.34	0.03	0.26	1
+7000	784	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	784	80	3.2	351	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	784	80	3.4	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	784	80	3.6	86	328393	0	31	31	7.16	0.73	1.49	1
+Academic license - for non-commercial use only
+7000	784	80	3.8	46	201309	0	13	13	2.07	0.33	1.81	1
+Academic license - for non-commercial use only
+7000	784	80	4	29	31851	0	8	8	0.29	0.05	0.25	1
+7000	785	80	3	802	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	785	80	3.2	349	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	785	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	785	80	3.6	84	213119	1	35	35	8.51	0.4	1.59	1
+Academic license - for non-commercial use only
+7000	785	80	3.8	52	200214	0	23	23	4.69	0.2	1.08	1
+Academic license - for non-commercial use only
+7000	785	80	4	32	40183	0	12	12	0.52	0.05	0.01	1
+7000	786	80	3	733	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	786	80	3.2	345	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	786	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	786	80	3.6	74	39557	0	29	29	0.94	0.07	0	1
+Academic license - for non-commercial use only
+7000	786	80	3.8	31	14044	0	10	10	0.29	0.01	0.1	1
+Academic license - for non-commercial use only
+7000	786	80	4	15	3291	0	4	4	0.03	0	0	1
+7000	787	80	3	755	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	787	80	3.2	308	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	787	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	787	80	3.6	66	65208	0	22	22	1.74	0.14	0	1
+Academic license - for non-commercial use only
+7000	787	80	3.8	34	51037	0	8	8	0.76	0.09	2.65	1
+Academic license - for non-commercial use only
+7000	787	80	4	19	5247	0	5	5	0.04	0	0	1
+7000	788	80	3	811	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	788	80	3.2	321	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	788	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	788	80	3.6	79	143413	0	27	27	3.33	0.31	0.98	1
+Academic license - for non-commercial use only
+7000	788	80	3.8	43	55093	0	14	14	0.88	0.09	0.42	1
+Academic license - for non-commercial use only
+7000	788	80	4	23	18723	0	6	6	0.2	0.02	0	1
+7000	789	80	3	782	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	789	80	3.2	308	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	789	80	3.4	127	22096	0	69	69	0.96	0.04	0	1
+Academic license - for non-commercial use only
+7000	789	80	3.6	62	23045	0	24	24	0.5	0.03	0	1
+Academic license - for non-commercial use only
+7000	789	80	3.8	31	12242	0	11	11	0.12	0.01	0	1
+Academic license - for non-commercial use only
+7000	789	80	4	19	2182	0	9	9	0.01	0	0	1
+7000	790	80	3	738	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	790	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	790	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	790	80	3.6	61	142312	1	18.1429	19	2.17	0.28	2.15	1
+Academic license - for non-commercial use only
+7000	790	80	3.8	38	122617	0	9	9	1.47	0.19	1.15	1
+Academic license - for non-commercial use only
+7000	790	80	4	18	17767	0	3	3	0.17	0.01	0	1
+7000	791	80	3	806	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	791	80	3.2	343	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	791	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	791	80	3.6	57	54935	0	21	21	1.45	0.1	0.43	1
+Academic license - for non-commercial use only
+7000	791	80	3.8	36	48644	0	11	11	0.67	0.08	0	1
+Academic license - for non-commercial use only
+7000	791	80	4	19	7130	0	5	5	0.09	0.01	0	1
+7000	792	80	3	792	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	792	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	792	80	3.4	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	792	80	3.6	84	249543	0	35	35	12.61	0.74	0	1
+Academic license - for non-commercial use only
+7000	792	80	3.8	37	225508	0	8	8	3.2	0.65	2.04	1
+Academic license - for non-commercial use only
+7000	792	80	4	29	92201	0	7	7	1.09	0.18	0.64	1
+7000	793	80	3	750	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	793	80	3.2	338	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	793	80	3.4	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	793	80	3.6	81	415622	0	31	31	13.09	0.57	2.78	1
+Academic license - for non-commercial use only
+7000	793	80	3.8	48	357722	0	13	13	6.74	0.81	3.86	1
+Academic license - for non-commercial use only
+7000	793	80	4	26	152465	1	5	5	1.51	0.34	0.97	1
+7000	794	80	3	778	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	794	80	3.2	314	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	794	80	3.4	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	794	80	3.6	63	49855	0	27	27	0.82	0.06	0.36	1
+Academic license - for non-commercial use only
+7000	794	80	3.8	35	46444	0	15	15	0.32	0.06	0	1
+Academic license - for non-commercial use only
+7000	794	80	4	20	13625	0	5	5	0.07	0.01	0	1
+7000	795	80	3	737	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	795	80	3.2	338	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	795	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	795	80	3.6	70	64736	1	24.6744	25	1.28	0.15	0.9	1
+Academic license - for non-commercial use only
+7000	795	80	3.8	31	30664	0	7	7	0.45	0.05	0	1
+Academic license - for non-commercial use only
+7000	795	80	4	13	1824	0	3	3	0.02	0	0	1
+7000	796	80	3	747	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	796	80	3.2	286	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	796	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	796	80	3.6	57	17689	0	24	24	0.32	0.03	0	1
+Academic license - for non-commercial use only
+7000	796	80	3.8	29	2908	0	8	8	0.05	0	0.02	1
+Academic license - for non-commercial use only
+7000	796	80	4	8	127	0	3	3	0	0	0	1
+7000	797	80	3	763	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	797	80	3.2	352	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	797	80	3.4	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	797	80	3.6	90	63087	0	32	32	1.98	0.14	0.56	1
+Academic license - for non-commercial use only
+7000	797	80	3.8	47	40172	0	17	17	0.71	0.06	0.3	1
+Academic license - for non-commercial use only
+7000	797	80	4	22	9706	0	6	6	0.11	0.02	0	1
+7000	798	80	3	842	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	798	80	3.2	355	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	798	80	3.4	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	798	80	3.6	86	191863	1	35	35	4.4	0.33	2.17	1
+Academic license - for non-commercial use only
+7000	798	80	3.8	51	80183	0	19	19	0.85	0.12	1.41	1
+Academic license - for non-commercial use only
+7000	798	80	4	25	19316	0	7	7	0.13	0.02	0.15	1
+7000	799	80	3	727	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	799	80	3.2	327	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	799	80	3.4	130	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	799	80	3.6	70	71920	0	26	26	1.88	0.12	1.55	1
+Academic license - for non-commercial use only
+7000	799	80	3.8	32	34468	0	10	10	0.5	0.05	0	1
+Academic license - for non-commercial use only
+7000	799	80	4	22	14394	0	4	4	0.12	0.02	0.31	1
+7000	800	80	3	742	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	800	80	3.2	356	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	800	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	800	80	3.6	75	509597	0	27	27	15.02	2.45	8.81	1
+Academic license - for non-commercial use only
+7000	800	80	3.8	43	341152	1	10	10	4.93	0.73	3.75	1
+Academic license - for non-commercial use only
+7000	800	80	4	25	46032	0	6	6	0.45	0.04	0	1
+7000	801	80	3	780	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	801	80	3.2	341	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	801	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	801	80	3.6	85	795387	0	29	29	19.18	7.58	14.47	1
+Academic license - for non-commercial use only
+7000	801	80	3.8	48	683587	0	13	13	10.28	0.84	6.44	1
+Academic license - for non-commercial use only
+7000	801	80	4	31	178221	0	7	7	1.52	0.2	20.47	1
+7000	802	80	3	779	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	802	80	3.2	321	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	802	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	802	80	3.6	76	542710	1	29	29	13.27	3.49	8.15	1
+Academic license - for non-commercial use only
+7000	802	80	3.8	46	415924	0	12	12	7.07	1.21	5.89	1
+Academic license - for non-commercial use only
+7000	802	80	4	25	13526	0	8	8	0.12	0.02	0	1
+7000	803	80	3	779	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	803	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	803	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	803	80	3.6	68	178278	0	24	24	3.33	0.37	0	1
+Academic license - for non-commercial use only
+7000	803	80	3.8	36	124780	1	8.14286	9	1.36	0.2	6.13	1
+Academic license - for non-commercial use only
+7000	803	80	4	26	91211	0	5	5	0.74	0.08	0.77	1
+7000	804	80	3	885	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	804	80	3.2	362	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	804	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	804	80	3.6	65	38746	0	30	30	1.07	0.06	0	1
+Academic license - for non-commercial use only
+7000	804	80	3.8	32	30453	0	8	8	0.33	0.05	4.13	1
+Academic license - for non-commercial use only
+7000	804	80	4	18	7377	0	5	5	0.05	0.01	0	1
+7000	805	80	3	893	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	805	80	3.2	411	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	805	80	3.4	193	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	805	80	3.6	92	119418	0	44	44	3.27	0.18	0	1
+Academic license - for non-commercial use only
+7000	805	80	3.8	47	84603	0	19	19	1.32	0.1	0.59	1
+Academic license - for non-commercial use only
+7000	805	80	4	27	68292	0	6	6	0.61	0.07	0.56	1
+7000	806	80	3	742	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	806	80	3.2	341	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	806	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	806	80	3.6	65	83907	0	24	24	1.85	0.13	0	1
+Academic license - for non-commercial use only
+7000	806	80	3.8	36	59879	0	11	11	0.57	0.06	0	1
+Academic license - for non-commercial use only
+7000	806	80	4	25	10653	0	6	6	0.08	0.01	0	1
+7000	807	80	3	874	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	807	80	3.2	344	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	807	80	3.4	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	807	80	3.6	84	388591	0	36	36	8.13	0.7	1.07	1
+Academic license - for non-commercial use only
+7000	807	80	3.8	53	480603	0	18	18	7.85	0.53	0	1
+Academic license - for non-commercial use only
+7000	807	80	4	29	181509	0	6	6	1.44	0.2	0	1
+7000	808	80	3	728	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	808	80	3.2	314	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	808	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	808	80	3.6	62	14366	0	28	28	0.48	0.01	0.11	1
+Academic license - for non-commercial use only
+7000	808	80	3.8	28	6051	0	10	10	0.07	0.01	0.04	1
+Academic license - for non-commercial use only
+7000	808	80	4	13	283	0	4	4	0	0	0	1
+7000	809	80	3	793	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	809	80	3.2	328	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	809	80	3.4	123	97368	0	65	65	3.52	0.21	0	1
+Academic license - for non-commercial use only
+7000	809	80	3.6	61	156295	0	22	22	2.23	0.33	1.42	1
+Academic license - for non-commercial use only
+7000	809	80	3.8	32	147733	0	6	6	1.33	0.24	1.13	1
+Academic license - for non-commercial use only
+7000	809	80	4	22	46833	0	3	3	0.27	0.06	1.07	1
+7000	810	80	3	803	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	810	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	810	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	810	80	3.6	69	72915	0	28	28	1.6	0.12	1.76	1
+Academic license - for non-commercial use only
+7000	810	80	3.8	40	40017	0	16	16	0.79	0.05	0	1
+Academic license - for non-commercial use only
+7000	810	80	4	22	8528	0	7	7	0.06	0	0	1
+7000	811	80	3	765	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	811	80	3.2	346	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	811	80	3.4	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	811	80	3.6	68	46924	1	32	32	0.85	0.07	0.32	1
+Academic license - for non-commercial use only
+7000	811	80	3.8	32	18632	0	13	13	0.12	0.02	0.22	1
+Academic license - for non-commercial use only
+7000	811	80	4	18	6076	0	6	6	0.03	0	0	1
+7000	812	80	3	802	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	812	80	3.2	342	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	812	80	3.4	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	812	80	3.6	81	177055	1	29	29	3.92	0.36	4.69	1
+Academic license - for non-commercial use only
+7000	812	80	3.8	42	155399	1	10	10	1.73	0.25	1.14	1
+Academic license - for non-commercial use only
+7000	812	80	4	23	20480	0	5	5	0.13	0.02	0	1
+7000	813	80	3	891	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	813	80	3.2	364	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	813	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	813	80	3.6	67	6211	0	38	38	0.39	0.01	0	1
+Academic license - for non-commercial use only
+7000	813	80	3.8	27	4685	0	12	12	0.11	0	0	1
+Academic license - for non-commercial use only
+7000	813	80	4	16	1623	0	5	5	0.01	0	0	1
+7000	814	80	3	786	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	814	80	3.2	328	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	814	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	814	80	3.6	76	183775	0	29	29	4.62	0.38	4.31	1
+Academic license - for non-commercial use only
+7000	814	80	3.8	48	76444	1	20	20	2.43	0.22	1.77	1
+Academic license - for non-commercial use only
+7000	814	80	4	19	4645	0	5	5	0.05	0.01	0	1
+7000	815	80	3	770	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	815	80	3.2	344	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	815	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	815	80	3.6	75	101599	0	33	33	2.47	0.17	0	1
+Academic license - for non-commercial use only
+7000	815	80	3.8	35	90989	1	9	9	1.27	0.15	0.49	1
+Academic license - for non-commercial use only
+7000	815	80	4	22	40693	0	4	4	0.35	0.07	0	1
+7000	816	80	3	742	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	816	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	816	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	816	80	3.6	77	102463	0	36	36	3.56	0.13	0.66	1
+Academic license - for non-commercial use only
+7000	816	80	3.8	42	73646	0	16	16	1.48	0.09	0	1
+Academic license - for non-commercial use only
+7000	816	80	4	23	27317	0	6	6	0.36	0.04	0	1
+7000	817	80	3	781	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	817	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	817	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	817	80	3.6	74	62296	1	26.5	27	2.32	0.16	1.69	1
+Academic license - for non-commercial use only
+7000	817	80	3.8	33	49037	0	8	8	0.76	0.13	4.1	1
+Academic license - for non-commercial use only
+7000	817	80	4	20	10970	0	6	6	0.11	0.01	0	1
+7000	818	80	3	819	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	818	80	3.2	354	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	818	80	3.4	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	818	80	3.6	91	915004	1	38	38	28.43	1.81	8.61	1
+Academic license - for non-commercial use only
+7000	818	80	3.8	49	849459	0	14	14	29.02	2.11	10.67	1
+Academic license - for non-commercial use only
+7000	818	80	4	36	394436	0	8	8	7.1	0.81	0	1
+7000	819	80	3	728	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	819	80	3.2	314	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	819	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	819	80	3.6	76	82429	1	29	29	5.25	0.36	4.4	1
+Academic license - for non-commercial use only
+7000	819	80	3.8	39	30608	0	12	12	0.99	0.13	0.49	1
+Academic license - for non-commercial use only
+7000	819	80	4	18	5546	0	5	5	0.04	0.01	0	1
+7000	820	80	3	802	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	820	80	3.2	316	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	820	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	820	80	3.6	66	62362	0	26	26	2.46	0.19	0.65	1
+Academic license - for non-commercial use only
+7000	820	80	3.8	39	42996	0	11	11	0.9	0.14	0	1
+Academic license - for non-commercial use only
+7000	820	80	4	16	1366	0	5	5	0.02	0	0	1
+7000	821	80	3	758	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	821	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	821	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	821	80	3.6	75	63557	0	30	30	1.08	0.17	0.55	1
+Academic license - for non-commercial use only
+7000	821	80	3.8	31	45154	0	10	10	0.33	0.07	0	1
+Academic license - for non-commercial use only
+7000	821	80	4	18	15168	0	4	4	0.13	0.03	0.49	1
+7000	822	80	3	770	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	822	80	3.2	302	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	822	80	3.4	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	822	80	3.6	61	25271	0	27	27	0.52	0.05	0.24	1
+Academic license - for non-commercial use only
+7000	822	80	3.8	23	4073	1	6.5	7	0.02	0	0.17	1
+Academic license - for non-commercial use only
+7000	822	80	4	10	501	0	2	2	0	0	0	1
+7000	823	80	3	712	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	823	80	3.2	309	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	823	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	823	80	3.6	64	127948	1	23	23	3.73	0.24	3.17	1
+Academic license - for non-commercial use only
+7000	823	80	3.8	28	88105	0	8	8	0.92	0.11	0	1
+Academic license - for non-commercial use only
+7000	823	80	4	20	28704	0	4	4	0.23	0.02	0.99	1
+7000	824	80	3	848	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	824	80	3.2	368	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	824	80	3.4	182	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	824	80	3.6	81	43341	0	41	41	0.99	0.06	0.34	1
+Academic license - for non-commercial use only
+7000	824	80	3.8	40	34724	1	17.5	18	0.32	0.04	0.34	1
+Academic license - for non-commercial use only
+7000	824	80	4	22	9828	0	7	7	0.06	0.01	0	1
+7000	825	80	3	740	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	825	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	825	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	825	80	3.6	72	179259	0	24	24	3.44	0.31	3.43	1
+Academic license - for non-commercial use only
+7000	825	80	3.8	42	109156	0	11	11	1.27	0.14	0.75	1
+Academic license - for non-commercial use only
+7000	825	80	4	24	27211	0	7	7	0.22	0.02	0.24	1
+7000	826	80	3	734	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	826	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	826	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	826	80	3.6	62	18239	1	22.7308	23	0.43	0.04	0.49	1
+Academic license - for non-commercial use only
+7000	826	80	3.8	26	5851	0	7	7	0.06	0	0.05	1
+Academic license - for non-commercial use only
+7000	826	80	4	11	248	0	4	4	0	0	0	1
+7000	827	80	3	786	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	827	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	827	80	3.4	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	827	80	3.6	69	19397	1	33	33	0.49	0.03	0.15	1
+Academic license - for non-commercial use only
+7000	827	80	3.8	28	7593	0	9	9	0.09	0.01	0	1
+Academic license - for non-commercial use only
+7000	827	80	4	13	1330	0	4	4	0	0	0	1
+7000	828	80	3	726	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	828	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	828	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	828	80	3.6	65	157524	1	22	22	2.58	0.25	3.66	1
+Academic license - for non-commercial use only
+7000	828	80	3.8	35	72789	0	9	9	0.78	0.11	6.11	1
+Academic license - for non-commercial use only
+7000	828	80	4	21	12859	0	7	7	0.09	0.01	0.1	1
+7000	829	80	3	868	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	829	80	3.2	376	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	829	80	3.4	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	829	80	3.6	85	56237	0	38	38	2.38	0.13	0	1
+Academic license - for non-commercial use only
+7000	829	80	3.8	45	18361	0	20	20	0.36	0.02	0.14	1
+Academic license - for non-commercial use only
+7000	829	80	4	18	1598	0	6	6	0	0	0	1
+7000	830	80	3	775	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	830	80	3.2	329	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	830	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	830	80	3.6	68	209860	0	28	28	5.1	0.32	1.81	1
+Academic license - for non-commercial use only
+7000	830	80	3.8	43	178781	0	14	14	2.67	0.35	0.52	1
+Academic license - for non-commercial use only
+7000	830	80	4	22	19154	0	5	5	0.14	0.02	0	1
+7000	831	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	831	80	3.2	320	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	831	80	3.4	139	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	831	80	3.6	72	89818	0	32	32	1.61	0.16	0.8	1
+Academic license - for non-commercial use only
+7000	831	80	3.8	40	39994	1	15	15	0.45	0.06	0.32	1
+Academic license - for non-commercial use only
+7000	831	80	4	22	6296	0	9	9	0.05	0	0	1
+7000	832	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	832	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	832	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	832	80	3.6	75	306033	1	27	27	7.15	0.76	3.79	1
+Academic license - for non-commercial use only
+7000	832	80	3.8	45	304216	0	13	13	4.6	0.87	1.63	1
+Academic license - for non-commercial use only
+7000	832	80	4	26	89368	0	6	6	1.15	0.15	0	1
+7000	833	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	833	80	3.2	309	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	833	80	3.4	131	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	833	80	3.6	65	306006	1	23.5	24	6.66	0.66	3.6	1
+Academic license - for non-commercial use only
+7000	833	80	3.8	37	180386	0	9	9	4.14	0.36	0.93	1
+Academic license - for non-commercial use only
+7000	833	80	4	22	59164	0	4	4	0.47	0.1	0	1
+7000	834	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	834	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	834	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	834	80	3.6	81	277387	0	26	26	9.63	0.65	0	1
+Academic license - for non-commercial use only
+7000	834	80	3.8	45	147877	0	10	10	2.33	0.35	0	1
+Academic license - for non-commercial use only
+7000	834	80	4	28	35769	0	8	8	0.46	0.05	0	1
+7000	835	80	3	702	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	835	80	3.2	307	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	835	80	3.4	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	835	80	3.6	68	36873	0	27	27	1.07	0.1	0	1
+Academic license - for non-commercial use only
+7000	835	80	3.8	32	10786	0	13	13	0.12	0.01	0	1
+Academic license - for non-commercial use only
+7000	835	80	4	16	1423	0	6	6	0.01	0	0	1
+7000	836	80	3	794	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	836	80	3.2	332	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	836	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	836	80	3.6	88	486596	0	34	34	11.33	3.24	9.06	1
+Academic license - for non-commercial use only
+7000	836	80	3.8	48	247770	1	11.5	12	3.5	0.52	3.07	1
+Academic license - for non-commercial use only
+7000	836	80	4	32	73699	0	8	8	0.75	0.07	0.55	1
+7000	837	80	3	776	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	837	80	3.2	320	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	837	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	837	80	3.6	83	186094	0	40	40	4.57	0.42	2.79	1
+Academic license - for non-commercial use only
+7000	837	80	3.8	43	203558	1	18	18	2.26	0.24	0.77	1
+Academic license - for non-commercial use only
+7000	837	80	4	28	71896	0	10	10	0.78	0.06	0	1
+7000	838	80	3	735	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	838	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	838	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	838	80	3.6	67	119250	0	21	21	2.12	0.41	4.36	1
+Academic license - for non-commercial use only
+7000	838	80	3.8	42	60005	0	15	15	1.12	0.2	1.7	1
+Academic license - for non-commercial use only
+7000	838	80	4	19	9620	0	5	5	0.09	0.01	0.08	1
+7000	839	80	3	864	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	839	80	3.2	342	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	839	80	3.4	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	839	80	3.6	88	72826	0	38	38	0.98	0.11	2.07	1
+Academic license - for non-commercial use only
+7000	839	80	3.8	42	40575	1	14.5	15	0.4	0.06	0.96	1
+Academic license - for non-commercial use only
+7000	839	80	4	23	11978	0	7	7	0.11	0.02	0	1
+7000	840	80	3	782	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	840	80	3.2	342	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	840	80	3.4	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	840	80	3.6	65	30814	0	26	26	0.53	0.06	0.47	1
+Academic license - for non-commercial use only
+7000	840	80	3.8	33	16653	0	9	9	0.27	0.04	0	1
+Academic license - for non-commercial use only
+7000	840	80	4	16	1231	0	4	4	0.01	0	0	1
+7000	841	80	3	760	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	841	80	3.2	353	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	841	80	3.4	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	841	80	3.6	83	54245	0	33	33	2.15	0.12	0.39	1
+Academic license - for non-commercial use only
+7000	841	80	3.8	36	17832	1	11	11	0.22	0.02	1.56	1
+Academic license - for non-commercial use only
+7000	841	80	4	17	4351	0	4	4	0.06	0	0	1
+7000	842	80	3	849	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	842	80	3.2	355	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	842	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	842	80	3.6	73	43583	0	31	31	1.18	0.09	0	1
+Academic license - for non-commercial use only
+7000	842	80	3.8	44	34447	0	14	14	0.82	0.09	0	1
+Academic license - for non-commercial use only
+7000	842	80	4	22	7878	0	7	7	0.08	0	0.07	1
+7000	843	80	3	780	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	843	80	3.2	307	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	843	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	843	80	3.6	69	83718	0	24	24	3.71	0.28	0	1
+Academic license - for non-commercial use only
+7000	843	80	3.8	35	49032	1	8	8	0.76	0.07	0.37	1
+Academic license - for non-commercial use only
+7000	843	80	4	20	18079	0	4	4	0.14	0.01	0	1
+7000	844	80	3	789	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	844	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	844	80	3.4	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	844	80	3.6	77	165090	0	29	29	6.41	0.28	2.18	1
+Academic license - for non-commercial use only
+7000	844	80	3.8	44	91015	0	14	14	2.05	0.13	0	1
+Academic license - for non-commercial use only
+7000	844	80	4	22	26375	0	5	5	0.21	0.03	0	1
+7000	845	80	3	775	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	845	80	3.2	320	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	845	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	845	80	3.6	66	58985	0	26	26	1.05	0.1	0	1
+Academic license - for non-commercial use only
+7000	845	80	3.8	31	31152	0	12	12	0.36	0.02	0.94	1
+Academic license - for non-commercial use only
+7000	845	80	4	17	5786	0	5	5	0.03	0	0	1
+7000	846	80	3	814	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	846	80	3.2	337	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	846	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	846	80	3.6	81	107501	0	33	33	3.07	0.17	1.22	1
+Academic license - for non-commercial use only
+7000	846	80	3.8	47	35563	0	19	19	0.65	0.04	0.36	1
+Academic license - for non-commercial use only
+7000	846	80	4	21	6342	0	7	7	0.04	0.01	0	1
+7000	847	80	3	845	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	847	80	3.2	374	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	847	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	847	80	3.6	68	30494	1	24.5	25	0.91	0.05	0.28	1
+Academic license - for non-commercial use only
+7000	847	80	3.8	33	23583	0	11	11	0.33	0.03	0.16	1
+Academic license - for non-commercial use only
+7000	847	80	4	21	10468	0	7	7	0.08	0	0.08	1
+7000	848	80	3	737	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	848	80	3.2	307	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	848	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	848	80	3.6	61	117487	0	23	23	1.13	0.25	2.66	1
+Academic license - for non-commercial use only
+7000	848	80	3.8	36	58262	0	11	11	0.5	0.07	0	1
+Academic license - for non-commercial use only
+7000	848	80	4	24	20834	0	7	7	0.14	0.01	0	1
+7000	849	80	3	810	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	849	80	3.2	363	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	849	80	3.4	183	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	849	80	3.6	96	378483	0	40	40	9.71	0.69	3.22	1
+Academic license - for non-commercial use only
+7000	849	80	3.8	53	276700	1	16	16	3.7	0.38	1.1	1
+Academic license - for non-commercial use only
+7000	849	80	4	26	95288	0	5	5	0.78	0.12	3.56	1
+7000	850	80	3	880	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	850	80	3.2	376	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	850	80	3.4	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	850	80	3.6	79	95307	0	28	28	2.2	0.18	0	1
+Academic license - for non-commercial use only
+7000	850	80	3.8	48	54118	0	12	12	0.76	0.07	1	1
+Academic license - for non-commercial use only
+7000	850	80	4	21	8716	0	4	4	0.05	0.01	0	1
+7000	851	80	3	814	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	851	80	3.2	359	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	851	80	3.4	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	851	80	3.6	74	149725	0	30	30	2.75	0.26	2.59	1
+Academic license - for non-commercial use only
+7000	851	80	3.8	41	127799	0	10	10	1.53	0.27	0	1
+Academic license - for non-commercial use only
+7000	851	80	4	25	21139	0	6	6	0.2	0.02	0.16	1
+7000	852	80	3	794	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	852	80	3.2	341	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	852	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	852	80	3.6	67	27656	0	26	26	0.63	0.06	0.78	1
+Academic license - for non-commercial use only
+7000	852	80	3.8	32	7641	0	10	10	0.13	0.02	0.92	1
+Academic license - for non-commercial use only
+7000	852	80	4	15	1293	0	5	5	0.01	0	0	1
+7000	853	80	3	725	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	853	80	3.2	312	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	853	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	853	80	3.6	68	42326	1	26.3333	27	0.55	0.07	0.41	1
+Academic license - for non-commercial use only
+7000	853	80	3.8	32	10774	1	10	10	0.11	0.01	0.07	1
+Academic license - for non-commercial use only
+7000	853	80	4	13	1407	0	3	3	0.01	0	0	1
+7000	854	80	3	975	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	854	80	3.2	438	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	854	80	3.4	181	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	854	80	3.6	92	63184	1	42.5	43	1.52	0.11	0.58	1
+Academic license - for non-commercial use only
+7000	854	80	3.8	45	31088	0	14	14	0.38	0.05	0	1
+Academic license - for non-commercial use only
+7000	854	80	4	26	4871	0	8	8	0.06	0	0	1
+7000	855	80	3	740	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	855	80	3.2	351	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	855	80	3.4	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	855	80	3.6	75	46272	0	38	38	1.93	0.04	0.3	1
+Academic license - for non-commercial use only
+7000	855	80	3.8	36	22708	0	16	16	0.49	0.02	0.15	1
+Academic license - for non-commercial use only
+7000	855	80	4	19	5689	0	4	4	0.05	0.01	0	1
+7000	856	80	3	823	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	856	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	856	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	856	80	3.6	78	68515	0	40	40	2.17	0.14	1.32	1
+Academic license - for non-commercial use only
+7000	856	80	3.8	40	36135	0	13	13	0.47	0.03	0.3	1
+Academic license - for non-commercial use only
+7000	856	80	4	20	9122	1	4.5	5	0.05	0	0.68	1
+7000	857	80	3	789	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	857	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	857	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	857	80	3.6	68	76386	1	23.5	24	1.44	0.14	1.51	1
+Academic license - for non-commercial use only
+7000	857	80	3.8	37	56578	0	9	9	0.63	0.08	0	1
+Academic license - for non-commercial use only
+7000	857	80	4	22	20224	0	5	5	0.16	0.03	0	1
+7000	858	80	3	795	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	858	80	3.2	380	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	858	80	3.4	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	858	80	3.6	85	339083	0	32	32	5.49	0.61	0	1
+Academic license - for non-commercial use only
+7000	858	80	3.8	46	263143	0	14	14	2.32	0.3	1.4	1
+Academic license - for non-commercial use only
+7000	858	80	4	31	77948	0	10	10	0.44	0.11	0	1
+7000	859	80	3	870	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	859	80	3.2	359	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	859	80	3.4	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	859	80	3.6	89	76968	0	47	47	2.37	0.13	0	1
+Academic license - for non-commercial use only
+7000	859	80	3.8	42	51089	0	17	17	0.89	0.05	0	1
+Academic license - for non-commercial use only
+7000	859	80	4	22	6533	0	8	8	0.06	0	0	1
+7000	860	80	3	800	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	860	80	3.2	350	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	860	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	860	80	3.6	67	15371	0	31	31	0.49	0.02	0.14	1
+Academic license - for non-commercial use only
+7000	860	80	3.8	31	4985	0	11	11	0.06	0.01	0.03	1
+Academic license - for non-commercial use only
+7000	860	80	4	17	912	0	5	5	0	0	0	1
+7000	861	80	3	781	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	861	80	3.2	342	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	861	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	861	80	3.6	70	25301	0	30	30	0.85	0.05	0	1
+Academic license - for non-commercial use only
+7000	861	80	3.8	34	5143	0	15	15	0.08	0	0	1
+Academic license - for non-commercial use only
+7000	861	80	4	17	846	0	6	6	0	0	0	1
+7000	862	80	3	703	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	862	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	862	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	862	80	3.6	85	349207	0	29	29	11.8	0.69	2.92	1
+Academic license - for non-commercial use only
+7000	862	80	3.8	41	196410	1	10	10	2.85	0.32	0.9	1
+Academic license - for non-commercial use only
+7000	862	80	4	27	78535	0	6	6	0.78	0.13	0	1
+7000	863	80	3	905	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	863	80	3.2	390	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	863	80	3.4	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	863	80	3.6	78	18328	0	38	38	0.35	0.03	0.18	1
+Academic license - for non-commercial use only
+7000	863	80	3.8	30	10445	0	12	12	0.08	0	0	1
+Academic license - for non-commercial use only
+7000	863	80	4	20	6394	0	6	6	0.03	0.01	0	1
+7000	864	80	3	760	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	864	80	3.2	311	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	864	80	3.4	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	864	80	3.6	62	36149	1	21.3333	22	0.76	0.07	0.41	1
+Academic license - for non-commercial use only
+7000	864	80	3.8	30	22281	0	7	7	0.22	0.03	0.78	1
+Academic license - for non-commercial use only
+7000	864	80	4	15	1581	0	4	4	0.01	0	0	1
+7000	865	80	3	813	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	865	80	3.2	354	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	865	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	865	80	3.6	74	50890	0	35	35	1.25	0.1	0.38	1
+Academic license - for non-commercial use only
+7000	865	80	3.8	43	21650	0	20	20	0.35	0.02	0	1
+Academic license - for non-commercial use only
+7000	865	80	4	28	7836	0	12	12	0.08	0	0	1
+7000	866	80	3	795	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	866	80	3.2	338	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	866	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	866	80	3.6	76	41813	0	28	28	1.16	0.09	0.36	1
+Academic license - for non-commercial use only
+7000	866	80	3.8	36	25793	1	11	11	0.46	0.04	1.33	1
+Academic license - for non-commercial use only
+7000	866	80	4	20	6778	1	4.33333	5	0.05	0	0.06	1
+7000	867	80	3	992	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	867	80	3.2	410	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	867	80	3.4	184	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	867	80	3.6	88	25798	1	43.5	44	0.83	0.05	0.3	1
+Academic license - for non-commercial use only
+7000	867	80	3.8	45	11865	0	20	20	0.51	0.01	0.12	1
+Academic license - for non-commercial use only
+7000	867	80	4	20	2067	0	6	6	0.01	0	0	1
+7000	868	80	3	792	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	868	80	3.2	368	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	868	80	3.4	174	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	868	80	3.6	87	125849	1	32.25	33	3.55	0.34	2.75	1
+Academic license - for non-commercial use only
+7000	868	80	3.8	41	66489	0	10	10	1.01	0.09	0.57	1
+Academic license - for non-commercial use only
+7000	868	80	4	21	8853	1	5.2	6	0.06	0.01	0.07	1
+7000	869	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	869	80	3.2	287	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	869	80	3.4	128	169773	0	70	70	7.85	0.27	1.51	1
+Academic license - for non-commercial use only
+7000	869	80	3.6	66	304940	1	21.5	22	7.53	0.7	2.95	1
+Academic license - for non-commercial use only
+7000	869	80	3.8	38	261005	0	9	9	3.37	0.37	0	1
+Academic license - for non-commercial use only
+7000	869	80	4	23	67185	0	5	5	0.47	0.11	0.51	1
+7000	870	80	3	801	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	870	80	3.2	328	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	870	80	3.4	139	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	870	80	3.6	60	42307	0	22	22	0.92	0.09	0.87	1
+Academic license - for non-commercial use only
+7000	870	80	3.8	33	13563	0	10	10	0.13	0.02	0.48	1
+Academic license - for non-commercial use only
+7000	870	80	4	13	1021	0	4	4	0	0	0	1
+7000	871	80	3	765	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	871	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	871	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	871	80	3.6	78	336671	1	26.3721	27	12.62	0.65	3.22	1
+Academic license - for non-commercial use only
+7000	871	80	3.8	52	242416	0	14	14	8.14	0.48	1.07	1
+Academic license - for non-commercial use only
+7000	871	80	4	25	36648	0	5	5	0.37	0.06	0	1
+7000	872	80	3	834	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	872	80	3.2	365	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	872	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	872	80	3.6	73	63396	1	33	33	1.99	0.13	0.85	1
+Academic license - for non-commercial use only
+7000	872	80	3.8	41	35862	0	13	13	0.48	0.05	0.55	1
+Academic license - for non-commercial use only
+7000	872	80	4	20	5782	0	4	4	0.04	0.01	0	1
+7000	873	80	3	858	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	873	80	3.2	339	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	873	80	3.4	139	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	873	80	3.6	62	30670	0	26	26	0.77	0.07	0	1
+Academic license - for non-commercial use only
+7000	873	80	3.8	35	21389	1	11.5	12	0.23	0.03	0.74	1
+Academic license - for non-commercial use only
+7000	873	80	4	19	3180	0	5	5	0.01	0.01	0.02	1
+7000	874	80	3	805	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	874	80	3.2	355	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	874	80	3.4	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	874	80	3.6	87	486150	0	32	32	15.56	1.82	7.55	1
+Academic license - for non-commercial use only
+7000	874	80	3.8	49	388491	0	12	12	7.79	1.34	4.62	1
+Academic license - for non-commercial use only
+7000	874	80	4	28	117912	0	7	7	1.22	0.11	0	1
+7000	875	80	3	764	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	875	80	3.2	329	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	875	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	875	80	3.6	74	55512	1	23	23	1.02	0.15	0.57	1
+Academic license - for non-commercial use only
+7000	875	80	3.8	43	27570	1	12	12	0.31	0.04	0.23	1
+Academic license - for non-commercial use only
+7000	875	80	4	16	2289	0	4	4	0.01	0	0	1
+7000	876	80	3	814	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	876	80	3.2	363	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	876	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	876	80	3.6	81	142218	1	33	33	4.07	0.34	1.89	1
+Academic license - for non-commercial use only
+7000	876	80	3.8	38	70295	0	10	10	0.85	0.1	0.52	1
+Academic license - for non-commercial use only
+7000	876	80	4	19	12042	0	4	4	0.07	0.01	0.09	1
+7000	877	80	3	841	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	877	80	3.2	371	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	877	80	3.4	173	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	877	80	3.6	80	124079	1	27	27	2.42	0.38	3.19	1
+Academic license - for non-commercial use only
+7000	877	80	3.8	47	85458	0	12	12	1.49	0.18	0.85	1
+Academic license - for non-commercial use only
+7000	877	80	4	23	8813	0	7	7	0.11	0.01	0.32	1
+7000	878	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	878	80	3.2	315	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	878	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	878	80	3.6	69	35716	1	29.5	30	0.96	0.09	0.76	1
+Academic license - for non-commercial use only
+7000	878	80	3.8	33	14076	1	9	9	0.18	0.02	0.15	1
+Academic license - for non-commercial use only
+7000	878	80	4	19	1535	0	5	5	0.01	0	0	1
+7000	879	80	3	914	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	879	80	3.2	394	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	879	80	3.4	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	879	80	3.6	86	60603	0	43	43	3.12	0.16	0.64	1
+Academic license - for non-commercial use only
+7000	879	80	3.8	51	47476	0	20	20	0.91	0.07	0.28	1
+Academic license - for non-commercial use only
+7000	879	80	4	23	9686	0	5	5	0.16	0	0	1
+7000	880	80	3	752	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	880	80	3.2	324	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	880	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	880	80	3.6	71	119111	1	23	23	3.17	0.22	2.98	1
+Academic license - for non-commercial use only
+7000	880	80	3.8	32	98888	1	8.5	9	1.29	0.14	0.78	1
+Academic license - for non-commercial use only
+7000	880	80	4	25	66357	0	5	5	0.58	0.07	0.61	1
+7000	881	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	881	80	3.2	318	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	881	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	881	80	3.6	60	40847	0	23	23	0.78	0.07	0.57	1
+Academic license - for non-commercial use only
+7000	881	80	3.8	30	8195	0	8	8	0.07	0.01	0	1
+Academic license - for non-commercial use only
+7000	881	80	4	12	1439	0	2	2	0	0	0	1
+7000	882	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	882	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	882	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	882	80	3.6	70	240530	1	24.5	25	6.26	0.46	1.58	1
+Academic license - for non-commercial use only
+7000	882	80	3.8	34	115118	0	7	7	1.17	0.14	0.86	1
+Academic license - for non-commercial use only
+7000	882	80	4	21	38523	1	4	4	0.29	0.05	1.12	1
+7000	883	80	3	805	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	883	80	3.2	346	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	883	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	883	80	3.6	75	110650	0	31	31	3.01	0.19	2.44	1
+Academic license - for non-commercial use only
+7000	883	80	3.8	39	111165	0	14	14	1.44	0.16	0.72	1
+Academic license - for non-commercial use only
+7000	883	80	4	23	19797	0	7	7	0.18	0.02	0	1
+7000	884	80	3	755	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	884	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	884	80	3.4	161	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	884	80	3.6	79	299088	0	34	34	10.96	0.45	0	1
+Academic license - for non-commercial use only
+7000	884	80	3.8	37	224213	0	10	10	2.97	0.28	9.72	1
+Academic license - for non-commercial use only
+7000	884	80	4	25	75226	0	5	5	0.62	0.12	0.53	1
+7000	885	80	3	850	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	885	80	3.2	355	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	885	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	885	80	3.6	67	44251	0	32	32	0.66	0.07	0.71	1
+Academic license - for non-commercial use only
+7000	885	80	3.8	29	9558	0	8	8	0.08	0.01	0.25	1
+Academic license - for non-commercial use only
+7000	885	80	4	14	1065	0	3	3	0	0	0.01	1
+7000	886	80	3	751	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	886	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	886	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	886	80	3.6	72	42859	1	28	28	1.19	0.09	0.36	1
+Academic license - for non-commercial use only
+7000	886	80	3.8	35	12145	0	12	12	0.18	0.01	0	1
+Academic license - for non-commercial use only
+7000	886	80	4	16	1341	1	5	5	0	0	0.01	1
+7000	887	80	3	742	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	887	80	3.2	309	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	887	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	887	80	3.6	82	154056	0	42	42	2.74	0.31	1.05	1
+Academic license - for non-commercial use only
+7000	887	80	3.8	43	76826	0	19	19	0.85	0.13	0	1
+Academic license - for non-commercial use only
+7000	887	80	4	19	8486	0	6	6	0.05	0.01	0	1
+7000	888	80	3	818	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	888	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	888	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	888	80	3.6	71	20911	0	30	30	0.36	0.03	0.18	1
+Academic license - for non-commercial use only
+7000	888	80	3.8	35	7633	0	12	12	0.05	0.01	0	1
+Academic license - for non-commercial use only
+7000	888	80	4	20	1475	0	7	7	0	0	0	1
+7000	889	80	3	767	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	889	80	3.2	353	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	889	80	3.4	148	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	889	80	3.6	77	76303	0	28	28	1.7	0.15	1.4	1
+Academic license - for non-commercial use only
+7000	889	80	3.8	39	33880	0	11	11	0.41	0.04	0.25	1
+Academic license - for non-commercial use only
+7000	889	80	4	16	1355	0	5	5	0	0	0	1
+7000	890	80	3	776	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	890	80	3.2	326	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	890	80	3.4	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	890	80	3.6	76	114228	0	32	32	3.64	0.19	2.16	1
+Academic license - for non-commercial use only
+7000	890	80	3.8	41	87893	0	13	13	1.25	0.18	0	1
+Academic license - for non-commercial use only
+7000	890	80	4	29	46861	0	7	7	0.58	0.06	0	1
+7000	891	80	3	760	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	891	80	3.2	316	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	891	80	3.4	133	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	891	80	3.6	66	229764	0	23	23	4.82	0.53	2.26	1
+Academic license - for non-commercial use only
+7000	891	80	3.8	39	221548	0	12	12	3.59	0.27	4.95	1
+Academic license - for non-commercial use only
+7000	891	80	4	26	43950	1	6	6	0.74	0.19	0.69	1
+7000	892	80	3	721	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	892	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	892	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	892	80	3.6	80	60434	1	31	31	2.2	0.27	1.49	1
+Academic license - for non-commercial use only
+7000	892	80	3.8	32	21427	0	10	10	0.4	0.06	0.26	1
+Academic license - for non-commercial use only
+7000	892	80	4	20	4485	0	5	5	0.04	0	0	1
+7000	893	80	3	753	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	893	80	3.2	326	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	893	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	893	80	3.6	78	107072	0	31	31	4.21	0.36	1.01	1
+Academic license - for non-commercial use only
+7000	893	80	3.8	40	17614	0	14	14	0.39	0.07	0.14	1
+Academic license - for non-commercial use only
+7000	893	80	4	13	464	0	5	5	0	0	0	1
+7000	894	80	3	728	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	894	80	3.2	298	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	894	80	3.4	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	894	80	3.6	72	51681	1	29	29	1.1	0.07	0.69	1
+Academic license - for non-commercial use only
+7000	894	80	3.8	30	24818	0	7	7	0.22	0.04	0.68	1
+Academic license - for non-commercial use only
+7000	894	80	4	17	6956	1	4	4	0.05	0	0.08	1
+7000	895	80	3	687	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	895	80	3.2	279	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	895	80	3.4	122	60437	0	57	57	4.2	0.17	2.13	1
+Academic license - for non-commercial use only
+7000	895	80	3.6	60	72752	1	17.05	18	1.44	0.19	1.86	1
+Academic license - for non-commercial use only
+7000	895	80	3.8	25	47319	0	5	5	0.7	0.12	0	1
+Academic license - for non-commercial use only
+7000	895	80	4	14	4183	0	2	2	0.02	0.01	0	1
+7000	896	80	3	873	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	896	80	3.2	347	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	896	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	896	80	3.6	77	138443	1	32	32	3.71	0.34	2.88	1
+Academic license - for non-commercial use only
+7000	896	80	3.8	41	142065	0	11	11	2.27	0.25	5.35	1
+Academic license - for non-commercial use only
+7000	896	80	4	23	13362	0	7	7	0.11	0.03	0.2	1
+7000	897	80	3	747	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	897	80	3.2	308	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	897	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	897	80	3.6	65	72577	1	24.5	25	1.8	0.28	1.33	1
+Academic license - for non-commercial use only
+7000	897	80	3.8	34	35494	0	8	8	0.62	0.17	0.54	1
+Academic license - for non-commercial use only
+7000	897	80	4	19	4970	0	5	5	0.04	0.01	0	1
+7000	898	80	3	828	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	898	80	3.2	357	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	898	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	898	80	3.6	77	22073	0	35	35	0.51	0.04	0.18	1
+Academic license - for non-commercial use only
+7000	898	80	3.8	38	9559	0	14	14	0.15	0.01	0.06	1
+Academic license - for non-commercial use only
+7000	898	80	4	19	1314	0	7	7	0.01	0.01	0	1
+7000	899	80	3	819	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	899	80	3.2	347	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	899	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	899	80	3.6	68	61098	0	25	25	0.94	0.12	0.43	1
+Academic license - for non-commercial use only
+7000	899	80	3.8	39	40917	1	11	11	0.49	0.07	1.62	1
+Academic license - for non-commercial use only
+7000	899	80	4	21	7958	0	5	5	0.08	0.01	0	1
+7000	900	80	3	780	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	900	80	3.2	330	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	900	80	3.4	163	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	900	80	3.6	75	145841	1	27.625	28	5.75	0.28	3.29	1
+Academic license - for non-commercial use only
+7000	900	80	3.8	32	120024	0	7	7	1.44	0.15	8.78	1
+Academic license - for non-commercial use only
+7000	900	80	4	20	45478	0	3	3	0.28	0.06	0.41	1
+7000	901	80	3	787	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	901	80	3.2	339	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	901	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	901	80	3.6	68	91330	0	26	26	3.1	0.5	1.07	1
+Academic license - for non-commercial use only
+7000	901	80	3.8	41	47359	0	12	12	0.78	0.09	0.91	1
+Academic license - for non-commercial use only
+7000	901	80	4	17	2241	0	4	4	0.01	0	0	1
+7000	902	80	3	754	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	902	80	3.2	347	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	902	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	902	80	3.6	80	171693	1	25.1957	26	6.95	0.45	3	1
+Academic license - for non-commercial use only
+7000	902	80	3.8	40	86502	0	13	13	1.35	0.15	1.79	1
+Academic license - for non-commercial use only
+7000	902	80	4	22	15392	0	5	5	0.14	0.01	0	1
+7000	903	80	3	739	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	903	80	3.2	318	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	903	80	3.4	132	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	903	80	3.6	59	158618	0	18	18	3.77	0.3	4.39	1
+Academic license - for non-commercial use only
+7000	903	80	3.8	35	118679	0	7	7	1.53	0.13	4.97	1
+Academic license - for non-commercial use only
+7000	903	80	4	25	21646	0	5	5	0.19	0.02	0	1
+7000	904	80	3	705	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	904	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	904	80	3.4	135	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	904	80	3.6	64	51172	1	20.7333	21	1.42	0.12	1	1
+Academic license - for non-commercial use only
+7000	904	80	3.8	32	33909	0	9	9	0.48	0.05	0	1
+Academic license - for non-commercial use only
+7000	904	80	4	16	2005	0	4	4	0.01	0	0	1
+7000	905	80	3	786	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	905	80	3.2	314	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	905	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	905	80	3.6	61	28494	0	23	23	0.67	0.08	0	1
+Academic license - for non-commercial use only
+7000	905	80	3.8	34	11153	1	9.5	10	0.17	0.01	0.11	1
+Academic license - for non-commercial use only
+7000	905	80	4	16	1511	0	5	5	0.01	0	0	1
+7000	906	80	3	819	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	906	80	3.2	349	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	906	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	906	80	3.6	66	23441	0	32	32	0.67	0.02	0	1
+Academic license - for non-commercial use only
+7000	906	80	3.8	40	16069	0	16	16	0.22	0.02	0.12	1
+Academic license - for non-commercial use only
+7000	906	80	4	21	1313	0	9	9	0	0	0	1
+7000	907	80	3	782	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	907	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	907	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	907	80	3.6	85	290015	1	31	31	8.75	0.68	2.75	1
+Academic license - for non-commercial use only
+7000	907	80	3.8	44	212140	0	12	12	3.28	0.38	1.86	1
+Academic license - for non-commercial use only
+7000	907	80	4	25	41409	0	5	5	0.39	0.06	0	1
+7000	908	80	3	812	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	908	80	3.2	350	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	908	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	908	80	3.6	79	44782	0	40	40	0.71	0.06	0.4	1
+Academic license - for non-commercial use only
+7000	908	80	3.8	35	24813	0	15	15	0.23	0.02	0	1
+Academic license - for non-commercial use only
+7000	908	80	4	18	5578	0	6	6	0.02	0.01	0	1
+7000	909	80	3	847	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	909	80	3.2	357	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	909	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	909	80	3.6	78	79115	0	32	32	1.83	0.12	1.53	1
+Academic license - for non-commercial use only
+7000	909	80	3.8	36	54195	0	9	9	0.44	0.11	0.44	1
+Academic license - for non-commercial use only
+7000	909	80	4	24	14587	1	7	7	0.14	0.01	0.12	1
+7000	910	80	3	736	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	910	80	3.2	326	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	910	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	910	80	3.6	80	448391	0	30	30	9.83	1.64	5.26	1
+Academic license - for non-commercial use only
+7000	910	80	3.8	45	293369	0	13	13	3.26	0.6	1.33	1
+Academic license - for non-commercial use only
+7000	910	80	4	33	123737	1	8	8	1.19	0.21	1.22	1
+7000	911	80	3	927	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	911	80	3.2	390	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	911	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	911	80	3.6	86	33381	0	47	47	1.05	0.06	0	1
+Academic license - for non-commercial use only
+7000	911	80	3.8	37	17876	0	15	15	0.22	0.02	0	1
+Academic license - for non-commercial use only
+7000	911	80	4	18	2159	0	6	6	0.02	0.01	0.02	1
+7000	912	80	3	720	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	912	80	3.2	303	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	912	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	912	80	3.6	72	350458	0	21	21	12.05	0.69	3.74	1
+Academic license - for non-commercial use only
+7000	912	80	3.8	43	210548	0	10	10	3.39	0.32	0	1
+Academic license - for non-commercial use only
+7000	912	80	4	23	39107	0	5	5	0.34	0.04	0.36	1
+7000	913	80	3	771	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	913	80	3.2	323	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	913	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	913	80	3.6	66	32554	1	23.5357	24	0.86	0.08	0.36	1
+Academic license - for non-commercial use only
+7000	913	80	3.8	27	6464	0	10	10	0.09	0.01	0	1
+Academic license - for non-commercial use only
+7000	913	80	4	11	767	0	3	3	0	0	0	1
+7000	914	80	3	744	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	914	80	3.2	295	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	914	80	3.4	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	914	80	3.6	63	89192	0	22	22	2.51	0.14	0	1
+Academic license - for non-commercial use only
+7000	914	80	3.8	32	73731	1	7	7	1.2	0.07	3.1	1
+Academic license - for non-commercial use only
+7000	914	80	4	21	25933	0	4	4	0.2	0.03	0	1
+7000	915	80	3	710	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	915	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	915	80	3.4	146	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	915	80	3.6	67	121342	0	22	22	1.69	0.26	2.31	1
+Academic license - for non-commercial use only
+7000	915	80	3.8	35	74524	0	8	8	0.59	0.09	0	1
+Academic license - for non-commercial use only
+7000	915	80	4	21	7615	0	5	5	0.04	0	0	1
+7000	916	80	3	692	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	916	80	3.2	293	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	916	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	916	80	3.6	83	455207	1	27.4	28	11.88	2.73	7.98	1
+Academic license - for non-commercial use only
+7000	916	80	3.8	40	268787	1	8	8	3.69	0.62	2.55	1
+Academic license - for non-commercial use only
+7000	916	80	4	23	33218	0	5	5	0.21	0.06	0	1
+7000	917	80	3	738	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	917	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	917	80	3.4	136	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	917	80	3.6	67	142998	1	29	29	1.7	0.21	0.8	1
+Academic license - for non-commercial use only
+7000	917	80	3.8	36	87132	0	11	11	0.77	0.11	0.67	1
+Academic license - for non-commercial use only
+7000	917	80	4	21	21550	0	5	5	0.1	0.03	0	1
+7000	918	80	3	744	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	918	80	3.2	313	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	918	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	918	80	3.6	72	110728	0	31	31	2.53	0.17	1.5	1
+Academic license - for non-commercial use only
+7000	918	80	3.8	35	62748	1	13	13	0.99	0.09	0.5	1
+Academic license - for non-commercial use only
+7000	918	80	4	20	17254	1	5	5	0.1	0.01	0.14	1
+7000	919	80	3	764	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	919	80	3.2	337	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	919	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	919	80	3.6	69	92831	0	25	25	2.43	0.19	0	1
+Academic license - for non-commercial use only
+7000	919	80	3.8	33	104786	0	8	8	1.14	0.16	0	1
+Academic license - for non-commercial use only
+7000	919	80	4	21	28592	0	4	4	0.21	0.03	0	1
+7000	920	80	3	869	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	920	80	3.2	356	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	920	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	920	80	3.6	75	94703	0	29	29	2.53	0.19	0.98	1
+Academic license - for non-commercial use only
+7000	920	80	3.8	45	105198	1	11.5	12	1.47	0.21	3.17	1
+Academic license - for non-commercial use only
+7000	920	80	4	31	40892	0	7	7	0.5	0.06	1.87	1
+7000	921	80	3	803	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	921	80	3.2	334	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	921	80	3.4	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	921	80	3.6	75	45512	0	29	29	0.58	0.09	0.44	1
+Academic license - for non-commercial use only
+7000	921	80	3.8	38	21580	0	11	11	0.18	0.03	0	1
+Academic license - for non-commercial use only
+7000	921	80	4	18	4535	0	5	5	0.02	0	0	1
+7000	922	80	3	760	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	922	80	3.2	307	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	922	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	922	80	3.6	71	144781	0	25	25	4.26	0.3	2.77	1
+Academic license - for non-commercial use only
+7000	922	80	3.8	35	55157	0	8	8	0.71	0.1	0	1
+Academic license - for non-commercial use only
+7000	922	80	4	17	4634	0	3	3	0.02	0.01	0	1
+7000	923	80	3	816	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	923	80	3.2	371	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	923	80	3.4	176	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	923	80	3.6	93	56380	0	46	46	2.06	0.08	0	1
+Academic license - for non-commercial use only
+7000	923	80	3.8	44	22854	0	16	16	0.42	0.04	0.18	1
+Academic license - for non-commercial use only
+7000	923	80	4	25	6851	0	7	7	0.12	0	0	1
+7000	924	80	3	820	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	924	80	3.2	355	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	924	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	924	80	3.6	77	139509	0	33	33	4.74	0.31	0.98	1
+Academic license - for non-commercial use only
+7000	924	80	3.8	41	119002	0	13	13	1.99	0.22	3.61	1
+Academic license - for non-commercial use only
+7000	924	80	4	21	18320	0	6	6	0.11	0.02	0	1
+7000	925	80	3	790	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	925	80	3.2	343	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	925	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	925	80	3.6	74	60467	0	28	28	0.75	0.12	0	1
+Academic license - for non-commercial use only
+7000	925	80	3.8	42	41094	1	14	14	0.41	0.06	0.38	1
+Academic license - for non-commercial use only
+7000	925	80	4	24	9915	0	7	7	0.05	0	0	1
+7000	926	80	3	786	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	926	80	3.2	358	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	926	80	3.4	169	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	926	80	3.6	75	106697	1	31	31	2.51	0.2	1.03	1
+Academic license - for non-commercial use only
+7000	926	80	3.8	35	34816	0	9	9	0.31	0.03	0	1
+Academic license - for non-commercial use only
+7000	926	80	4	21	6568	0	6	6	0.03	0.01	0	1
+7000	927	80	3	781	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	927	80	3.2	326	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	927	80	3.4	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	927	80	3.6	62	16046	1	28	28	0.22	0.02	0.1	1
+Academic license - for non-commercial use only
+7000	927	80	3.8	31	5087	0	10	10	0.03	0	0	1
+Academic license - for non-commercial use only
+7000	927	80	4	15	1319	0	5	5	0	0	0	1
+7000	928	80	3	738	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	928	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	928	80	3.4	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	928	80	3.6	72	155621	0	32	32	3.09	0.21	0	1
+Academic license - for non-commercial use only
+7000	928	80	3.8	33	115428	0	9	9	1.19	0.12	0.89	1
+Academic license - for non-commercial use only
+7000	928	80	4	21	26687	0	4	4	0.19	0.04	0.24	1
+7000	929	80	3	776	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	929	80	3.2	348	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	929	80	3.4	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	929	80	3.6	74	190559	1	27.5	28	5.69	0.32	1.81	1
+Academic license - for non-commercial use only
+7000	929	80	3.8	36	113705	1	7	7	1.48	0.14	0.77	1
+Academic license - for non-commercial use only
+7000	929	80	4	25	44834	0	7	7	0.41	0.05	0.36	1
+7000	930	80	3	824	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	930	80	3.2	406	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	930	80	3.4	214	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	930	80	3.6	112	98608	0	48	48	3.35	0.19	0.89	1
+Academic license - for non-commercial use only
+7000	930	80	3.8	52	28121	0	21	21	0.55	0.04	0	1
+Academic license - for non-commercial use only
+7000	930	80	4	26	8987	0	11	11	0.11	0.01	0	1
+7000	931	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	931	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	931	80	3.4	138	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	931	80	3.6	63	48946	1	20	20	1.01	0.12	0.41	1
+Academic license - for non-commercial use only
+7000	931	80	3.8	35	28259	1	8.5	9	0.36	0.05	1.18	1
+Academic license - for non-commercial use only
+7000	931	80	4	14	1340	0	4	4	0	0	0.01	1
+7000	932	80	3	838	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	932	80	3.2	359	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	932	80	3.4	175	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	932	80	3.6	88	79194	0	36	36	3.01	0.14	0	1
+Academic license - for non-commercial use only
+7000	932	80	3.8	46	50295	0	15	15	1.25	0.05	0.48	1
+Academic license - for non-commercial use only
+7000	932	80	4	29	7693	1	9.5	10	0.15	0	0.06	1
+7000	933	80	3	859	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	933	80	3.2	361	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	933	80	3.4	177	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	933	80	3.6	88	450653	0	40	40	20.41	1.78	6.05	1
+Academic license - for non-commercial use only
+7000	933	80	3.8	48	363791	1	14	14	6.68	1.22	4.12	1
+Academic license - for non-commercial use only
+7000	933	80	4	31	94635	0	8	8	1.27	0.21	1.03	1
+7000	934	80	3	819	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	934	80	3.2	356	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	934	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	934	80	3.6	69	79229	0	23	23	1.34	0.18	0.51	1
+Academic license - for non-commercial use only
+7000	934	80	3.8	35	33225	0	9	9	0.36	0.04	0.27	1
+Academic license - for non-commercial use only
+7000	934	80	4	17	5971	0	4	4	0.05	0.01	0.06	1
+7000	935	80	3	774	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	935	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	935	80	3.4	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	935	80	3.6	64	62354	1	26.5	27	2.01	0.08	1.09	1
+Academic license - for non-commercial use only
+7000	935	80	3.8	34	32933	1	9.5	10	0.47	0.05	4.54	1
+Academic license - for non-commercial use only
+7000	935	80	4	17	3624	0	4	4	0.02	0	0	1
+7000	936	80	3	764	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	936	80	3.2	315	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	936	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	936	80	3.6	69	353890	0	23	23	5.74	0.51	2.2	1
+Academic license - for non-commercial use only
+7000	936	80	3.8	47	292232	0	11	11	2.93	0.39	3.35	1
+Academic license - for non-commercial use only
+7000	936	80	4	26	95683	0	8	8	0.65	0.1	0	1
+7000	937	80	3	733	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	937	80	3.2	315	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	937	80	3.4	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	937	80	3.6	56	30626	0	19	19	0.61	0.07	0.24	1
+Academic license - for non-commercial use only
+7000	937	80	3.8	28	12394	0	8	8	0.12	0.01	0	1
+Academic license - for non-commercial use only
+7000	937	80	4	15	393	0	5	5	0	0	0	1
+7000	938	80	3	895	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	938	80	3.2	372	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	938	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	938	80	3.6	73	11073	0	35	35	0.18	0.02	0.08	1
+Academic license - for non-commercial use only
+7000	938	80	3.8	30	4584	1	10.3333	11	0.03	0	0.03	1
+Academic license - for non-commercial use only
+7000	938	80	4	16	1445	0	4	4	0	0	0.01	1
+7000	939	80	3	713	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	939	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	939	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	939	80	3.6	69	92738	0	23	23	1.76	0.18	1.91	1
+Academic license - for non-commercial use only
+7000	939	80	3.8	35	22019	0	10	10	0.26	0.02	1.18	1
+Academic license - for non-commercial use only
+7000	939	80	4	16	2548	0	4	4	0.01	0	0	1
+7000	940	80	3	823	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	940	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	940	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	940	80	3.6	87	301106	0	34	34	7.88	0.59	2.64	1
+Academic license - for non-commercial use only
+7000	940	80	3.8	47	243424	1	15	15	2.51	0.49	2.45	1
+Academic license - for non-commercial use only
+7000	940	80	4	27	41284	0	6	6	0.3	0.05	0.34	1
+7000	941	80	3	718	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	941	80	3.2	301	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	941	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	941	80	3.6	68	259116	0	27	27	7.23	0.35	2.08	1
+Academic license - for non-commercial use only
+7000	941	80	3.8	41	134123	1	9	9	2.42	0.19	1.77	1
+Academic license - for non-commercial use only
+7000	941	80	4	23	7871	0	6	6	0.07	0.01	0	1
+7000	942	80	3	714	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	942	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	942	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	942	80	3.6	70	75397	1	19.5	20	1.82	0.16	1.3	1
+Academic license - for non-commercial use only
+7000	942	80	3.8	38	23644	1	8.5	9	0.35	0.05	0.98	1
+Academic license - for non-commercial use only
+7000	942	80	4	11	383	0	3	3	0	0	0	1
+7000	943	80	3	762	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	943	80	3.2	315	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	943	80	3.4	145	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	943	80	3.6	67	387125	0	20	20	5.54	2.26	3.98	1
+Academic license - for non-commercial use only
+7000	943	80	3.8	46	232665	0	13	13	2.96	0.33	0	1
+Academic license - for non-commercial use only
+7000	943	80	4	23	6346	0	8	8	0.04	0.01	0.04	1
+7000	944	80	3	806	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	944	80	3.2	360	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	944	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	944	80	3.6	73	32231	1	30	30	0.72	0.05	0.49	1
+Academic license - for non-commercial use only
+7000	944	80	3.8	35	12545	0	11	11	0.14	0.02	0.36	1
+Academic license - for non-commercial use only
+7000	944	80	4	19	1927	0	6	6	0.01	0	0	1
+7000	945	80	3	833	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	945	80	3.2	356	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	945	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	945	80	3.6	70	20411	0	32	32	0.3	0.02	0	1
+Academic license - for non-commercial use only
+7000	945	80	3.8	30	20391	0	9	9	0.14	0.02	0	1
+Academic license - for non-commercial use only
+7000	945	80	4	21	8046	0	6	6	0.03	0.01	0.23	1
+7000	946	80	3	835	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	946	80	3.2	363	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	946	80	3.4	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	946	80	3.6	80	53584	1	26.7059	27	1.14	0.17	1.21	1
+Academic license - for non-commercial use only
+7000	946	80	3.8	48	23619	1	18	18	0.37	0.03	0.2	1
+Academic license - for non-commercial use only
+7000	946	80	4	21	6373	0	6	6	0.04	0	0	1
+7000	947	80	3	752	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	947	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	947	80	3.4	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	947	80	3.6	72	220564	1	22.1429	23	6.03	0.41	2.17	1
+Academic license - for non-commercial use only
+7000	947	80	3.8	38	100757	1	11	11	1.48	0.19	0.81	1
+Academic license - for non-commercial use only
+7000	947	80	4	21	15970	0	6	6	0.1	0	0	1
+7000	948	80	3	737	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	948	80	3.2	325	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	948	80	3.4	134	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	948	80	3.6	72	76373	0	23	23	2.11	0.2	0	1
+Academic license - for non-commercial use only
+7000	948	80	3.8	37	39429	1	10	10	0.54	0.07	1.52	1
+Academic license - for non-commercial use only
+7000	948	80	4	23	9988	0	7	7	0.09	0	0	1
+7000	949	80	3	808	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	949	80	3.2	359	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	949	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	949	80	3.6	77	337490	1	20.75	21	7.52	0.77	15.91	1
+Academic license - for non-commercial use only
+7000	949	80	3.8	50	441457	0	13	13	7.35	1.19	3.99	1
+Academic license - for non-commercial use only
+7000	949	80	4	29	97735	0	7	7	0.75	0.08	3.27	1
+7000	950	80	3	826	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	950	80	3.2	346	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	950	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	950	80	3.6	70	62480	1	27.3333	28	0.65	0.13	0.76	1
+Academic license - for non-commercial use only
+7000	950	80	3.8	36	23362	1	11	11	0.21	0.03	0.2	1
+Academic license - for non-commercial use only
+7000	950	80	4	15	783	1	6	6	0	0	0.01	1
+7000	951	80	3	818	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	951	80	3.2	336	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	951	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	951	80	3.6	78	49307	0	43	43	1.74	0.06	0	1
+Academic license - for non-commercial use only
+7000	951	80	3.8	35	25383	0	9	9	0.3	0.04	0.21	1
+Academic license - for non-commercial use only
+7000	951	80	4	22	12514	0	6	6	0.1	0.01	0	1
+7000	952	80	3	763	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	952	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	952	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	952	80	3.6	79	176941	1	24.5373	25	1.99	0.41	2.87	1
+Academic license - for non-commercial use only
+7000	952	80	3.8	44	44315	0	12	12	0.46	0.08	0.88	1
+Academic license - for non-commercial use only
+7000	952	80	4	19	5039	0	4	4	0.03	0	0	1
+7000	953	80	3	906	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	953	80	3.2	384	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	953	80	3.4	184	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	953	80	3.6	89	100524	0	34	34	3.13	0.19	0.68	1
+Academic license - for non-commercial use only
+7000	953	80	3.8	47	60326	0	14	14	1.32	0.09	0	1
+Academic license - for non-commercial use only
+7000	953	80	4	21	10172	0	5	5	0.08	0.01	0	1
+7000	954	80	3	759	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	954	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	954	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	954	80	3.6	75	606804	0	21	21	11.3	0.75	9.28	1
+Academic license - for non-commercial use only
+7000	954	80	3.8	51	394971	1	11	11	6.36	1.61	5.09	1
+Academic license - for non-commercial use only
+7000	954	80	4	29	187931	0	6	6	2.16	0.42	0.93	1
+7000	955	80	3	749	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	955	80	3.2	319	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	955	80	3.4	157	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	955	80	3.6	71	95381	0	25	25	2.99	0.23	1.32	1
+Academic license - for non-commercial use only
+7000	955	80	3.8	34	42962	0	10	10	0.59	0.05	0.34	1
+Academic license - for non-commercial use only
+7000	955	80	4	19	5556	0	5	5	0.04	0	0	1
+7000	956	80	3	717	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	956	80	3.2	368	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	956	80	3.4	203	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	956	80	3.6	109	3088769	0	46	46	141.15	3.42	47.79	1
+Academic license - for non-commercial use only
+7000	956	80	3.8	72	2418578	1	30	30	75.91	6.62	88.06	1
+Academic license - for non-commercial use only
+7000	956	80	4	49	235730	0	24	24	4.54	0.15	0	1
+7000	957	80	3	702	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	957	80	3.2	326	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	957	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	957	80	3.6	72	143626	0	28	28	3.75	0.31	0	1
+Academic license - for non-commercial use only
+7000	957	80	3.8	37	86608	0	8	8	1.67	0.17	0.84	1
+Academic license - for non-commercial use only
+7000	957	80	4	22	23480	0	5	5	0.18	0.01	0	1
+7000	958	80	3	803	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	958	80	3.2	358	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	958	80	3.4	170	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	958	80	3.6	75	60195	0	27	27	1.33	0.12	0.91	1
+Academic license - for non-commercial use only
+7000	958	80	3.8	39	14865	0	12	12	0.24	0.03	0	1
+Academic license - for non-commercial use only
+7000	958	80	4	19	4826	0	6	6	0.04	0	0	1
+7000	959	80	3	778	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	959	80	3.2	341	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	959	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	959	80	3.6	66	155313	0	27	27	5.06	0.21	3.05	1
+Academic license - for non-commercial use only
+7000	959	80	3.8	37	87193	0	10	10	1.64	0.17	0	1
+Academic license - for non-commercial use only
+7000	959	80	4	20	20576	0	5	5	0.14	0.01	0	1
+7000	960	80	3	777	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	960	80	3.2	324	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	960	80	3.4	149	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	960	80	3.6	76	174594	0	33	33	6.12	0.39	4	1
+Academic license - for non-commercial use only
+7000	960	80	3.8	36	91446	1	10.6667	11	0.97	0.1	0.68	1
+Academic license - for non-commercial use only
+7000	960	80	4	19	8556	0	4	4	0.05	0	0	1
+7000	961	80	3	782	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	961	80	3.2	332	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	961	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	961	80	3.6	60	22107	0	28	28	0.54	0.02	0	1
+Academic license - for non-commercial use only
+7000	961	80	3.8	32	13593	0	11	11	0.22	0.01	0.11	1
+Academic license - for non-commercial use only
+7000	961	80	4	17	3409	0	5	5	0.02	0.01	0.02	1
+7000	962	80	3	859	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	962	80	3.2	380	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	962	80	3.4	166	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	962	80	3.6	87	167096	0	29	29	5.29	0.51	0	1
+Academic license - for non-commercial use only
+7000	962	80	3.8	50	103099	1	15.8	16	2.17	0.15	4.44	1
+Academic license - for non-commercial use only
+7000	962	80	4	26	35159	1	5.5	6	0.36	0.04	0.35	1
+7000	963	80	3	720	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	963	80	3.2	308	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	963	80	3.4	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	963	80	3.6	72	716563	1	22.75	23	22.71	6.19	12.96	1
+Academic license - for non-commercial use only
+7000	963	80	3.8	43	529948	1	12	12	9.01	1.5	4.63	1
+Academic license - for non-commercial use only
+7000	963	80	4	29	52558	0	9	9	0.43	0.06	0.42	1
+7000	964	80	3	764	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	964	80	3.2	307	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	964	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	964	80	3.6	65	327826	1	21	21	7.99	0.51	2.83	1
+Academic license - for non-commercial use only
+7000	964	80	3.8	43	178075	0	11	11	2.41	0.24	1.37	1
+Academic license - for non-commercial use only
+7000	964	80	4	22	10828	0	6	6	0.06	0.01	0	1
+7000	965	80	3	773	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	965	80	3.2	345	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	965	80	3.4	155	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	965	80	3.6	71	116238	1	33	33	2.87	0.16	0.7	1
+Academic license - for non-commercial use only
+7000	965	80	3.8	38	77716	0	11	11	0.91	0.13	4.84	1
+Academic license - for non-commercial use only
+7000	965	80	4	24	8812	1	8	8	0.05	0.01	0.07	1
+7000	966	80	3	860	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	966	80	3.2	361	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	966	80	3.4	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	966	80	3.6	95	430000	1	33	33	10.36	1.02	5.74	1
+Academic license - for non-commercial use only
+7000	966	80	3.8	53	336717	1	14	14	4.83	0.47	3.45	1
+Academic license - for non-commercial use only
+7000	966	80	4	26	50568	1	4.66667	5	0.33	0.1	2	1
+7000	967	80	3	747	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	967	80	3.2	321	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	967	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	967	80	3.6	64	75585	0	29	29	1.36	0.11	0.84	1
+Academic license - for non-commercial use only
+7000	967	80	3.8	32	37668	0	9	9	0.27	0.03	0.29	1
+Academic license - for non-commercial use only
+7000	967	80	4	18	8554	0	4	4	0.06	0	0	1
+7000	968	80	3	777	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	968	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	968	80	3.4	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	968	80	3.6	61	39094	0	23	23	1.03	0.06	1.02	1
+Academic license - for non-commercial use only
+7000	968	80	3.8	29	21549	1	7	7	0.27	0.02	0.76	1
+Academic license - for non-commercial use only
+7000	968	80	4	18	7313	0	4	4	0.06	0.01	0.26	1
+7000	969	80	3	856	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	969	80	3.2	377	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	969	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	969	80	3.6	74	21716	0	34	34	0.41	0.03	0.16	1
+Academic license - for non-commercial use only
+7000	969	80	3.8	37	14969	0	12	12	0.16	0.02	0.13	1
+Academic license - for non-commercial use only
+7000	969	80	4	22	5696	1	5.5	6	0.03	0.01	0.04	1
+7000	970	80	3	720	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	970	80	3.2	349	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	970	80	3.4	172	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	970	80	3.6	83	102702	0	37	37	3.93	0.21	0	1
+Academic license - for non-commercial use only
+7000	970	80	3.8	37	57135	0	12	12	0.97	0.1	0.56	1
+Academic license - for non-commercial use only
+7000	970	80	4	16	2559	0	4	4	0.01	0	0	1
+7000	971	80	3	731	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	971	80	3.2	303	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	971	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	971	80	3.6	75	187534	1	26	26	6.87	0.38	1.22	1
+Academic license - for non-commercial use only
+7000	971	80	3.8	41	98002	0	12	12	2.09	0.21	1.08	1
+Academic license - for non-commercial use only
+7000	971	80	4	24	12597	0	7	7	0.2	0.01	0	1
+7000	972	80	3	850	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	972	80	3.2	344	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	972	80	3.4	164	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	972	80	3.6	82	76520	1	36	36	2.53	0.14	0.49	1
+Academic license - for non-commercial use only
+7000	972	80	3.8	45	43131	0	17	17	0.78	0.06	0.24	1
+Academic license - for non-commercial use only
+7000	972	80	4	23	14809	0	5	5	0.19	0.02	0	1
+7000	973	80	3	665	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	973	80	3.2	308	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	973	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	973	80	3.6	70	225425	0	24	24	6.04	0.4	2.22	1
+Academic license - for non-commercial use only
+7000	973	80	3.8	40	138434	0	11	11	2.08	0.21	1.85	1
+Academic license - for non-commercial use only
+7000	973	80	4	24	36227	0	5	5	0.31	0.04	0	1
+7000	974	80	3	770	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	974	80	3.2	320	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	974	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	974	80	3.6	87	346426	0	38	38	8.1	0.57	3.58	1
+Academic license - for non-commercial use only
+7000	974	80	3.8	48	233221	0	19	19	4.63	0.48	1.34	1
+Academic license - for non-commercial use only
+7000	974	80	4	25	49763	0	8	8	0.64	0.14	0	1
+7000	975	80	3	813	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	975	80	3.2	358	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	975	80	3.4	154	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	975	80	3.6	67	61918	1	25.3333	26	1.74	0.16	1.9	1
+Academic license - for non-commercial use only
+7000	975	80	3.8	33	27924	0	9	9	0.35	0.06	4.81	1
+Academic license - for non-commercial use only
+7000	975	80	4	20	8819	0	5	5	0.07	0.01	0	1
+7000	976	80	3	803	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	976	80	3.2	328	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	976	80	3.4	156	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	976	80	3.6	77	95089	1	26.1894	27	2.54	0.28	3.27	1
+Academic license - for non-commercial use only
+7000	976	80	3.8	34	105759	0	8	8	1.39	0.13	0.68	1
+Academic license - for non-commercial use only
+7000	976	80	4	22	18470	0	5	5	0.16	0.02	0	1
+7000	977	80	3	855	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	977	80	3.2	375	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	977	80	3.4	171	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	977	80	3.6	83	18745	0	45	45	0.53	0.03	0.12	1
+Academic license - for non-commercial use only
+7000	977	80	3.8	28	7104	0	10	10	0.06	0.01	0	1
+Academic license - for non-commercial use only
+7000	977	80	4	18	1943	0	6	6	0	0.01	0.01	1
+7000	978	80	3	755	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	978	80	3.2	318	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	978	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	978	80	3.6	69	29340	1	26.5	27	0.85	0.04	0.31	1
+Academic license - for non-commercial use only
+7000	978	80	3.8	32	10091	1	11	11	0.14	0.01	0.06	1
+Academic license - for non-commercial use only
+7000	978	80	4	18	2613	0	6	6	0.01	0.01	0.06	1
+7000	979	80	3	785	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	979	80	3.2	353	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	979	80	3.4	167	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	979	80	3.6	85	229453	1	30.6667	31	8.91	0.46	2.26	1
+Academic license - for non-commercial use only
+7000	979	80	3.8	44	150807	0	13	13	2.69	0.17	0.92	1
+Academic license - for non-commercial use only
+7000	979	80	4	26	24761	0	6	6	0.3	0.01	0	1
+7000	980	80	3	742	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	980	80	3.2	303	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	980	80	3.4	140	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	980	80	3.6	78	616139	1	20.619	21	16.45	1.24	5.38	1
+Academic license - for non-commercial use only
+7000	980	80	3.8	43	410049	1	11	11	6.23	1.75	5.17	1
+Academic license - for non-commercial use only
+7000	980	80	4	27	141355	0	7	7	1.31	0.2	1.15	1
+7000	981	80	3	751	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	981	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	981	80	3.4	150	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	981	80	3.6	64	26721	0	24	24	0.63	0.06	0	1
+Academic license - for non-commercial use only
+7000	981	80	3.8	26	16577	0	8	8	0.13	0.02	0	1
+Academic license - for non-commercial use only
+7000	981	80	4	17	2367	0	5	5	0.01	0	0	1
+7000	982	80	3	804	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	982	80	3.2	351	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	982	80	3.4	153	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	982	80	3.6	69	59123	0	27	27	0.89	0.09	0.46	1
+Academic license - for non-commercial use only
+7000	982	80	3.8	35	56743	0	11	11	0.5	0.09	0.42	1
+Academic license - for non-commercial use only
+7000	982	80	4	22	10036	0	7	7	0.06	0.01	0	1
+7000	983	80	3	721	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	983	80	3.2	310	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	983	80	3.4	141	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	983	80	3.6	69	299727	1	22	22	9.56	0.6	1.03	1
+Academic license - for non-commercial use only
+7000	983	80	3.8	42	255790	0	13	13	4	0.44	0.88	1
+Academic license - for non-commercial use only
+7000	983	80	4	23	37280	1	7	7	0.23	0.04	0.3	1
+7000	984	80	3	795	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	984	80	3.2	340	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	984	80	3.4	151	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	984	80	3.6	69	80770	1	21.75	22	2.05	0.24	1.9	1
+Academic license - for non-commercial use only
+7000	984	80	3.8	36	27265	0	9	9	0.56	0.1	0	1
+Academic license - for non-commercial use only
+7000	984	80	4	15	1836	0	4	4	0.01	0	0	1
+7000	985	80	3	748	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	985	80	3.2	335	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	985	80	3.4	137	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	985	80	3.6	74	450713	0	23	23	11.11	5.52	12.38	1
+Academic license - for non-commercial use only
+7000	985	80	3.8	42	298604	1	8.5	9	3.65	0.49	2.68	1
+Academic license - for non-commercial use only
+7000	985	80	4	23	57385	0	4	4	0.41	0.07	0	1
+7000	986	80	3	788	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	986	80	3.2	333	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	986	80	3.4	159	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	986	80	3.6	66	109877	1	22.6667	23	2.7	0.22	1.31	1
+Academic license - for non-commercial use only
+7000	986	80	3.8	35	82352	0	7	7	0.94	0.08	5.33	1
+Academic license - for non-commercial use only
+7000	986	80	4	22	9606	0	5	5	0.11	0.01	0	1
+7000	987	80	3	791	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	987	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	987	80	3.4	142	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	987	80	3.6	58	21332	0	22	22	0.34	0.02	0.15	1
+Academic license - for non-commercial use only
+7000	987	80	3.8	33	15339	0	11	11	0.15	0.02	0	1
+Academic license - for non-commercial use only
+7000	987	80	4	19	1795	0	5	5	0.01	0	0	1
+7000	988	80	3	825	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	988	80	3.2	353	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	988	80	3.4	158	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	988	80	3.6	74	51939	0	31	31	1.19	0.09	0	1
+Academic license - for non-commercial use only
+7000	988	80	3.8	31	26125	0	10	10	0.15	0.02	0.18	1
+Academic license - for non-commercial use only
+7000	988	80	4	21	7174	0	6	6	0.04	0	0	1
+7000	989	80	3	777	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	989	80	3.2	353	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	989	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	989	80	3.6	66	73604	1	22	22	1.69	0.13	0.58	1
+Academic license - for non-commercial use only
+7000	989	80	3.8	37	51525	1	11	11	0.75	0.05	0.39	1
+Academic license - for non-commercial use only
+7000	989	80	4	23	6203	0	8	8	0.04	0	0	1
+7000	990	80	3	799	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	990	80	3.2	331	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	990	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	990	80	3.6	76	80843	1	24.7143	25	2.36	0.2	0.98	1
+Academic license - for non-commercial use only
+7000	990	80	3.8	39	38916	0	10	10	0.43	0.06	0.28	1
+Academic license - for non-commercial use only
+7000	990	80	4	20	10512	1	3.5	4	0.06	0	0.09	1
+7000	991	80	3	716	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	991	80	3.2	321	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	991	80	3.4	144	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	991	80	3.6	61	21115	0	22	22	0.53	0.03	0	1
+Academic license - for non-commercial use only
+7000	991	80	3.8	29	4701	0	12	12	0.05	0	0	1
+Academic license - for non-commercial use only
+7000	991	80	4	13	1032	0	3	3	0	0	0	1
+7000	992	80	3	793	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	992	80	3.2	327	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	992	80	3.4	152	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	992	80	3.6	79	186213	1	28.5	29	3.66	0.38	1.84	1
+Academic license - for non-commercial use only
+7000	992	80	3.8	42	167691	0	11	11	2.06	0.27	0	1
+Academic license - for non-commercial use only
+7000	992	80	4	25	60078	0	5	5	0.54	0.11	0	1
+7000	993	80	3	694	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	993	80	3.2	301	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	993	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	993	80	3.6	64	71673	0	24	24	1.2	0.14	0	1
+Academic license - for non-commercial use only
+7000	993	80	3.8	36	21938	0	13	13	0.27	0.02	0.24	1
+Academic license - for non-commercial use only
+7000	993	80	4	19	3859	0	5	5	0.05	0.01	0	1
+7000	994	80	3	779	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	994	80	3.2	322	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	994	80	3.4	143	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	994	80	3.6	76	129000	1	24.5	25	3.93	0.37	3.05	1
+Academic license - for non-commercial use only
+7000	994	80	3.8	49	87065	0	16	16	1.73	0.17	0.91	1
+Academic license - for non-commercial use only
+7000	994	80	4	27	9243	0	9	9	0.09	0.01	0	1
+7000	995	80	3	766	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	995	80	3.2	327	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	995	80	3.4	162	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	995	80	3.6	93	1782259	1	36.5	37	41.04	17.57	34.2	1
+Academic license - for non-commercial use only
+7000	995	80	3.8	54	847538	1	13	13	15	0.75	25.1	1
+Academic license - for non-commercial use only
+7000	995	80	4	32	96522	0	8	8	1.24	0.18	0.86	1
+7000	996	80	3	832	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	996	80	3.2	338	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	996	80	3.4	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	996	80	3.6	87	120880	0	32	32	3.31	0.26	0.94	1
+Academic license - for non-commercial use only
+7000	996	80	3.8	52	67478	1	17.75	18	1.07	0.09	0.61	1
+Academic license - for non-commercial use only
+7000	996	80	4	29	17296	0	9	9	0.15	0.01	0	1
+7000	997	80	3	734	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	997	80	3.2	344	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	997	80	3.4	168	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	997	80	3.6	79	167471	0	32	32	3.6	0.3	1.2	1
+Academic license - for non-commercial use only
+7000	997	80	3.8	42	120697	0	13	13	1.63	0.15	0	1
+Academic license - for non-commercial use only
+7000	997	80	4	21	13310	0	5	5	0.1	0.01	0.1	1
+7000	998	80	3	789	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	998	80	3.2	327	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	998	80	3.4	147	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	998	80	3.6	77	65958	0	29	29	1.37	0.14	0	1
+Academic license - for non-commercial use only
+7000	998	80	3.8	41	25713	0	11	11	0.32	0.05	0.19	1
+Academic license - for non-commercial use only
+7000	998	80	4	20	2987	0	6	6	0.01	0	0.03	1
+7000	999	80	3	746	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	999	80	3.2	317	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	999	80	3.4	160	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	999	80	3.6	86	282999	0	27	27	7.59	0.83	0	1
+Academic license - for non-commercial use only
+7000	999	80	3.8	50	117482	0	14	14	1.86	0.21	2.53	1
+Academic license - for non-commercial use only
+7000	999	80	4	22	20703	0	6	6	0.17	0.01	0	1
+7000	1000	80	3	875	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	1000	80	3.2	374	0	0	0.0	0.0	0.0	0.0	0.0	0
+7000	1000	80	3.4	165	0	0	0.0	0.0	0.0	0.0	0.0	0
+Academic license - for non-commercial use only
+7000	1000	80	3.6	85	88694	1	35.75	36	2.65	0.2	1.37	1
+Academic license - for non-commercial use only
+7000	1000	80	3.8	43	77293	1	11.3333	12	0.95	0.11	1.91	1
+Academic license - for non-commercial use only
+7000	1000	80	4	26	11814	0	7	7	0.08	0.01	0	1
