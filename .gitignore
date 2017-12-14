@@ -1,6 +1,5 @@
 *.o
 *.dat
-*.txt
 *.csv
 *.exe
 *.sw*
