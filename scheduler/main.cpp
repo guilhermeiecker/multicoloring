@@ -11,6 +11,7 @@
 #include <iomanip>      // std::setprecision
 #include <ctime>	// clock
 #include <limits>
+#include <bitset>
 
 #include "Enumerator.h"
 #include "gurobi_c++.h"
@@ -40,7 +41,8 @@ int main(int argc, char** argv)
 	double y, zLP, zIP, ratio;
 	double enumt, linpt, intpt; // enumt: enumeration time; linpt: simplex time; intpt: b&b time
 	bool fract, multi;
-
+	string varName;
+	
 	Network* network;
 	Enumerator* enumerator;
 
@@ -55,6 +57,8 @@ int main(int argc, char** argv)
 		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t0" << endl;
 		return 0;
 	}
+
+	network->print_links();
 
 	t = clock();
 
@@ -80,7 +84,6 @@ int main(int argc, char** argv)
 			return 0;
 		}
 
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t" << flush;
 
 		for(uint64_t i = 0; i < links; i++) model.addConstr(constraints[i], GRB_EQUAL, 1);
 
@@ -96,9 +99,10 @@ int main(int argc, char** argv)
 		fract = false;
 		for (uint64_t i = 0; i < fsets; i++) {
 			y = vars[i].get(GRB_DoubleAttr_X);
+			varName = vars[i].get(GRB_StringAttr_VarName);
 			if((y > 0.0)) {
 				fract = true;
-				cout << "x[" << i << "] = " << y << endl;
+				cout << "x[" << varName << "] = " << y << endl;
 			}
 		}
 
@@ -127,6 +131,7 @@ int main(int argc, char** argv)
 		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
 		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
 
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t" << flush;
 		cout << fract << "\t" << multi << "\t" << fixed << zLP << "\t" << zIP << "\t" << ratio << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t1" << endl;
 
 		return 0;

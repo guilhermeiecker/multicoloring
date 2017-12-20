@@ -113,8 +113,8 @@ double Network::get_alpha() { return alpha; }
 double Network::get_tpower() { return tpower_dBm; }
 
 void Network::printNetwork() {
-	cout << nodes.length() << endl;
-	cout << links.length() << endl;
+	cout << nodes.size() << endl;
+	cout << links.size() << endl;
 	print_nodes();
 	print_links();
 }

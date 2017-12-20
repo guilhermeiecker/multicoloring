@@ -76,7 +76,7 @@ void Enumerator::find_fset(uint128_t x) {
 	add_link(limit);
 	if (is_feasible()) {
 		f++;
-		GRBVar tmp = model->addVar(0.0, 1.0, 1.0, GRB_CONTINUOUS);
+		GRBVar tmp = model->addVar(0.0, 1.0, 1.0, GRB_CONTINUOUS, to_string((uint64_t)x));
 		for (vector<Link*>::iterator i = cset.begin(); i != cset.end(); ++i) constraints[(*i)->get_id()] += tmp;
 		for (uint64_t i = 0; i < limit; i++) find_fset(x + pow2(i));
 	}
