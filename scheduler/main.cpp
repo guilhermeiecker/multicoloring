@@ -96,9 +96,9 @@ int main(int argc, char** argv)
 		fract = false;
 		for (uint64_t i = 0; i < fsets; i++) {
 			y = vars[i].get(GRB_DoubleAttr_X);
-			if((y > 0.0) && (y < 1.0)) {
+			if((y > 0.0)) {
 				fract = true;
-				break;
+				cout << "x[" << i << "] = " << y << endl;
 			}
 		}
 
