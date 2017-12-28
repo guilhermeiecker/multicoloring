@@ -96,15 +96,13 @@ int main(int argc, char** argv)
 		zLP = model.get(GRB_DoubleAttr_ObjVal);
 		GRBVar* vars = model.getVars();
 
-		cout << "Showing Multicoloring Scheduling results..." << endl;
 		fract = false;
 		for (uint64_t i = 0; i < fsets; i++) {
 			y = vars[i].get(GRB_DoubleAttr_X);
 			varName = vars[i].get(GRB_StringAttr_VarName);
 			if((y > 0.0)) {
 				fract = true;
-				bitset<64> x(stoi(varName));
-				cout << "x[" << varName << "]\t" << x << "\t" << y << endl;
+				cout << "x[" << varName << "] = " << y << endl;
 			}
 		}
 
@@ -120,16 +118,6 @@ int main(int argc, char** argv)
 		} else {
 			zIP = zLP;
 		}
-		
-		cout << "Showing Traditional Coloring Scheduling..." << endl;
-		for (uint64_t i = 0; i < fsets; i++) {
-                        y = vars[i].get(GRB_DoubleAttr_X);
-                        varName = vars[i].get(GRB_StringAttr_VarName);
-                        if((y > 0.0)) {
-                        	bitset<64> x(stoi(varName));
-                                cout << "x[" << varName << "]\t" << x << "\t" << y << endl;
-                        }
-                }
 
 		delete[] vars;
 
