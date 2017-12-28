@@ -9,7 +9,6 @@
 #include <iostream>	// cout, endl
 #include <stdint.h>	// uint64_t
 #include <iomanip>      // std::setprecision
-#include <ctime>	// clock
 #include <limits>
 #include <bitset>
 
@@ -23,14 +22,12 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	if(argc != 5)
+	if(argc != 4)
 	{
 		cout << "Missing arguments!" << endl;
-		cout << "USAGE: ./main <area side> <network id> <number of nodes> <alpha>" << endl;
+		cout << "USAGE: ./main <area side> <network id> <number of nodes>" << endl;
 		return 0;
 	}
-
-	clock_t t, tt, ttt, tttt;
 
 	double aside = (double)atof(argv[1]);
 	int    netid = atoi(argv[2]);
@@ -38,9 +35,7 @@ int main(int argc, char** argv)
 	double alpha = (double)atof(argv[4]);
 
 	uint64_t links, fsets;
-	double y, zLP, zIP, ratio;
-	double enumt, linpt, intpt; // enumt: enumeration time; linpt: simplex time; intpt: b&b time
-	bool fract, multi;
+	double y, zLP, zIP;
 	string varName;
 	
 	Network* network;
@@ -51,20 +46,10 @@ int main(int argc, char** argv)
 	network = new Network(nodes, aside, 300.0, alpha);
 	links = network->get_links().size();
 
-	cout.precision(dbl::max_digits10);
-
-	if ((links == 0) || (links > 128)) {
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t0" << endl;
-		return 0;
-	}
-
-	network->print_links();
-
-	t = clock();
+	cout.precision(dbl::max_digits10)
 
 	try {
 		GRBEnv env = GRBEnv();
-		//env.set(GRB_DoubleParam_TimeLimit, 1800.0);
 		env.set(GRB_IntParam_OutputFlag, 0);
 
 		GRBModel model = GRBModel(env);
@@ -79,49 +64,35 @@ int main(int argc, char** argv)
 		enumerator->find_fset_entry();
 		fsets = enumerator->get_fset();
 
-		if (fsets == 0) {
-			cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t0" << endl;
-			return 0;
-		}
-
-
 		for(uint64_t i = 0; i < links; i++) model.addConstr(constraints[i], GRB_EQUAL, 1);
 
 		delete enumerator;
 		delete network;
 
-		tt = clock();
-
 		model.optimize();
 		zLP = model.get(GRB_DoubleAttr_ObjVal);
 		GRBVar* vars = model.getVars();
 
-		cout << "Showing Multicoloring Scheduling results..." << endl;
-		fract = false;
+		cout << "Multicoloring Scheduling" << endl;
+		cout << "Variable\tFeasible Set\tDecimal Value\tFractional Value" << endl;
+
 		for (uint64_t i = 0; i < fsets; i++) {
 			y = vars[i].get(GRB_DoubleAttr_X);
 			varName = vars[i].get(GRB_StringAttr_VarName);
 			if((y > 0.0)) {
-				fract = true;
 				bitset<64> x(stoi(varName));
 				cout << "x[" << varName << "]\t" << x << "\t" << y << endl;
 			}
 		}
 
-		ttt = clock();
+		for(uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
+		model.update();
+		model.optimize();
 
-		if (fract) {
-			for(uint64_t i = 0; i < fsets; i++) vars[i].set(GRB_CharAttr_VType, GRB_BINARY);
-
-			model.update();
-			model.optimize();
-
-			zIP = model.get(GRB_DoubleAttr_ObjVal);
-		} else {
-			zIP = zLP;
-		}
+		zIP = model.get(GRB_DoubleAttr_ObjVal);
 		
-		cout << "Showing Traditional Coloring Scheduling..." << endl;
+		cout << "Traditional Coloring Scheduling" << endl;
+		cout << "Variable\tFeasible Set\tDecimal Value\tFractional Value" << endl;
 		for (uint64_t i = 0; i < fsets; i++) {
                         y = vars[i].get(GRB_DoubleAttr_X);
                         varName = vars[i].get(GRB_StringAttr_VarName);
@@ -131,20 +102,9 @@ int main(int argc, char** argv)
                         }
                 }
 
+		cout << "zLP=" << zLP << " zIP=" << zIP << endl;
+
 		delete[] vars;
-
-		tttt = clock();
-
-		if (zLP < zIP) multi = true;
-		else multi = false;
-
-		ratio = zLP / zIP;
-		enumt = double(tt - t)     / CLOCKS_PER_SEC;
-		linpt = double(ttt - tt)   / CLOCKS_PER_SEC;
-		intpt = double(tttt - ttt) / CLOCKS_PER_SEC;
-
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t" << flush;
-		cout << fract << "\t" << multi << "\t" << fixed << zLP << "\t" << zIP << "\t" << ratio << "\t" << enumt << "\t" << linpt << "\t" << intpt << "\t1" << endl;
 
 		return 0;
 	}

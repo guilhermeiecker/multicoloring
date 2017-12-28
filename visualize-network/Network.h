@@ -41,6 +41,8 @@ public:
 		max_range = d0*pow(10, (tpower_dBm - noise_dBm - beta_dB - l0_dB) / (10 * alpha));
 		set_nodes();
 		set_links();
+		//print_nodes();
+		//print_links();
 	}
 
 	vector<Node> get_nodes();
@@ -52,12 +54,17 @@ public:
 	Link* get_link(uint128_t);
 	void print_links();
 	void print_nodes();
+
+	void printNodes();
+	void printLinks();
 	void printNetwork();
 
 	uint64_t get_delta();
 	double get_alpha();
 	double get_tpower();
 };
+
+#include "Network.h"
 
 vector<Node> Network::get_nodes() { return nodes; }
 
@@ -102,19 +109,33 @@ void Network::set_links() {
 Link* Network::get_link(uint128_t idx) { return &(links[idx]); }
 
 void Network::print_links() {
-	for (vector<Link>::iterator i = links.begin(); i != links.end(); ++i) cout << (*i).get_sender()->get_id() << "\t" << (*i).get_recver()->get_id() << endl;
+	cout << "Printing links..." << endl;
+	for (vector<Link>::iterator i = links.begin(); i != links.end(); ++i)
+		cout << "Link id=" << i->get_id() << " sender(id=" << (*i).get_sender()->get_id() << ", deg=" << (*i).get_sender()->get_degree() << ") receiver(id=" << (*i).get_recver()->get_id() << ", deg=" << (*i).get_recver()->get_degree() << ")" << endl;
 }
 
 void Network::print_nodes() {
-	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i) cout << i->get_id() << endl;
+	cout << "Printing nodes..." << endl;
+	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i)
+                cout << "Node id=" << i->get_id() << " (" << i->get_x() << "," << i->get_y() << ")" << endl;
 }
 
-double Network::get_alpha() { return alpha; }
-double Network::get_tpower() { return tpower_dBm; }
+void Network::printNodes() {
+	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i) 
+		cout << i->get_x() << "\t" << i->get_y() << endl;
+}
 
+void Network::printLinks() {
+	for (vector<Link>::iterator i = links.begin(); i != links.end(); ++i) 
+		cout << (*i).get_sender()->get_id() << "\t" << (*i).get_recver()->get_id() << endl;
+}
 void Network::printNetwork() {
 	cout << nodes.size() << endl;
 	cout << links.size() << endl;
-	print_nodes();
-	print_links();
+	printNodes();
+	printLinks();
 }
+
+
+double Network::get_alpha() { return alpha; }
+double Network::get_tpower() { return tpower_dBm; }
