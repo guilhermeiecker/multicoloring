@@ -16,7 +16,7 @@
 
 #include "gurobi_c++.h"
 
-#define MAX 2331756040 // a=8000,n=117,r=390,m=40
+#define MAX 2000000000 // a=8000,n=117,r=390,m=40
 
 typedef unsigned __int128 uint128_t;
 
@@ -65,18 +65,16 @@ void Enumerator::find_fset_entry() {
 }
 
 void Enumerator::find_fset(uint128_t x) {
-/*
 	if (f >= stop) {
 		f = 0;
 		stop = 0;
 		return;
 	}
-*/
 	uint64_t limit = log2(x);
 	add_link(limit);
 	if (is_feasible()) {
 		f++;
-		GRBVar tmp = model->addVar(0.0, 1.0, 1.0, GRB_CONTINUOUS, to_string((uint64_t)x));
+		GRBVar tmp = model->addVar(0.0, 1.0, 1.0, GRB_CONTINUOUS);
 		for (vector<Link*>::iterator i = cset.begin(); i != cset.end(); ++i) constraints[(*i)->get_id()] += tmp;
 		for (uint64_t i = 0; i < limit; i++) find_fset(x + pow2(i));
 	}

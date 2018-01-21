@@ -32,7 +32,6 @@ int main(int argc, char** argv)
 	double aside = (double)atof(argv[1]);
 	int    netid = atoi(argv[2]);
 	int    nodes = atoi(argv[3]);
-	double alpha = (double)atof(argv[4]);
 
 	uint64_t links, fsets;
 	double y, zLP, zIP;
@@ -43,10 +42,10 @@ int main(int argc, char** argv)
 
 	srand(netid);
 
-	network = new Network(nodes, aside, 300.0, alpha);
+	network = new Network(nodes, aside, 300.0, 4.0);
 	links = network->get_links().size();
 
-	cout.precision(dbl::max_digits10)
+	cout.precision(dbl::max_digits10);
 
 	try {
 		GRBEnv env = GRBEnv();
@@ -81,7 +80,7 @@ int main(int argc, char** argv)
 			varName = vars[i].get(GRB_StringAttr_VarName);
 			if((y > 0.0)) {
 				bitset<64> x(stoi(varName));
-				cout << "x[" << varName << "]\t" << x << "\t" << y << endl;
+				cout << "x[" << varName << "]\t" << x << "\t" << y << "\t" << y << endl;
 			}
 		}
 
@@ -98,11 +97,11 @@ int main(int argc, char** argv)
                         varName = vars[i].get(GRB_StringAttr_VarName);
                         if((y > 0.0)) {
                         	bitset<64> x(stoi(varName));
-                                cout << "x[" << varName << "]\t" << x << "\t" << y << endl;
+                                cout << "x[" << varName << "]\t" << x << "\t" << y << "\t" << y << endl;
                         }
                 }
 
-		cout << "zLP=" << zLP << " zIP=" << zIP << endl;
+		cout << "zLP=" << zLP << " zIP=" << zIP << " zLP/zIP=" << zLP/zIP << endl;
 
 		delete[] vars;
 
