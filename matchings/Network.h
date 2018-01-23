@@ -9,6 +9,7 @@
 
 #include <stdint.h>	// uint64_t
 #include <iostream>	// cout
+#include <fstream>	//ifstream
 #include <vector>		// vector
 #include <math.h>		// pow, log10
 
@@ -43,6 +44,33 @@ public:
 		set_links();
 	}
 
+	Network(string _f) {
+		uint64_t num_links, coin, u, v;
+		double dist, pr;
+
+		tpower_dBm = 10 * log10(tpower);
+		max_range = d0*pow(10, (tpower_dBm - noise_dBm - beta_dB - l0_dB) / (10 * alpha));
+		area_side = 3000.0;
+		tpower = 300.0;
+		alpha = 4.0;
+
+		ifstream file(_f);
+
+		file >> num_nodes;
+		file >> num_links;
+
+		set_nodes();
+		for(uint64_t i = 0; i < num_links; i++) {
+			file >> u >> v;
+			dist = nodes[u].distance(nodes[v]);
+			pr = (dist > d0) ? pow(10.0, ((tpower_dBm - l0_dB - 10*alpha*log10(dist / d0))/10.0)) : pow(10.0, ((tpower_dBm - l0_dB) / 10.0));
+			coin = random();
+			if (coin % 2) links.push_back(Link(&nodes[u], &nodes[v], i, dist, pr));
+			else          links.push_back(Link(&nodes[v], &nodes[u], i, dist, pr));
+		}
+		
+	}
+
 	vector<Node> get_nodes();
 	vector<Link> get_links();
 
@@ -52,13 +80,12 @@ public:
 	Link* get_link(uint128_t);
 	void print_links();
 	void print_nodes();
+	void printNetwork();
 
 	uint64_t get_delta();
 	double get_alpha();
 	double get_tpower();
 };
-
-#include "Network.h"
 
 vector<Node> Network::get_nodes() { return nodes; }
 
@@ -103,16 +130,19 @@ void Network::set_links() {
 Link* Network::get_link(uint128_t idx) { return &(links[idx]); }
 
 void Network::print_links() {
-	cout << "Printing links..." << endl;
-	for (vector<Link>::iterator i = links.begin(); i != links.end(); ++i)
-		cout << "Link id=" << i->get_id() << " sender(id=" << (*i).get_sender()->get_id() << ", deg=" << (*i).get_sender()->get_degree() << ") receiver(id=" << (*i).get_recver()->get_id() << ", deg=" << (*i).get_recver()->get_degree() << ")" << endl;
+	for (vector<Link>::iterator i = links.begin(); i != links.end(); ++i) cout << (*i).get_sender()->get_id() << "\t" << (*i).get_recver()->get_id() << endl;
 }
 
 void Network::print_nodes() {
-	cout << "Printing nodes..." << endl;
-	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i)
-                cout << "Node id=" << i->get_id() << " (" << i->get_x() << "," << i->get_y() << ")" << endl;
+	for (vector<Node>::iterator i = nodes.begin(); i != nodes.end(); ++i) cout << i->get_id() << endl;
 }
 
 double Network::get_alpha() { return alpha; }
 double Network::get_tpower() { return tpower_dBm; }
+
+void Network::printNetwork() {
+	cout << nodes.size() << endl;
+	cout << links.size() << endl;
+	print_nodes();
+	print_links();
+}

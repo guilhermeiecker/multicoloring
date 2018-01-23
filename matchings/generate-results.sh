@@ -11,7 +11,7 @@
 
 for aside in 6000 5000 4000 3000 2000 1000
 do
-	for netid in {1..100}
+	for netid in {201..300}
 	do
 		for nodes in 10 20 30 40 50
 		do
