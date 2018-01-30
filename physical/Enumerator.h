@@ -101,9 +101,9 @@ void Enumerator::add_link(uint64_t index) {
 double Enumerator::calculate_interference(Node* a, Node* b) {
 	double dist = a->distance(*b);
 	if (dist > network->get_d0())
-		return pow(10.0, ((network->get_tpower_mW() - network->get_l0_dB() - 10 * network->get_alpha()*log10(dist / network->get_d0())) / 10.0));
+		return pow(10.0, ((network->get_tpower_dBm() - network->get_l0_dB() - 10 * network->get_alpha()*log10(dist / network->get_d0())) / 10.0));
 	else
-    		return pow(10.0, network->get_tpower_mW() - network->get_l0_dB() / 10.0);
+    		return pow(10.0, network->get_tpower_dBm() - network->get_l0_dB() / 10.0);
 }
 
 bool Enumerator::is_feasible() {

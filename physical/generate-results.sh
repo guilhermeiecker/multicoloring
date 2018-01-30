@@ -9,17 +9,38 @@
 # 2 -> m > 128
 # 3 -> f > max
 
-for power in 300 100 200 400 500
+for power in 300 #100 200 400 500
 do
-	for beta in 25 10 15 20 30 35 40
+	for beta in 25 #10 15 20 30 35 40
 	do
-		for alpha in 4 2 3 5
+		for alpha in 4 #2 3 5
 		do
-			for aside in 10000 9000 8000 7000 6000
+			for aside in 8000
+			do
+				for netid in {386..1000}
+				do
+					for nodes in 100
+					do
+						echo "Running for $aside $netid $nodes $power $alpha $beta"
+                                                output="$(./main.exe $aside $netid $nodes $power $alpha $beta)"
+                                                IFS=$'\n' read -r -a array1 -d '' <<< "$output"
+                                                if [[ "${array1[0]}" == *"ERROR"* ]]; then
+                                                        continue
+                                                fi
+                                                IFS=$'\t' read -r -a array2 <<< "${array1[1]}"
+                                                echo "${array1[1]}" >> results/$aside-$nodes.txt
+                                                if [[ "${array[16]}" -gt 1 ]]; then
+                                                        break
+                                                fi
+					done
+				done
+			done
+
+			for aside in 7000 6000 5000 4000 3000 2000 1000 
 			do
 				for netid in {1..1000}
 				do
-					for nodes in 10 20 30 40 50 60 70 80 90 100
+					for nodes in 80 90 100
 					do
 						echo "Running for $aside $netid $nodes $power $alpha $beta"
 						output="$(./main.exe $aside $netid $nodes $power $alpha $beta)"
@@ -29,29 +50,8 @@ do
 						fi
 						IFS=$'\t' read -r -a array2 <<< "${array1[1]}"
 						echo "${array1[1]}" >> results/$aside-$nodes.txt
-						if [[ "${array[14]}" -gt 1 ]]; then
+						if [[ "${array[16]}" -gt 1 ]]; then
 							break
-						fi
-					done
-				done
-			done
-
-			for aside in 5000 4000 3000 2000 1000
-			do
-				for netid in {1..1000}
-				do
-					for nodes in 10 20 30 40 50
-					do
-						echo "Running for $aside $netid $nodes $power $alpha $beta"
-						output="$(./main.exe $aside $netid $nodes $power $alpha $beta)"
-						IFS=$'\n' read -r -a array1 -d '' <<< "$output"
-						if [[ "${array1[0]}" == *"ERROR"* ]]; then
-						        continue
-						fi
-						IFS=$'\t' read -r -a array2 <<< "${array1[1]}"
-						echo "${array1[1]}" >> results/$aside-$nodes.txt
-						if [[ "${array[14]}" -gt 1 ]]; then
-						        break
 						fi
 					done
 				done

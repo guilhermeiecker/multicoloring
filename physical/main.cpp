@@ -16,7 +16,7 @@
 #include "Enumerator.h"
 #include "gurobi_c++.h"
 
-#define THRESHOLD 0.00000000000001
+#define THRESHOLD 0.0000000001
 
 typedef unsigned __int128 uint128_t;
 typedef std::numeric_limits< double > dbl;
@@ -25,8 +25,6 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	cout.precision(dbl::max_digits10);
-
 	if(argc != 7)
 	{
 		cout << "Missing arguments!" << endl;
@@ -54,16 +52,16 @@ int main(int argc, char** argv)
 	srand(netid);
 
 	network = new Network(nodes, aside, power, alpha, betaa);
-	links = network->get_links().size();
+	links = network->get_m();
 
 	if (links == 0) {
 		cout << "ERROR: No links" << endl;
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t1" << endl;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << power << "\t" << alpha << "\t" << betaa << "\t" << links << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t1" << endl;
 		return 0;
 	}
 	if (links > 128) {
 		cout << "ERROR: Too many links (>128)" << endl;
-                cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t2" << endl;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << power << "\t" << alpha << "\t" << betaa << "\t" << links << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t2" << endl;
 		return 0;
 	}
 
@@ -71,7 +69,6 @@ int main(int argc, char** argv)
 
 	try {
 		GRBEnv env = GRBEnv();
-		//env.set(GRB_DoubleParam_TimeLimit, 1800.0);	// tempo limite de 30min
 		env.set(GRB_IntParam_OutputFlag, 0);		// não imprimir  os detalhes da otimização
 
 		GRBModel model = GRBModel(env);
@@ -88,11 +85,11 @@ int main(int argc, char** argv)
 
 		if (fsets == 0) {
 			cout << "ERROR: Too many feasible sets (>max)" << endl;
-			cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t3" << endl;
+			cout << aside << "\t" << netid << "\t" << nodes << "\t" << power << "\t" << alpha << "\t" << betaa << "\t" << links << "\t" << fsets << "\t0\t0\t0\t0.0\t0.0\t0.0\t0.0\t0.0\t0.0\t2" << endl;
 			return 0;
 		}
 
-		cout << aside << "\t" << netid << "\t" << nodes << "\t" << alpha << "\t" << links << "\t" << fsets << "\t" << flush;
+		cout << aside << "\t" << netid << "\t" << nodes << "\t" << power << "\t" << alpha << "\t" << betaa << "\t" << links << "\t" << fsets << "\t" << flush;
 
 		for(uint64_t i = 0; i < links; i++) model.addConstr(constraints[i], GRB_EQUAL, 1);
 
@@ -116,7 +113,6 @@ int main(int argc, char** argv)
 					fract = true;
 					break;
 				}
-				/*
 				if((y - floor(y)) > THRESHOLD) {
 					fract = true;
 					break;
@@ -125,7 +121,6 @@ int main(int argc, char** argv)
 					fract = true;
 					break;
 				}
-				*/
 		}
 
 		ttt = clock();

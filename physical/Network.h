@@ -115,6 +115,7 @@ Network::Network(uint64_t _n = 100, double _a = 3000.0, double _p = 300.0, doubl
 		set_tpower_dBm();
 		set_beta_mW();
 		set_max_range();
+		set_m(0);
 
 		// setting basic data structure
 		set_nodes();
@@ -311,12 +312,15 @@ void Network::set_links() {
 				coin = random();
 				switch (coin % 3) {
 					case 0:	
+						m = m + 1;
 						links.push_back(Link(&(*i), &(*j), index++, dist, pr));
 						break;
 					case 1:	
+						m = m + 1;
 						links.push_back(Link(&(*j), &(*i), index++, dist, pr));
 						break;
 					case 2:
+						m = m + 2;
 						links.push_back(Link(&(*i), &(*j), index++, dist, pr));
 						links.push_back(Link(&(*j), &(*i), index++, dist, pr));
 						break;
