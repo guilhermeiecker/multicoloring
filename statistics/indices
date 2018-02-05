@@ -1,0 +1,38 @@
+DEPOIS DO EXPERIMENTO
+00: aside
+01: netid
+02: nodes
+03: power
+04: alpha
+05: betaa
+06: links
+07: fsets
+08: fract
+09: multi
+10: zlp
+11: zip
+12: ratio
+13: enumt
+14: linpt
+15: intpt
+16: sflag
+
+
+DEPOIS DO OCTAVE
+01: aside
+02: netid
+04: nodes
+06: power
+08: alpha
+10: betaa
+12: links
+14: fsets
+16: fract
+18: multi
+20: zLP
+22: zIP
+24: ratio
+26: enumt
+28: limpt
+30: intpt
+

@@ -18,6 +18,7 @@
 
 #define MAX 2000000000 // a=8000,n=117,r=390,m=40
 
+typedef unsigned __int256 uint256_t;
 typedef unsigned __int128 uint128_t;
 
 using namespace std;
