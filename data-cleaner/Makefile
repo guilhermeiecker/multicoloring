@@ -35,6 +35,9 @@ clean-multi:
 clean-notfract:
 	rm notfract-nodes-data/* notfract-links-data/* notfract-fsets-data/*
 
-clean-data: clean-original clean-processed clean-geral clean-fract clean-multi clean-notfract
+clean-notmulti:
+	rm notmulti-nodes-data/* notmulti-links-data/* notmulti-fsets-data/*
+
+clean-data: clean-original clean-processed clean-geral clean-fract clean-multi clean-notfract clean-notmulti
 
 clean-all: clean clean-data

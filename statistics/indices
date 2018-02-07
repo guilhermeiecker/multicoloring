@@ -27,12 +27,18 @@ DEPOIS DO OCTAVE
 10: betaa
 12: links
 14: fsets
-16: fract
-18: multi
-20: zLP
-22: zIP
-24: ratio
-26: enumt
-28: limpt
-30: intpt
-
+16: log_fsets
+18: ordem_fsets
+20: fract
+22: multi
+24: zLP
+26: 1/zLP
+28: zIP
+30: 1/zIP
+32: ratio
+34: enumt
+36: log_enumt
+38: linpt
+40: log_linpt
+42: intpt
+44: log_intpt

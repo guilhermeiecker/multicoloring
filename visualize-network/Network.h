@@ -41,8 +41,8 @@ public:
 		max_range = d0*pow(10, (tpower_dBm - noise_dBm - beta_dB - l0_dB) / (10 * alpha));
 		set_nodes();
 		set_links();
-		//print_nodes();
-		//print_links();
+		print_nodes();
+		print_links();
 	}
 
 	vector<Node> get_nodes();
@@ -89,14 +89,14 @@ void Network::set_links() {
 			if (dist <= max_range) {
 				pr = (dist > d0) ? pow(10.0, ((tpower_dBm - l0_dB - 10*alpha*log10(dist / d0))/10.0)) : pow(10.0, ((tpower_dBm - l0_dB) / 10.0));
 				coin = random();
-				switch (coin % 3) {
+				switch (coin % 2) {
 					case 0:	
 						links.push_back(Link(&(*i), &(*j), index++, dist, pr));
 						break;
 					case 1:	
 						links.push_back(Link(&(*j), &(*i), index++, dist, pr));
 						break;
-					case 2:
+					default:
 						links.push_back(Link(&(*i), &(*j), index++, dist, pr));
 						links.push_back(Link(&(*j), &(*i), index++, dist, pr));
 						break;
